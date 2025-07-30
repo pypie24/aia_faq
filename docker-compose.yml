@@ -1,0 +1,45 @@
+services:
+  web:
+    build: .
+    container_name: faq_service
+    ports:
+      - 8000:8000
+    env_file:
+      - .env
+    environment:
+      - OPENAI_HOST=${OPENAI_HOST}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL}
+      - ENVIRONMENT=${ENVIRONMENT}
+      - POSTGRES_HOST=${POSTGRES_HOST}
+      - POSTGRES_PORT=${POSTGRES_PORT}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+    volumes:
+      - ./:/app/:u+rw
+    networks:
+      - faq-network
+
+  db:
+    image: postgres:15-alpine
+    container_name: faq_db
+    env_file:
+      - .env
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - 5432:5432
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    networks:
+      - faq-network
+
+volumes:
+  db_data:
+
+networks:
+  faq-network:
+    driver: bridge
