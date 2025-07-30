@@ -24,4 +24,6 @@
 ## Commit
 - run: `pre-commit install`
 - run: `pre-commit run --all-files`
-- commit
+- run: `git add .`
+- run: `git commit -m "message"`
+- run: `git push origin main`
