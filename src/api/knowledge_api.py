@@ -1,3 +1,5 @@
+from http import HTTPStatus
+
 from fastapi import APIRouter, Depends
 
 from src.api.dependencies import get_knowledge_service
@@ -8,11 +10,12 @@ from src.schemas.knowledge_schemas import (
     KnowledgeSchema,
 )
 
-
 router = APIRouter(prefix="/api/v1", tags=["knowledge"])
 
 
-@router.get("/knowledge", response_model=list[KnowledgeSchema])
+@router.get(
+    "/knowledge", response_model=list[KnowledgeSchema], status_code=HTTPStatus.OK
+)
 async def get_knowledges(
     skip: int = 0,
     limit: int = 20,
@@ -21,7 +24,9 @@ async def get_knowledges(
     return await knowledge_service.list(skip=skip, limit=limit)
 
 
-@router.post("/knowledge", response_model=KnowledgeSchema)
+@router.post(
+    "/knowledge", response_model=KnowledgeSchema, status_code=HTTPStatus.CREATED
+)
 async def create_knowledge(
     knowledge_data: KnowledgeCreateSchema,
     knowledge_service: KnowledgeService = Depends(get_knowledge_service),
@@ -29,7 +34,11 @@ async def create_knowledge(
     return await knowledge_service.create(knowledge_data)
 
 
-@router.get("/knowledge/{knowledge_id}", response_model=KnowledgeSchema)
+@router.get(
+    "/knowledge/{knowledge_id}",
+    response_model=KnowledgeSchema,
+    status_code=HTTPStatus.OK,
+)
 async def get_knowledge(
     knowledge_id: str,
     knowledge_service: KnowledgeService = Depends(get_knowledge_service),
@@ -37,7 +46,11 @@ async def get_knowledge(
     return await knowledge_service.get(knowledge_id)
 
 
-@router.put("/knowledge/{knowledge_id}", response_model=KnowledgeSchema)
+@router.put(
+    "/knowledge/{knowledge_id}",
+    response_model=KnowledgeSchema,
+    status_code=HTTPStatus.OK,
+)
 async def update_knowledge(
     knowledge_id: str,
     knowledge_data: KnowledgeUpdateSchema,
@@ -46,7 +59,9 @@ async def update_knowledge(
     return await knowledge_service.update(knowledge_id, knowledge_data)
 
 
-@router.delete("/knowledge/{knowledge_id}", response_model=bool)
+@router.delete(
+    "/knowledge/{knowledge_id}", response_model=bool, status_code=HTTPStatus.OK
+)
 async def delete_knowledge(
     knowledge_id: str,
     knowledge_service: KnowledgeService = Depends(get_knowledge_service),
