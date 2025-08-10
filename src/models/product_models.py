@@ -72,11 +72,15 @@ class ProductVariant(BaseModel):
     price = Column(float, nullable=False)
     stock = Column(int, nullable=False)
     specs = Column(JSON, nullable=False)
+    metadata = Column(JSON, nullable=True)
     url = Column(String, nullable=False)
     slug = Column(String, nullable=False)
 
     def __repr__(self):
-        return f"<ProductVariant(id={self.id}, product_id={self.product_id}, color={self.color}, price={self.price}, stock={self.stock}, specs={self.specs})>"
+        return (
+            f"<ProductVariant(id={self.id}, product_id={self.product_id}, "
+            f"color={self.color}, price={self.price}, stock={self.stock})>"
+        )
 
 
 class Image(BaseModel):
@@ -99,7 +103,11 @@ class ImageAssignment(BaseModel):
     sort_order = Column(Integer, nullable=False)
 
     def __repr__(self):
-        return f"<ImageAssignment(id={self.id}, image_id={self.image_id}, entity_id={self.entity_id}, entity_type={self.entity_type}, sort_order={self.sort_order})>"
+        return (
+            f"<ImageAssignment(id={self.id}, image_id={self.image_id}, "
+            f"entity_id={self.entity_id}, entity_type={self.entity_type}, "
+            f"sort_order={self.sort_order})>"
+        )
 
 
 class TagAssignment(BaseModel):
@@ -111,4 +119,8 @@ class TagAssignment(BaseModel):
     sort_order = Column(Integer, nullable=False)
 
     def __repr__(self):
-        return f"<TagAssignment(id={self.id}, tag_id={self.tag_id}, entity_id={self.entity_id}, entity_type={self.entity_type}, sort_order={self.sort_order})>"
+        return (
+            f"<TagAssignment(id={self.id}, tag_id={self.tag_id}, "
+            f"entity_id={self.entity_id}, entity_type={self.entity_type}, "
+            f"sort_order={self.sort_order})>"
+        )
