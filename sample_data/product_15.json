@@ -1,0 +1,6902 @@
+[
+  {
+    "index": 201,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 739",
+    "price": 39027003,
+    "rating": 3.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "5278mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 202,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 417",
+    "price": 23542531,
+    "rating": 4.3,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "11242mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 203,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 879",
+    "price": 19442738,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "9329mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 204,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 999",
+    "price": 5959093,
+    "rating": 4.3,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "7742mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 205,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 862",
+    "price": 39683424,
+    "rating": 3.5,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "6026mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 206,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 152",
+    "price": 21228730,
+    "rating": 3.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "10234mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 207,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 604",
+    "price": 7897298,
+    "rating": 3.6,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "11961mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 208,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 431",
+    "price": 6788336,
+    "rating": 4.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "Android 13",
+      "battery": "9461mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 209,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 551",
+    "price": 4260645,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "6500mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 210,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 338",
+    "price": 35651167,
+    "rating": 4.3,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "6276mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 211,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 747",
+    "price": 37310147,
+    "rating": 4.4,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "8318mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 212,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 156",
+    "price": 36105466,
+    "rating": 5.0,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "11771mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 213,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 671",
+    "price": 30175326,
+    "rating": 4.3,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "6321mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 214,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 725",
+    "price": 31142994,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "5062mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 215,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 381",
+    "price": 36154254,
+    "rating": 4.7,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "Android 12",
+      "battery": "5252mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 216,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 837",
+    "price": 20927717,
+    "rating": 3.7,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "9910mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 217,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 144",
+    "price": 16555717,
+    "rating": 3.8,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "11066mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 218,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 315",
+    "price": 35297443,
+    "rating": 4.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "9849mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 219,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 226",
+    "price": 32170058,
+    "rating": 4.1,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "11722mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 220,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 804",
+    "price": 31010787,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "10246mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 221,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 352",
+    "price": 3565476,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "10493mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 222,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 735",
+    "price": 25753405,
+    "rating": 4.4,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "5267mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 223,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 577",
+    "price": 24132737,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "8GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "8598mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 224,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 428",
+    "price": 14485574,
+    "rating": 4.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "5561mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 225,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 391",
+    "price": 32147916,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "5330mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 226,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 517",
+    "price": 17580521,
+    "rating": 4.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "11486mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 227,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 281",
+    "price": 29963891,
+    "rating": 4.3,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "7812mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 228,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 692",
+    "price": 25373379,
+    "rating": 4.2,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "6934mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 229,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 471",
+    "price": 11516609,
+    "rating": 4.4,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "8013mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 230,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 456",
+    "price": 10415503,
+    "rating": 4.2,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "11421mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 231,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 465",
+    "price": 13814953,
+    "rating": 4.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "Android 13",
+      "battery": "10322mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 232,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 682",
+    "price": 28543606,
+    "rating": 5.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "7688mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 233,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 685",
+    "price": 4299072,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "8480mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 234,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 860",
+    "price": 9305210,
+    "rating": 3.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "10061mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 235,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 675",
+    "price": 6880291,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "11366mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 236,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 258",
+    "price": 27860429,
+    "rating": 4.0,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "8314mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 237,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 242",
+    "price": 10443452,
+    "rating": 4.2,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "7807mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 238,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 268",
+    "price": 7050575,
+    "rating": 3.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "6379mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 239,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 694",
+    "price": 11917731,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "5789mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 240,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 818",
+    "price": 6226148,
+    "rating": 4.1,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "6GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "8389mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 241,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 597",
+    "price": 34575439,
+    "rating": 4.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "7437mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 242,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 205",
+    "price": 5317935,
+    "rating": 4.3,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "5351mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 243,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 992",
+    "price": 15866021,
+    "rating": 3.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "11373mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 244,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 144",
+    "price": 37649313,
+    "rating": 4.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "7594mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 245,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 587",
+    "price": 8854242,
+    "rating": 4.0,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "10644mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 246,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 680",
+    "price": 30632453,
+    "rating": 4.0,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "11604mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 247,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 184",
+    "price": 19313018,
+    "rating": 4.5,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "10239mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 248,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 348",
+    "price": 14655937,
+    "rating": 4.2,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "10452mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 249,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 333",
+    "price": 39118561,
+    "rating": 4.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "7805mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 250,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 884",
+    "price": 21866582,
+    "rating": 4.1,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "8408mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 251,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 302",
+    "price": 18322327,
+    "rating": 4.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "5562mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 252,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 987",
+    "price": 15704473,
+    "rating": 3.7,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "5058mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 253,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 820",
+    "price": 9430349,
+    "rating": 4.4,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "12GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "9348mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 254,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 728",
+    "price": 23717533,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "5025mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 255,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 771",
+    "price": 36767894,
+    "rating": 4.1,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "10525mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 256,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 226",
+    "price": 24629764,
+    "rating": 4.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "Android 13",
+      "battery": "8505mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 257,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 497",
+    "price": 12729708,
+    "rating": 5.0,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "5281mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 258,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 246",
+    "price": 17096204,
+    "rating": 4.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "6478mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 259,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 541",
+    "price": 15224401,
+    "rating": 3.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "6305mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 260,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 496",
+    "price": 7536880,
+    "rating": 4.1,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "5898mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 261,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 839",
+    "price": 39302899,
+    "rating": 4.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "5484mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 262,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 455",
+    "price": 39456419,
+    "rating": 5.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "8136mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 263,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 878",
+    "price": 33890325,
+    "rating": 4.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "12GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "6769mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 264,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 503",
+    "price": 7535658,
+    "rating": 4.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "7592mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 265,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 330",
+    "price": 17576212,
+    "rating": 3.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "6028mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 266,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 638",
+    "price": 27768561,
+    "rating": 4.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "6811mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 267,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 417",
+    "price": 10089189,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "11940mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 268,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 416",
+    "price": 36691944,
+    "rating": 3.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "7656mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 269,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 815",
+    "price": 16728398,
+    "rating": 4.6,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "9362mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 270,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 940",
+    "price": 37773426,
+    "rating": 3.9,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "7467mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 271,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 484",
+    "price": 5477920,
+    "rating": 4.1,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Exynos 2200",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "11172mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 272,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 493",
+    "price": 35601131,
+    "rating": 4.4,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "10509mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 273,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 690",
+    "price": 14218944,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "10048mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 274,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 176",
+    "price": 38764538,
+    "rating": 4.2,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "11829mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 275,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 990",
+    "price": 16207896,
+    "rating": 4.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "5538mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 276,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 773",
+    "price": 10600276,
+    "rating": 3.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "10831mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 277,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 318",
+    "price": 6320903,
+    "rating": 4.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "7275mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 278,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 100",
+    "price": 14082195,
+    "rating": 4.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Exynos 2200",
+      "ram": "16GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "7413mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 279,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 662",
+    "price": 25275911,
+    "rating": 4.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "9897mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 280,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 498",
+    "price": 37385830,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "5948mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 281,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 644",
+    "price": 21342185,
+    "rating": 4.4,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "10249mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 282,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 541",
+    "price": 8952328,
+    "rating": 4.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "Android 12",
+      "battery": "9977mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 283,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 526",
+    "price": 24833936,
+    "rating": 4.4,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "10268mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 284,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 381",
+    "price": 15820692,
+    "rating": 3.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "8970mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 285,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 260",
+    "price": 32487764,
+    "rating": 4.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "11926mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 286,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 313",
+    "price": 18017609,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "10351mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 287,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 652",
+    "price": 11477744,
+    "rating": 4.7,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "10149mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 288,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 688",
+    "price": 3266944,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "6789mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 289,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 974",
+    "price": 18848220,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "5565mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 290,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 298",
+    "price": 25692521,
+    "rating": 4.5,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "8432mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 291,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 534",
+    "price": 14821880,
+    "rating": 4.2,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "Android 13",
+      "battery": "10767mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 292,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 373",
+    "price": 3439162,
+    "rating": 4.2,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "7479mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 293,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 791",
+    "price": 13646244,
+    "rating": 3.5,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "6239mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 294,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 944",
+    "price": 8458543,
+    "rating": 3.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "5671mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 295,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 928",
+    "price": 21742868,
+    "rating": 4.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "5347mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 296,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 676",
+    "price": 7324177,
+    "rating": 4.0,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "8867mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 297,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 781",
+    "price": 4371452,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "9215mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 298,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 741",
+    "price": 19968630,
+    "rating": 4.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "10545mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 299,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 679",
+    "price": 5118273,
+    "rating": 4.3,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "8715mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 300,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 932",
+    "price": 17224917,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "6573mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 301,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 842",
+    "price": 34876562,
+    "rating": 4.7,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "11314mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 302,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 411",
+    "price": 23110420,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "6777mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 303,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 883",
+    "price": 27786422,
+    "rating": 4.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "11843mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 304,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 416",
+    "price": 12858994,
+    "rating": 4.2,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "8GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "6758mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 305,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 327",
+    "price": 27733325,
+    "rating": 5.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "5921mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 306,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 473",
+    "price": 22524812,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "5912mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 307,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 773",
+    "price": 5539573,
+    "rating": 3.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "11642mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 308,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 276",
+    "price": 30211207,
+    "rating": 4.7,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "9464mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 309,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 814",
+    "price": 22119716,
+    "rating": 4.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "8672mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 310,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 472",
+    "price": 23449353,
+    "rating": 3.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "8749mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 311,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 739",
+    "price": 12862993,
+    "rating": 4.3,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "8425mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 312,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 747",
+    "price": 39935883,
+    "rating": 4.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "5178mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 313,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 780",
+    "price": 33803524,
+    "rating": 4.1,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "9417mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 314,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 773",
+    "price": 11629502,
+    "rating": 3.5,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "8134mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 315,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 388",
+    "price": 9092621,
+    "rating": 4.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "10456mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 316,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 564",
+    "price": 31161571,
+    "rating": 4.1,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "11647mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 317,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 681",
+    "price": 12867504,
+    "rating": 4.2,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "6992mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 318,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 704",
+    "price": 16445579,
+    "rating": 3.9,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "8933mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 319,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 277",
+    "price": 31615393,
+    "rating": 4.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "10508mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 320,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 562",
+    "price": 5311860,
+    "rating": 4.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "11765mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 321,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 228",
+    "price": 7142059,
+    "rating": 3.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "6747mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 322,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 733",
+    "price": 22341529,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "11937mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 323,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 188",
+    "price": 38032141,
+    "rating": 4.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "9783mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 324,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 674",
+    "price": 27560640,
+    "rating": 4.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "11262mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 325,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 485",
+    "price": 17141659,
+    "rating": 4.1,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "11769mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 326,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 275",
+    "price": 7494110,
+    "rating": 3.5,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "5212mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 327,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 378",
+    "price": 14974374,
+    "rating": 3.7,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "7115mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 328,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 963",
+    "price": 18073393,
+    "rating": 4.0,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "5411mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 329,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 161",
+    "price": 35785915,
+    "rating": 4.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "11943mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 330,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 604",
+    "price": 16020347,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "5504mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 331,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 927",
+    "price": 9928322,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "11250mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 332,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 565",
+    "price": 18944044,
+    "rating": 4.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "7300mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 333,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 321",
+    "price": 22725936,
+    "rating": 3.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "7943mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 334,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 554",
+    "price": 16554951,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "7279mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 335,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 845",
+    "price": 24173568,
+    "rating": 4.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "6587mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 336,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 435",
+    "price": 34122112,
+    "rating": 4.1,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "10423mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 337,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 331",
+    "price": 30569539,
+    "rating": 4.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "6012mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 338,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 694",
+    "price": 23976815,
+    "rating": 4.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "11397mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 339,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 218",
+    "price": 32261783,
+    "rating": 5.0,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Exynos 2200",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "10593mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 340,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 196",
+    "price": 7796930,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "8779mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 341,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 164",
+    "price": 24770204,
+    "rating": 3.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "8200mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 342,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 168",
+    "price": 8540067,
+    "rating": 4.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "8403mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 343,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 978",
+    "price": 19136389,
+    "rating": 3.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "8469mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 344,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 971",
+    "price": 25513404,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "10886mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 345,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 598",
+    "price": 19796710,
+    "rating": 4.4,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "5581mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 346,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 893",
+    "price": 4874587,
+    "rating": 4.5,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "5747mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 347,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 951",
+    "price": 10648538,
+    "rating": 4.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "10801mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 348,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 826",
+    "price": 20397260,
+    "rating": 4.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "Android 12",
+      "battery": "8558mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 349,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 740",
+    "price": 31220563,
+    "rating": 3.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "9887mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 350,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 540",
+    "price": 10007876,
+    "rating": 3.8,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "9318mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 351,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 680",
+    "price": 5995089,
+    "rating": 5.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "10222mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 352,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 382",
+    "price": 7331974,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "11936mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 353,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 277",
+    "price": 17453949,
+    "rating": 3.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "11059mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 354,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 129",
+    "price": 27717565,
+    "rating": 3.8,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "10998mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 355,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 544",
+    "price": 38438189,
+    "rating": 4.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "10528mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 356,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 585",
+    "price": 9990826,
+    "rating": 4.4,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "6769mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 357,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 302",
+    "price": 33474697,
+    "rating": 4.4,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "11836mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 358,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 821",
+    "price": 10940402,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "6286mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 359,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 623",
+    "price": 23993591,
+    "rating": 3.9,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "11610mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 360,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 326",
+    "price": 22077375,
+    "rating": 3.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "9894mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 361,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 855",
+    "price": 29799262,
+    "rating": 3.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "7597mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 362,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 986",
+    "price": 23134714,
+    "rating": 4.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "8490mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 363,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 306",
+    "price": 7810398,
+    "rating": 3.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "10164mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 364,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 389",
+    "price": 36850993,
+    "rating": 4.7,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "10326mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 365,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 368",
+    "price": 36588496,
+    "rating": 4.1,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Exynos 2200",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "10141mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 366,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 151",
+    "price": 14116893,
+    "rating": 4.1,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "11015mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 367,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 417",
+    "price": 22614537,
+    "rating": 4.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "8425mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 368,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 766",
+    "price": 31956567,
+    "rating": 3.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "9288mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 369,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 429",
+    "price": 31744867,
+    "rating": 4.7,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "8332mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 370,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 491",
+    "price": 5422076,
+    "rating": 3.7,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "12GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "7952mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 371,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 778",
+    "price": 21325724,
+    "rating": 4.6,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "7873mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 372,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 966",
+    "price": 7538357,
+    "rating": 4.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "Android 13",
+      "battery": "6759mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 373,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 466",
+    "price": 4587445,
+    "rating": 3.5,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "7784mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 374,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 268",
+    "price": 38673826,
+    "rating": 3.7,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "10423mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 375,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 609",
+    "price": 21910174,
+    "rating": 4.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "8GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "9854mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 376,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 944",
+    "price": 17570686,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "10859mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 377,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 608",
+    "price": 30828531,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "7220mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 378,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 417",
+    "price": 36263870,
+    "rating": 4.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "11744mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 379,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 131",
+    "price": 14993184,
+    "rating": 4.6,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "10182mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 380,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 293",
+    "price": 5965137,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "11684mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 381,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 964",
+    "price": 21028334,
+    "rating": 3.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "10591mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 382,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 127",
+    "price": 29123209,
+    "rating": 4.2,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Exynos 2200",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "11466mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 383,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 147",
+    "price": 7432277,
+    "rating": 3.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "5725mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 384,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 314",
+    "price": 12281307,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "9525mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 385,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 688",
+    "price": 38541492,
+    "rating": 4.9,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "8237mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 386,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 203",
+    "price": 33061680,
+    "rating": 4.1,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "7476mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 387,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 435",
+    "price": 15116071,
+    "rating": 4.1,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "5157mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 388,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 710",
+    "price": 38896996,
+    "rating": 4.0,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "11910mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 389,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 765",
+    "price": 17388776,
+    "rating": 4.1,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "11313mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 390,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 467",
+    "price": 19861470,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "6GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "7096mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 391,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 182",
+    "price": 14412506,
+    "rating": 4.3,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "10521mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 392,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 574",
+    "price": 11354713,
+    "rating": 4.2,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "11993mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 393,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 456",
+    "price": 18097060,
+    "rating": 3.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "5356mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 394,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 392",
+    "price": 30929754,
+    "rating": 4.8,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "11012mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 395,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 202",
+    "price": 31753222,
+    "rating": 3.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "Android 13",
+      "battery": "8829mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 396,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 437",
+    "price": 3474961,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "9045mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 397,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 733",
+    "price": 26875411,
+    "rating": 4.5,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "9025mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 398,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 814",
+    "price": 7432432,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "10884mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 399,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 574",
+    "price": 30232834,
+    "rating": 4.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "Android 12",
+      "battery": "9402mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 400,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 502",
+    "price": 15422188,
+    "rating": 3.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "11408mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 401,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 243",
+    "price": 33555614,
+    "rating": 4.7,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "8702mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 402,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 340",
+    "price": 23840366,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "7533mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 403,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 912",
+    "price": 37022650,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "5247mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 404,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 171",
+    "price": 27422825,
+    "rating": 3.6,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "6GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "8356mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 405,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 896",
+    "price": 21168613,
+    "rating": 3.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "8475mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 406,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 738",
+    "price": 35309676,
+    "rating": 4.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "10431mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 407,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 490",
+    "price": 31157718,
+    "rating": 3.9,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "9044mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 408,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 768",
+    "price": 14338025,
+    "rating": 4.2,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "6044mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 409,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 399",
+    "price": 25750004,
+    "rating": 4.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "5602mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 410,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 403",
+    "price": 5684154,
+    "rating": 3.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "9479mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 411,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 306",
+    "price": 10578440,
+    "rating": 3.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "8217mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 412,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 345",
+    "price": 32152563,
+    "rating": 4.3,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "11837mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 413,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 476",
+    "price": 31405046,
+    "rating": 4.1,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "8795mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 414,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 826",
+    "price": 18352769,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "5251mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 415,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 593",
+    "price": 22415903,
+    "rating": 4.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "11207mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 416,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 986",
+    "price": 36375246,
+    "rating": 3.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "6080mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 417,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 823",
+    "price": 7240820,
+    "rating": 4.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 16",
+      "battery": "7813mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 418,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 999",
+    "price": 35074136,
+    "rating": 4.0,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "9762mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 419,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 177",
+    "price": 3702345,
+    "rating": 4.5,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "8694mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 420,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 379",
+    "price": 3021390,
+    "rating": 3.9,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "8500mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 421,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 709",
+    "price": 32284699,
+    "rating": 3.7,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "10001mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 422,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 812",
+    "price": 22998289,
+    "rating": 4.3,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "11567mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 423,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 232",
+    "price": 35489641,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "6699mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 424,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 887",
+    "price": 23127412,
+    "rating": 3.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "5624mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 425,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 754",
+    "price": 31843992,
+    "rating": 4.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "8189mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 426,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 318",
+    "price": 38645355,
+    "rating": 3.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "10619mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 427,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 439",
+    "price": 28568128,
+    "rating": 4.3,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "5950mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 428,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 255",
+    "price": 3609234,
+    "rating": 4.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "11297mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 429,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 442",
+    "price": 9855535,
+    "rating": 4.9,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "8174mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 430,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 684",
+    "price": 20865999,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "11797mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 431,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 241",
+    "price": 10920662,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "5491mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 432,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 370",
+    "price": 38212139,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "8040mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 433,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 141",
+    "price": 21240683,
+    "rating": 4.1,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "Android 12",
+      "battery": "8510mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 434,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 117",
+    "price": 4216647,
+    "rating": 4.4,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "8597mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 435,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 697",
+    "price": 6888441,
+    "rating": 4.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "10854mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 436,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 596",
+    "price": 31046655,
+    "rating": 4.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "9936mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 437,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 768",
+    "price": 24183003,
+    "rating": 4.0,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "6727mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 438,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 428",
+    "price": 25344071,
+    "rating": 4.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "9878mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 439,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 136",
+    "price": 24291898,
+    "rating": 4.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "7080mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 440,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 428",
+    "price": 21811485,
+    "rating": 4.4,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "6195mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 441,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 162",
+    "price": 13024154,
+    "rating": 4.8,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "9784mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 442,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 576",
+    "price": 30203752,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "9331mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 443,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 933",
+    "price": 17311397,
+    "rating": 4.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "11749mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 444,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 611",
+    "price": 9580460,
+    "rating": 4.2,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "7711mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 445,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 550",
+    "price": 9242275,
+    "rating": 4.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "9192mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 446,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 213",
+    "price": 17574751,
+    "rating": 4.6,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "11546mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 447,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 644",
+    "price": 29538554,
+    "rating": 4.6,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "7357mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 448,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 428",
+    "price": 11833044,
+    "rating": 4.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "8116mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 449,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 648",
+    "price": 13019901,
+    "rating": 3.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "9619mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 450,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 404",
+    "price": 39736193,
+    "rating": 4.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "9431mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 451,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 298",
+    "price": 8360874,
+    "rating": 4.4,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "Android 13",
+      "battery": "11688mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 452,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 686",
+    "price": 27477657,
+    "rating": 5.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "Android 13",
+      "battery": "7095mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 453,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 167",
+    "price": 19260440,
+    "rating": 4.5,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "10858mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 454,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 616",
+    "price": 29364559,
+    "rating": 3.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "Android 13",
+      "battery": "10125mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 455,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 601",
+    "price": 22949683,
+    "rating": 4.4,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "9156mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 456,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 380",
+    "price": 25852347,
+    "rating": 4.9,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "7855mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 457,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 441",
+    "price": 15443162,
+    "rating": 4.3,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "11753mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 458,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 613",
+    "price": 23228047,
+    "rating": 4.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "5064mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 459,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 478",
+    "price": 9018585,
+    "rating": 4.8,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "11223mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 460,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 891",
+    "price": 20131027,
+    "rating": 4.4,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "iPadOS 17",
+      "battery": "10365mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 461,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 109",
+    "price": 39051270,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "16GB",
+      "storage": "256GB",
+      "os": "iPadOS 16",
+      "battery": "7738mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 462,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 881",
+    "price": 30160659,
+    "rating": 4.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "5573mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 463,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 963",
+    "price": 29819668,
+    "rating": 3.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "5961mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 464,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 115",
+    "price": 5852573,
+    "rating": 4.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "10334mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 465,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 157",
+    "price": 37865927,
+    "rating": 4.4,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "iPadOS 16",
+      "battery": "7070mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 466,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 814",
+    "price": 36525728,
+    "rating": 3.6,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "6785mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 467,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 934",
+    "price": 7384370,
+    "rating": 4.8,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "10235mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 468,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 917",
+    "price": 15573880,
+    "rating": 4.3,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "9278mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 469,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 952",
+    "price": 18142923,
+    "rating": 4.3,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "5399mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 470,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 752",
+    "price": 10046442,
+    "rating": 3.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "MediaTek Dimensity 8100",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "8495mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 471,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 196",
+    "price": 7849106,
+    "rating": 4.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "11540mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 472,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 283",
+    "price": 29852841,
+    "rating": 3.8,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Exynos 2200",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "6665mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 473,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 457",
+    "price": 28070769,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "16GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "5836mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 474,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 545",
+    "price": 38549809,
+    "rating": 5.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "9950mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 475,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 784",
+    "price": 15169178,
+    "rating": 4.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "9963mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 476,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 461",
+    "price": 39729621,
+    "rating": 3.8,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "MediaTek Dimensity 9000",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "5258mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 477,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 176",
+    "price": 34691249,
+    "rating": 4.1,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "11648mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 478,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 573",
+    "price": 26397445,
+    "rating": 4.3,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "iPadOS 15",
+      "battery": "7150mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 479,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 181",
+    "price": 16332126,
+    "rating": 4.0,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "6410mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 480,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 267",
+    "price": 35501092,
+    "rating": 4.7,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "16GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "9942mAh",
+      "color": "Xám",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 481,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 733",
+    "price": 6457459,
+    "rating": 4.1,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": "256GB",
+      "os": "Android 12",
+      "battery": "5415mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 482,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 519",
+    "price": 28480179,
+    "rating": 4.3,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "64GB",
+      "os": "Android 12",
+      "battery": "9923mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 483,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 432",
+    "price": 6150711,
+    "rating": 3.9,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "12GB",
+      "storage": "512GB",
+      "os": "Android 12",
+      "battery": "7271mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 484,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 715",
+    "price": 26917554,
+    "rating": 4.1,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "12GB",
+      "storage": "64GB",
+      "os": "Android 13",
+      "battery": "9572mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 485,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 122",
+    "price": 23131974,
+    "rating": 4.5,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Exynos 2200",
+      "ram": "16GB",
+      "storage": "64GB",
+      "os": "iPadOS 15",
+      "battery": "8601mAh",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 486,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Tablet 102",
+    "price": 37074354,
+    "rating": 4.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A14 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "5177mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 487,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 759",
+    "price": 36274606,
+    "rating": 3.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 15",
+      "battery": "6732mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 488,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 546",
+    "price": 7968265,
+    "rating": 4.6,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 17",
+      "battery": "8549mAh",
+      "color": "Vàng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 489,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 496",
+    "price": 36069740,
+    "rating": 5.0,
+    "specs": {
+      "display": "10 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "9074mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 490,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 758",
+    "price": 20326922,
+    "rating": 4.9,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "64GB",
+      "os": "iPadOS 16",
+      "battery": "11016mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 491,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 835",
+    "price": 36552634,
+    "rating": 4.8,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "8563mAh",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 492,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Apple",
+    "name": "Apple Tablet 922",
+    "price": 25667377,
+    "rating": 4.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "256GB",
+      "os": "iPadOS 17",
+      "battery": "10639mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 493,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 313",
+    "price": 17579617,
+    "rating": 4.2,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "4GB",
+      "storage": "512GB",
+      "os": "iPadOS 16",
+      "battery": "5969mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 494,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Huawei",
+    "name": "Huawei Tablet 431",
+    "price": 38600836,
+    "rating": 5.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": "128GB",
+      "os": "Android 13",
+      "battery": "5046mAh",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 495,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 605",
+    "price": 6358908,
+    "rating": 4.6,
+    "specs": {
+      "display": "11 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "4GB",
+      "storage": "128GB",
+      "os": "Android 12",
+      "battery": "5979mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 496,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 556",
+    "price": 31567126,
+    "rating": 4.2,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "128GB",
+      "os": "iPadOS 17",
+      "battery": "11141mAh",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 497,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 526",
+    "price": 34701566,
+    "rating": 5.0,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A16 Bionic",
+      "ram": "16GB",
+      "storage": "512GB",
+      "os": "iPadOS 15",
+      "battery": "9127mAh",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 498,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 822",
+    "price": 5286983,
+    "rating": 3.5,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Apple A15 Bionic",
+      "ram": "16GB",
+      "storage": "1TB",
+      "os": "Android 12",
+      "battery": "9368mAh",
+      "color": "Xám",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 499,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Tablet 502",
+    "price": 21700454,
+    "rating": 4.3,
+    "specs": {
+      "display": "8 inch",
+      "cpu": "Exynos 2200",
+      "ram": "4GB",
+      "storage": "1TB",
+      "os": "iPadOS 15",
+      "battery": "6893mAh",
+      "color": "Vàng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 500,
+    "category": "Máy tính bảng",
+    "tags": [
+      "tablet",
+      "máy tính bảng"
+    ],
+    "brand": "Lenovo",
+    "name": "Lenovo Tablet 123",
+    "price": 37762648,
+    "rating": 4.7,
+    "specs": {
+      "display": "12.9 inch",
+      "cpu": "Snapdragon 888",
+      "ram": "6GB",
+      "storage": "1TB",
+      "os": "iPadOS 17",
+      "battery": "10370mAh",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  }
+]

@@ -1,0 +1,4202 @@
+[
+  {
+    "index": 301,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 14020525,
+    "rating": 3.8,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "27 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 302,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 16310184,
+    "rating": 4.0,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "16 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 303,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 11135339,
+    "rating": 4.9,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "34 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 304,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 16912455,
+    "rating": 4.3,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "10 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 305,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 18800918,
+    "rating": 3.9,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "37 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 306,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 8973516,
+    "rating": 3.8,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "53 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 307,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 14145521,
+    "rating": 3.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "23 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 308,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 7221699,
+    "rating": 4.2,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "31 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 309,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Pro",
+    "price": 2640126,
+    "rating": 4.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "26 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 310,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 6872113,
+    "rating": 4.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "19 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 311,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 3935144,
+    "rating": 4.5,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "13 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 312,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Pro",
+    "price": 18844827,
+    "rating": 3.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "39 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 313,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Lite",
+    "price": 6228306,
+    "rating": 4.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "35 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 314,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 17119600,
+    "rating": 3.8,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "15 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 315,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 16789358,
+    "rating": 3.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "37 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 316,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Pro",
+    "price": 16392137,
+    "rating": 4.0,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "13 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 317,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 10902419,
+    "rating": 4.9,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "14 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 318,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 2311758,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "59 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 319,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 1509269,
+    "rating": 4.0,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "35 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 320,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 8595349,
+    "rating": 4.3,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "32 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 321,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 8492751,
+    "rating": 4.3,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "57 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 322,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 19048301,
+    "rating": 3.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "14 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 323,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 1094250,
+    "rating": 3.8,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "19 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 324,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 9888320,
+    "rating": 4.3,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "20 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 325,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Max",
+    "price": 15776687,
+    "rating": 3.9,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "11 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 326,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 2182251,
+    "rating": 5.0,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "10 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 327,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Max",
+    "price": 7507189,
+    "rating": 3.6,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "56 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 328,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 4982777,
+    "rating": 3.7,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "60 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 329,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 2639461,
+    "rating": 3.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "60 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 330,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 7603226,
+    "rating": 4.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "14 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 331,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 7685145,
+    "rating": 4.1,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "34 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 332,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 18770320,
+    "rating": 4.3,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "59 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 333,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 3358683,
+    "rating": 5.0,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "42 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 334,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 19500896,
+    "rating": 3.9,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "46 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 335,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 3865447,
+    "rating": 3.9,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "12 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 336,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Plus",
+    "price": 975063,
+    "rating": 3.9,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "55 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 337,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 7449447,
+    "rating": 5.0,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "41 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 338,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 13508221,
+    "rating": 4.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "54 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 339,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Max",
+    "price": 4053389,
+    "rating": 4.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "38 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 340,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 17464520,
+    "rating": 3.9,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "38 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 341,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 9456119,
+    "rating": 4.8,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "49 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 342,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 8372303,
+    "rating": 4.2,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "54 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 343,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 16126406,
+    "rating": 4.1,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "58 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 344,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 1090406,
+    "rating": 3.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "25 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 345,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 18654162,
+    "rating": 4.4,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "18 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 346,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Lite",
+    "price": 15771543,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "34 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 347,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 13645858,
+    "rating": 4.5,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "21 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 348,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Pro",
+    "price": 18031597,
+    "rating": 3.5,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "29 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 349,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 6665443,
+    "rating": 4.5,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "35 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 350,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 6492788,
+    "rating": 4.3,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "28 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 351,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 8899586,
+    "rating": 4.0,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "18 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 352,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 15859374,
+    "rating": 4.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "28 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 353,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Max",
+    "price": 4014834,
+    "rating": 4.7,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "54 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 354,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 1822056,
+    "rating": 4.9,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "59 giờ",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 355,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 18625059,
+    "rating": 4.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "10 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 356,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Plus",
+    "price": 15159441,
+    "rating": 4.5,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "44 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 357,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 806670,
+    "rating": 4.0,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "31 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 358,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 943299,
+    "rating": 4.1,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "27 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 359,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 6346237,
+    "rating": 4.4,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "13 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 360,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 5896285,
+    "rating": 4.4,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "46 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 361,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Max",
+    "price": 14250176,
+    "rating": 4.7,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "35 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 362,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Pro",
+    "price": 2504653,
+    "rating": 3.9,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "59 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 363,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 5780447,
+    "rating": 3.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "56 giờ",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 364,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 3347888,
+    "rating": 4.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "10 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 365,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 13623901,
+    "rating": 4.7,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "49 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 366,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 9816483,
+    "rating": 3.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "29 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 367,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 18779334,
+    "rating": 4.0,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "44 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 368,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 2956739,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "28 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 369,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 3005848,
+    "rating": 3.5,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "15 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 370,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 18916973,
+    "rating": 4.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "53 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 371,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 3868775,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "58 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 372,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Lite",
+    "price": 999611,
+    "rating": 4.0,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "19 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 373,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 5345694,
+    "rating": 4.1,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "47 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 374,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 1556679,
+    "rating": 4.4,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "59 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 375,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 11830536,
+    "rating": 3.5,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "57 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 376,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 3227976,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "31 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 377,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 17827958,
+    "rating": 3.8,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "23 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 378,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 2362162,
+    "rating": 4.7,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "22 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 379,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 16603045,
+    "rating": 4.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "52 giờ",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 380,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Plus",
+    "price": 18996335,
+    "rating": 4.1,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "24 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 381,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Pro",
+    "price": 12498052,
+    "rating": 3.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "14 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 382,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 11035824,
+    "rating": 3.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "51 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 383,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 4097254,
+    "rating": 4.4,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "39 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 384,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Plus",
+    "price": 18934177,
+    "rating": 4.9,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "19 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 385,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 19069735,
+    "rating": 3.5,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "32 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 386,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Pro",
+    "price": 6640058,
+    "rating": 4.9,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "40 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 387,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 17809767,
+    "rating": 3.8,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "38 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 388,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 5151603,
+    "rating": 4.3,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "31 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 389,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 1729769,
+    "rating": 4.8,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "32 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 390,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 1976039,
+    "rating": 4.0,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "24 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 391,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 9748551,
+    "rating": 4.1,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "36 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 392,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 3164476,
+    "rating": 4.1,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "55 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 393,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 12900893,
+    "rating": 4.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "16 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 394,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 19444654,
+    "rating": 4.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "31 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 395,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 6061642,
+    "rating": 4.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "24 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 396,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 17564357,
+    "rating": 4.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "12 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 397,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 6524298,
+    "rating": 4.4,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "41 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 398,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 12143172,
+    "rating": 4.8,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "30 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 399,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 8914186,
+    "rating": 4.4,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "49 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 400,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 11139147,
+    "rating": 3.9,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "39 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 401,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 1366460,
+    "rating": 4.7,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "18 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 402,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 7907069,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "38 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 403,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 19870801,
+    "rating": 5.0,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "12 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 404,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Lite",
+    "price": 13304677,
+    "rating": 4.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "28 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 405,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 10365474,
+    "rating": 4.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "36 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 406,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 9878390,
+    "rating": 4.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "23 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 407,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 9573782,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "60 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 408,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 3527953,
+    "rating": 3.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "27 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 409,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 9584301,
+    "rating": 4.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "55 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 410,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 7926935,
+    "rating": 4.0,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "38 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 411,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 10832145,
+    "rating": 3.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "10 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 412,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 15461015,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "22 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 413,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Max",
+    "price": 18152291,
+    "rating": 4.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "11 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 414,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 4872026,
+    "rating": 4.6,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "54 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 415,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 11127328,
+    "rating": 3.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "13 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 416,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 18764145,
+    "rating": 4.3,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "32 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 417,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Max",
+    "price": 10117512,
+    "rating": 4.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "47 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 418,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 15926284,
+    "rating": 3.9,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "43 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 419,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 17596672,
+    "rating": 3.5,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "39 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 420,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 13909016,
+    "rating": 4.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "51 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 421,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 7517546,
+    "rating": 3.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "35 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 422,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Pro",
+    "price": 6984224,
+    "rating": 4.1,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "20 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 423,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Lite",
+    "price": 18586308,
+    "rating": 3.9,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "42 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 424,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Pro",
+    "price": 1160851,
+    "rating": 4.2,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "20 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 425,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 19095183,
+    "rating": 4.6,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "32 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 426,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 2473859,
+    "rating": 4.1,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "10 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 427,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 18507970,
+    "rating": 4.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "42 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 428,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 2458576,
+    "rating": 4.2,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "25 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 429,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 9600747,
+    "rating": 4.9,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "53 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 430,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 2240000,
+    "rating": 4.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "20 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 431,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 17126651,
+    "rating": 3.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "20 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 432,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 6869624,
+    "rating": 4.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "40 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 433,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Plus",
+    "price": 14680380,
+    "rating": 4.1,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "45 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 434,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Plus",
+    "price": 9863251,
+    "rating": 3.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "11 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 435,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 12098306,
+    "rating": 4.5,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "32 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 436,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 8224743,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "55 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 437,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Lite",
+    "price": 19833085,
+    "rating": 4.5,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "38 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 438,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 10420208,
+    "rating": 4.2,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "56 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 439,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 16821363,
+    "rating": 3.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "48 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 440,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Lite",
+    "price": 14936627,
+    "rating": 3.7,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "50 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 441,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 2659569,
+    "rating": 3.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "47 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 442,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 11276052,
+    "rating": 4.0,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "58 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 443,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 5416325,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "47 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 444,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 12920679,
+    "rating": 4.2,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "39 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 445,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Max",
+    "price": 6044881,
+    "rating": 4.6,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "45 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 446,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 2646775,
+    "rating": 4.8,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "35 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 447,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 10617893,
+    "rating": 3.5,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "57 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 448,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 1770381,
+    "rating": 4.0,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "13 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 449,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 15074967,
+    "rating": 4.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "28 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 450,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 9616313,
+    "rating": 3.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "41 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 451,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 8291860,
+    "rating": 3.5,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "35 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 452,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 6319237,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "29 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 453,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 11799019,
+    "rating": 3.9,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "41 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 454,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 13733717,
+    "rating": 3.7,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "22 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 455,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Lite",
+    "price": 19197084,
+    "rating": 3.8,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "43 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 456,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 3978311,
+    "rating": 3.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "19 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 457,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 12804802,
+    "rating": 4.3,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "58 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 458,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Max",
+    "price": 14878469,
+    "rating": 4.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "53 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 459,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 13987542,
+    "rating": 4.8,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "10 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 460,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Pro",
+    "price": 1558910,
+    "rating": 4.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "36 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 461,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Max",
+    "price": 12748803,
+    "rating": 4.2,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "14 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 462,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 8368001,
+    "rating": 4.2,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "36 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 463,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Max",
+    "price": 19506455,
+    "rating": 3.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "34 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 464,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 12213328,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "31 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 465,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 920112,
+    "rating": 3.5,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "42 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 466,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 5684792,
+    "rating": 4.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "30 giờ",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 467,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Max",
+    "price": 13060930,
+    "rating": 4.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "37 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 468,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Lite",
+    "price": 10061052,
+    "rating": 3.5,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "38 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 469,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Pro",
+    "price": 12761570,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "57 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 470,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 9270582,
+    "rating": 4.5,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "49 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 471,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Max",
+    "price": 16534584,
+    "rating": 3.5,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "42 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 472,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Lite",
+    "price": 19389124,
+    "rating": 4.5,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "44 giờ",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 473,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 16758393,
+    "rating": 4.1,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "12 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 474,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 16374146,
+    "rating": 4.0,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "12 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 475,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 13735196,
+    "rating": 4.4,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "41 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 476,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 16557138,
+    "rating": 4.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Không",
+      "battery": "31 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 477,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Plus",
+    "price": 4272432,
+    "rating": 4.9,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "60 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 478,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 15155256,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "60 giờ",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 479,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 2953368,
+    "rating": 3.8,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "14 giờ",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 480,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 18153052,
+    "rating": 3.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "17 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 481,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Beats",
+    "name": "Beats Headphone Plus",
+    "price": 1017136,
+    "rating": 4.4,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Có",
+      "battery": "51 giờ",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 482,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Lite",
+    "price": 10116807,
+    "rating": 4.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "36 giờ",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 483,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Max",
+    "price": 19255507,
+    "rating": 4.3,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "51 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 484,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 12550346,
+    "rating": 3.7,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "16 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 485,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Max",
+    "price": 6795824,
+    "rating": 3.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "34 giờ",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 486,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Plus",
+    "price": 4251019,
+    "rating": 4.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "48 giờ",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 487,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Lite",
+    "price": 1515956,
+    "rating": 4.1,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "33 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 488,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 9930757,
+    "rating": 4.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "17 giờ",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 489,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Bose",
+    "name": "Bose Headphone Max",
+    "price": 17739142,
+    "rating": 4.8,
+    "specs": {
+      "type": "Over-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "29 giờ",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 490,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Max",
+    "price": 5495607,
+    "rating": 5.0,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "43 giờ",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 491,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Lite",
+    "price": 2235512,
+    "rating": 4.6,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Có",
+      "battery": "12 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 492,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 16200956,
+    "rating": 4.7,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "29 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 493,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 18637883,
+    "rating": 3.7,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "19 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 494,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Pro",
+    "price": 6311106,
+    "rating": 4.0,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.0",
+      "noise_canceling": "Có",
+      "battery": "52 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 495,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "JBL",
+    "name": "JBL Headphone Pro",
+    "price": 16977095,
+    "rating": 3.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "49 giờ",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 496,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Pro",
+    "price": 7251454,
+    "rating": 3.6,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Không",
+      "battery": "54 giờ",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 497,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 12997535,
+    "rating": 3.6,
+    "specs": {
+      "type": "In-ear",
+      "connectivity": "Bluetooth 5.3",
+      "noise_canceling": "Có",
+      "battery": "33 giờ",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 498,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sennheiser",
+    "name": "Sennheiser Headphone Lite",
+    "price": 11717959,
+    "rating": 4.4,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "17 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 499,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Sony",
+    "name": "Sony Headphone Plus",
+    "price": 10237068,
+    "rating": 4.9,
+    "specs": {
+      "type": "True Wireless",
+      "connectivity": "Wired",
+      "noise_canceling": "Không",
+      "battery": "30 giờ",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 500,
+    "category": "Tai nghe",
+    "tags": [
+      "âm thanh",
+      "tai nghe"
+    ],
+    "brand": "Apple",
+    "name": "Apple Headphone Plus",
+    "price": 19110531,
+    "rating": 4.2,
+    "specs": {
+      "type": "On-ear",
+      "connectivity": "Bluetooth 5.2",
+      "noise_canceling": "Không",
+      "battery": "32 giờ",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  }
+]

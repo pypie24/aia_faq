@@ -1,1 +1,11 @@
-from src.models.knowledge_models import Knowledge
+from src.models.product_models import (
+    Category,
+    Brand,
+    Tag,
+    Image,
+    ProductLines,
+    Product,
+    ProductVariant,
+    ImageAssignment,
+    TagAssignment,
+)  # noqa

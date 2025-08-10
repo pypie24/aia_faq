@@ -1,0 +1,8102 @@
+[
+  {
+    "index": 101,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 24212500,
+    "rating": 4.9,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "297 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 102,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 9373692,
+    "rating": 3.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "463 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 103,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 34064828,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "330 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 104,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 27 inch",
+    "price": 16379281,
+    "rating": 4.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "358 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 105,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 12584187,
+    "rating": 3.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "256 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 106,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 28477312,
+    "rating": 3.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "382 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 107,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 8983114,
+    "rating": 4.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "498 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 108,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 4136212,
+    "rating": 4.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "253 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 109,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 39141782,
+    "rating": 4.9,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "584 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 110,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 26704947,
+    "rating": 3.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "561 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 111,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 39579060,
+    "rating": 3.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "332 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 112,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 37945185,
+    "rating": 4.1,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "322 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 113,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 31726619,
+    "rating": 3.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "503 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 114,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 21863335,
+    "rating": 3.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "363 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 115,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 10153985,
+    "rating": 3.7,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "586 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 116,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 31659716,
+    "rating": 3.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "481 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 117,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 27617928,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "376 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 118,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 33239989,
+    "rating": 4.1,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "391 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 119,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 34708780,
+    "rating": 3.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "428 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 120,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 25444137,
+    "rating": 3.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "591 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 121,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 16373587,
+    "rating": 4.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "477 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 122,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 18887239,
+    "rating": 4.3,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "407 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 123,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 35750311,
+    "rating": 4.4,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "520 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 124,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 31523231,
+    "rating": 3.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "309 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 125,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 32381491,
+    "rating": 4.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "542 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 126,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 13307104,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "335 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 127,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 28843396,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "409 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 128,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 28892017,
+    "rating": 4.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "441 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 129,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 22098123,
+    "rating": 4.3,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "433 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 130,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 39318913,
+    "rating": 3.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "360 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 131,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 27367854,
+    "rating": 4.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "507 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 132,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 27 inch",
+    "price": 35210057,
+    "rating": 4.9,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "399 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 133,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 23724838,
+    "rating": 4.4,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "550 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 134,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 7145996,
+    "rating": 4.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "278 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 135,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 24529505,
+    "rating": 4.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "375 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 136,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 24 inch",
+    "price": 13770836,
+    "rating": 3.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "454 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 137,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 3409761,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "274 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 138,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 36469723,
+    "rating": 4.4,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "364 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 139,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 17519130,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "540 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 140,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 30472131,
+    "rating": 4.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "467 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 141,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 4598759,
+    "rating": 4.2,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "593 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 142,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 38933762,
+    "rating": 5.0,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "310 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 143,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 23112126,
+    "rating": 3.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "408 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 144,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 22992241,
+    "rating": 4.4,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "362 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 145,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 37902590,
+    "rating": 4.2,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "447 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 146,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 6943729,
+    "rating": 4.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "336 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 147,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 38437637,
+    "rating": 4.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "522 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 148,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 12944967,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "358 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 149,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 5070763,
+    "rating": 4.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "416 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 150,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 38439921,
+    "rating": 5.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "559 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 151,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 14043350,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "267 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 152,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 27747029,
+    "rating": 3.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "506 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 153,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 38539737,
+    "rating": 5.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "440 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 154,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 19588511,
+    "rating": 4.4,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "573 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 155,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 11518350,
+    "rating": 4.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "334 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 156,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 3031259,
+    "rating": 4.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "454 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 157,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 9315247,
+    "rating": 3.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "575 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 158,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 27009601,
+    "rating": 4.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "326 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 159,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 39686513,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "385 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 160,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 21867105,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "467 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 161,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 19493976,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "329 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 162,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 39163812,
+    "rating": 4.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "578 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 163,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 23238924,
+    "rating": 4.0,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "367 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 164,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 18269329,
+    "rating": 4.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "312 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 165,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 36511200,
+    "rating": 4.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "468 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 166,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 5876860,
+    "rating": 3.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "363 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 167,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 21891134,
+    "rating": 4.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "451 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 168,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 15738266,
+    "rating": 4.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "257 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 169,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 38512276,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "459 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 170,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 22685958,
+    "rating": 4.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "406 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 171,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 15347909,
+    "rating": 4.4,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "253 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 172,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 30354707,
+    "rating": 4.1,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "527 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 173,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 26603564,
+    "rating": 4.4,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "590 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 174,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 3504356,
+    "rating": 4.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "422 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 175,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 15191324,
+    "rating": 4.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "338 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 176,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 22111475,
+    "rating": 4.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "351 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 177,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 22170331,
+    "rating": 4.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "510 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 178,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 19845434,
+    "rating": 4.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "568 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 179,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 22562271,
+    "rating": 4.9,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "267 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 180,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 33963661,
+    "rating": 4.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "362 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 181,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 28842894,
+    "rating": 3.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "395 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 182,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 17695372,
+    "rating": 4.1,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "542 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 183,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 26179380,
+    "rating": 3.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "492 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 184,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 24 inch",
+    "price": 18893757,
+    "rating": 4.3,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "336 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 185,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 16430556,
+    "rating": 3.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "430 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 186,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 27262883,
+    "rating": 4.2,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "295 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 187,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 32800290,
+    "rating": 4.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "524 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 188,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 28115811,
+    "rating": 3.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "406 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 189,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 28105456,
+    "rating": 3.9,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "404 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 190,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 15292679,
+    "rating": 5.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "461 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 191,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 13706075,
+    "rating": 4.4,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "504 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 192,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 35518908,
+    "rating": 4.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "568 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 193,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 17099210,
+    "rating": 3.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "285 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 194,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 19298012,
+    "rating": 4.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "541 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 195,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 24623869,
+    "rating": 4.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "388 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 196,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 3806211,
+    "rating": 4.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "365 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 197,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 11847857,
+    "rating": 4.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "542 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 198,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 25754145,
+    "rating": 4.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "493 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 199,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 32700224,
+    "rating": 4.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "383 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 200,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 27 inch",
+    "price": 25796729,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "250 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 201,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 39937681,
+    "rating": 3.7,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "278 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 202,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 34224640,
+    "rating": 4.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "410 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 203,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 2810397,
+    "rating": 3.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "568 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 204,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 11614731,
+    "rating": 3.9,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "438 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 205,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 2986149,
+    "rating": 5.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "509 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 206,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 24 inch",
+    "price": 22835947,
+    "rating": 3.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "378 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 207,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 27567303,
+    "rating": 3.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "420 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 208,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 17684947,
+    "rating": 3.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "436 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 209,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 27 inch",
+    "price": 31749568,
+    "rating": 3.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "520 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 210,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 27813653,
+    "rating": 3.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "533 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 211,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 9720964,
+    "rating": 4.0,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "591 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 212,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 35607118,
+    "rating": 3.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "561 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 213,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 22799920,
+    "rating": 3.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "406 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 214,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 38589828,
+    "rating": 4.2,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "324 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 215,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 8393394,
+    "rating": 3.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "349 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 216,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 30229417,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "404 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 217,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 29588027,
+    "rating": 4.3,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "571 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 218,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 37099572,
+    "rating": 5.0,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "286 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 219,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 20065134,
+    "rating": 5.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "381 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 220,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 25109933,
+    "rating": 4.3,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "260 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 221,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 25183937,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "389 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 222,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 16858876,
+    "rating": 4.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "334 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 223,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 5271409,
+    "rating": 4.1,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "543 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 224,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 26579678,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "354 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 225,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 35805877,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "376 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 226,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 9286994,
+    "rating": 4.4,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "567 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 227,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 20468331,
+    "rating": 4.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "571 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 228,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 26437799,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "498 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 229,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 27421958,
+    "rating": 3.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "289 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 230,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 7750640,
+    "rating": 4.2,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "530 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 231,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 15167647,
+    "rating": 4.2,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "276 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 232,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 27660392,
+    "rating": 4.3,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "360 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 233,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 11518571,
+    "rating": 3.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "268 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 234,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 5961345,
+    "rating": 4.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "369 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 235,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 10695779,
+    "rating": 4.7,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "521 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 236,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 22902370,
+    "rating": 3.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "565 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 237,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 37038772,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "485 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 238,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 34354906,
+    "rating": 3.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "431 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 239,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 27 inch",
+    "price": 39402179,
+    "rating": 3.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "262 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 240,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 37196514,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "468 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 241,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 29920671,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "492 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 242,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 24714786,
+    "rating": 4.7,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "467 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 243,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 29149176,
+    "rating": 5.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "498 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 244,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 27532705,
+    "rating": 4.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "296 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 245,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 32085280,
+    "rating": 4.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "384 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 246,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 24763178,
+    "rating": 4.5,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "548 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 247,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 20634720,
+    "rating": 4.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "322 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 248,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 23789559,
+    "rating": 3.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "380 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 249,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 35591786,
+    "rating": 3.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "599 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 250,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 23029122,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "259 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 251,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 26825645,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "438 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 252,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 34810848,
+    "rating": 3.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "475 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 253,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 15492742,
+    "rating": 4.5,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "376 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 254,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 5353743,
+    "rating": 4.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "541 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 255,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 35189937,
+    "rating": 4.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "337 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 256,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 11255974,
+    "rating": 4.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "251 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 257,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 3264736,
+    "rating": 3.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "462 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 258,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 2876899,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "273 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 259,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 26730255,
+    "rating": 4.7,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "531 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 260,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 19135871,
+    "rating": 4.4,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "552 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 261,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 13623593,
+    "rating": 5.0,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "408 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 262,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 12654862,
+    "rating": 3.7,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "419 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 263,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 24 inch",
+    "price": 36217129,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "543 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 264,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 32562404,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "548 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 265,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 12067761,
+    "rating": 4.9,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "355 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 266,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 18510211,
+    "rating": 3.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "581 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 267,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 6005006,
+    "rating": 4.3,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "336 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 268,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 22904049,
+    "rating": 4.1,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "393 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 269,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 39285541,
+    "rating": 4.4,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "600 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 270,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 39037391,
+    "rating": 5.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "265 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 271,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 4751975,
+    "rating": 4.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "254 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 272,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 34233938,
+    "rating": 4.4,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "579 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 273,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 36398902,
+    "rating": 3.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "485 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 274,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 18294826,
+    "rating": 4.2,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "340 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 275,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 8963531,
+    "rating": 4.2,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "576 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 276,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 8713712,
+    "rating": 4.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "252 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 277,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 19304006,
+    "rating": 4.3,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "346 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 278,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 6952379,
+    "rating": 3.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "306 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 279,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 25382586,
+    "rating": 4.4,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "288 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 280,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 37899900,
+    "rating": 4.2,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "579 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 281,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 37456840,
+    "rating": 4.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "554 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 282,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 4939567,
+    "rating": 3.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "558 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 283,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 3072180,
+    "rating": 4.3,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "595 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 284,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 27535400,
+    "rating": 3.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "517 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 285,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 19416346,
+    "rating": 4.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "314 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 286,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 5031600,
+    "rating": 3.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "256 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 287,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 7681352,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "481 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 288,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 34862999,
+    "rating": 3.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "526 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 289,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 17154581,
+    "rating": 3.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "371 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 290,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 13047421,
+    "rating": 3.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "600 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 291,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 12985761,
+    "rating": 3.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "579 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 292,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 35546254,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "428 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 293,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 17558625,
+    "rating": 4.1,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "270 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 294,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 8322275,
+    "rating": 5.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "526 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 295,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 5819240,
+    "rating": 4.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "311 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 296,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 17775593,
+    "rating": 4.2,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "305 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 297,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 6294399,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "308 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 298,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 26056340,
+    "rating": 3.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "285 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 299,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 24 inch",
+    "price": 16972551,
+    "rating": 4.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "276 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 300,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 7937579,
+    "rating": 4.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "347 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 301,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 4160041,
+    "rating": 4.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "309 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 302,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 24889855,
+    "rating": 3.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "453 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 303,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 7845997,
+    "rating": 4.2,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "585 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 304,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 28775239,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "348 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 305,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 8029208,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "553 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 306,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 30668659,
+    "rating": 4.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "327 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 307,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 32033149,
+    "rating": 4.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "497 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 308,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 34636484,
+    "rating": 4.2,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "395 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 309,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 36431091,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "417 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 310,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 11842943,
+    "rating": 3.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "353 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 311,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 20396229,
+    "rating": 4.1,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "519 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 312,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 9797140,
+    "rating": 3.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "492 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 313,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 29244202,
+    "rating": 4.9,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "380 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 314,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 32975367,
+    "rating": 4.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "459 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 315,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 24074926,
+    "rating": 4.0,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "587 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 316,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 27 inch",
+    "price": 38760794,
+    "rating": 3.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "431 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 317,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 17698167,
+    "rating": 4.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "312 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 318,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 32321138,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "549 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 319,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 7721067,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "408 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 320,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 20745430,
+    "rating": 4.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "363 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 321,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 22680383,
+    "rating": 4.1,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "494 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 322,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 30525772,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "347 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 323,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 6366920,
+    "rating": 4.0,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "362 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 324,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 35753619,
+    "rating": 3.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "447 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 325,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 18730372,
+    "rating": 3.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "404 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 326,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 27743248,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "538 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 327,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 25885635,
+    "rating": 5.0,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "482 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 328,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 29136748,
+    "rating": 3.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "341 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 329,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 6696362,
+    "rating": 5.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "351 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 330,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 38392734,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "337 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 331,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 26794548,
+    "rating": 3.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "489 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 332,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 14779991,
+    "rating": 4.1,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "571 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 333,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 20640809,
+    "rating": 4.1,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "472 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 334,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 13465431,
+    "rating": 4.9,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "492 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 335,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 19495996,
+    "rating": 3.5,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "524 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 336,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 3869830,
+    "rating": 4.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "459 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 337,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 10477196,
+    "rating": 4.9,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "307 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 338,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 17719272,
+    "rating": 4.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "359 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 339,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 10060103,
+    "rating": 3.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "373 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 340,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 12967217,
+    "rating": 4.9,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "532 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 341,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 18821074,
+    "rating": 4.6,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "269 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 342,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 24 inch",
+    "price": 8386392,
+    "rating": 3.6,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "255 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 343,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 38986839,
+    "rating": 4.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "321 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 344,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 37991645,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "256 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 345,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 35776407,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "534 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 346,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 26874838,
+    "rating": 4.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "306 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 347,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 34936745,
+    "rating": 5.0,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "383 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 348,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 23961246,
+    "rating": 4.0,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "250 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 349,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 34 inch",
+    "price": 20718514,
+    "rating": 3.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "478 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 350,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 29560836,
+    "rating": 4.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "299 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 351,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 5821594,
+    "rating": 4.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "561 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 352,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 22886117,
+    "rating": 3.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "406 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 353,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 19733847,
+    "rating": 4.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "407 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 354,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 21573082,
+    "rating": 4.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "276 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 355,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 24 inch",
+    "price": 19429215,
+    "rating": 3.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "543 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 356,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 37202605,
+    "rating": 4.1,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "263 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 357,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 27 inch",
+    "price": 11839170,
+    "rating": 4.5,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "330 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 358,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 7853917,
+    "rating": 4.5,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "469 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 359,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 4485988,
+    "rating": 3.7,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "582 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 360,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 16412121,
+    "rating": 4.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "314 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 361,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 32843476,
+    "rating": 3.7,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "406 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 362,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 34 inch",
+    "price": 2090572,
+    "rating": 4.2,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "570 nits",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 363,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 32520587,
+    "rating": 4.4,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "319 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 364,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 15559938,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "597 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 365,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 27 inch",
+    "price": 4962543,
+    "rating": 3.9,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "556 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 366,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 24 inch",
+    "price": 24655281,
+    "rating": 4.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "347 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 367,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 36142942,
+    "rating": 4.5,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "289 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 368,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 32298701,
+    "rating": 4.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "405 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 369,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 32812050,
+    "rating": 4.0,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "456 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 370,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 13038980,
+    "rating": 3.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "382 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 371,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 3840155,
+    "rating": 4.6,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "526 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 372,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 27 inch",
+    "price": 4064572,
+    "rating": 4.3,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "300 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 373,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 33027778,
+    "rating": 3.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "405 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 374,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 27 inch",
+    "price": 37991903,
+    "rating": 4.1,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "583 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 375,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 27 inch",
+    "price": 4726603,
+    "rating": 4.4,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "325 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 376,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 6430518,
+    "rating": 4.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "535 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 377,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 37400405,
+    "rating": 4.8,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "456 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 378,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 33449656,
+    "rating": 4.4,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "411 nits",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 379,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 4161554,
+    "rating": 4.4,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "390 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 380,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 32 inch",
+    "price": 15826821,
+    "rating": 3.8,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "313 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 381,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 32 inch",
+    "price": 31181419,
+    "rating": 3.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "583 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 382,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 10868277,
+    "rating": 4.8,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "463 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 383,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 35376046,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "262 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 384,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 24 inch",
+    "price": 3045623,
+    "rating": 4.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "165Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "556 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 385,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 17542172,
+    "rating": 3.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "333 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 386,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 27 inch",
+    "price": 11307580,
+    "rating": 4.0,
+    "specs": {
+      "size": "27 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "273 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 387,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 10885038,
+    "rating": 3.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "581 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 388,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 32 inch",
+    "price": 4039236,
+    "rating": 4.9,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "458 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 389,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 34 inch",
+    "price": 35152834,
+    "rating": 3.9,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "533 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 390,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Asus",
+    "name": "Asus Monitor 24 inch",
+    "price": 21716673,
+    "rating": 3.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "540 nits",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 391,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 16356806,
+    "rating": 4.3,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "60Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "489 nits",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 392,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 31656994,
+    "rating": 4.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "2K",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "422 nits",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 393,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 32 inch",
+    "price": 26191150,
+    "rating": 3.7,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "165Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "267 nits",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 394,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 34 inch",
+    "price": 28535193,
+    "rating": 3.8,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "575 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 395,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 34 inch",
+    "price": 21765994,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "382 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 396,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Monitor 34 inch",
+    "price": 20996803,
+    "rating": 4.3,
+    "specs": {
+      "size": "34 inch",
+      "resolution": "FHD",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "384 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 397,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "MSI",
+    "name": "MSI Monitor 24 inch",
+    "price": 28019006,
+    "rating": 3.9,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "2K",
+      "refresh_rate": "75Hz",
+      "panel": "TN",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "290 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 398,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "LG",
+    "name": "LG Monitor 32 inch",
+    "price": 17800910,
+    "rating": 4.2,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "4K",
+      "refresh_rate": "144Hz",
+      "panel": "VA",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "297 nits",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 399,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Acer",
+    "name": "Acer Monitor 24 inch",
+    "price": 24825461,
+    "rating": 3.7,
+    "specs": {
+      "size": "24 inch",
+      "resolution": "FHD",
+      "refresh_rate": "75Hz",
+      "panel": "OLED",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "448 nits",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 400,
+    "category": "Màn hình PC",
+    "tags": [
+      "màn hình",
+      "PC"
+    ],
+    "brand": "Dell",
+    "name": "Dell Monitor 32 inch",
+    "price": 22534659,
+    "rating": 4.6,
+    "specs": {
+      "size": "32 inch",
+      "resolution": "5K",
+      "refresh_rate": "144Hz",
+      "panel": "IPS",
+      "ports": [
+        "HDMI",
+        "DisplayPort",
+        "USB-C"
+      ],
+      "brightness": "333 nits",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  }
+]

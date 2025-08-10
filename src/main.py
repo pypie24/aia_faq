@@ -1,24 +1,42 @@
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
-import uvicorn
 
-from src.db import engine
-from src.api.knowledge_api import router as knowledge_router
+from src.db import init_db
+from src.config import get_settings
+from src.api.v1.brand_api import router as brands_router_v1
+from src.api.v1.category_api import router as categories_router_v1
+from src.api.v1.product_api import router as products_router_v1
+from src.api.v1.image_api import router as images_router_v1
+from src.api.v1.tag_api import router as tags_router_v1
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    async with engine.begin() as conn:
-        await conn.run_sync(lambda x: None)
+    await init_db()
     yield
 
-    await engine.dispose()
+
+def create_app() -> FastAPI:
+    app = FastAPI(
+        lifespan=lifespan,
+        title=get_settings().TITLE,
+        version=get_settings().VERSION,
+        debug=get_settings().DEBUG,
+    )
+    app.add_middleware(
+        "CORSMiddleware",
+        allow_origins=["*"],
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+    )
+    app.include_router(brands_router_v1, prefix="/api/v1/")
+    app.include_router(categories_router_v1, prefix="/api/v1/")
+    app.include_router(products_router_v1, prefix="/api/v1/")
+    app.include_router(images_router_v1, prefix="/api/v1/")
+    app.include_router(tags_router_v1, prefix="/api/v1/")
+    return app
 
 
-app = FastAPI(lifespan=lifespan)
-app.include_router(knowledge_router)
-
-
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+app = create_app()

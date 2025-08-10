@@ -7,8 +7,9 @@ WORKDIR /app
 RUN chmod 0777 /app
 COPY requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt
-COPY . /app/
 
-EXPOSE 8000
+COPY . .
+RUN chmod +x ./bootstrap/entrypoint.sh
 
-CMD ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+# run entrypoint.sh
+ENTRYPOINT ["/app/bootstrap/entrypoint.sh"]

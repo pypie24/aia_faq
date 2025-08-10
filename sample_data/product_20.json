@@ -1,0 +1,6602 @@
+[
+  {
+    "index": 701,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 13777993,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "865mAh",
+      "weight": "140g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 702,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 5314084,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1824mAh",
+      "weight": "268g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 703,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 5",
+    "price": 18527735,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1414mAh",
+      "weight": "141g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 704,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 14443243,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2088mAh",
+      "weight": "121g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 705,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 4840437,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "2247mAh",
+      "weight": "223g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 706,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 7",
+    "price": 4037725,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1817mAh",
+      "weight": "231g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 707,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 7",
+    "price": 17523361,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1381mAh",
+      "weight": "288g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 708,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 3",
+    "price": 11741187,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1815mAh",
+      "weight": "127g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 709,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 9",
+    "price": 3096912,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1625mAh",
+      "weight": "120g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 710,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 16986091,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1772mAh",
+      "weight": "126g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 711,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 7",
+    "price": 15897815,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1931mAh",
+      "weight": "144g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 712,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 9",
+    "price": 3325675,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1149mAh",
+      "weight": "165g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 713,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 2",
+    "price": 16287387,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2349mAh",
+      "weight": "153g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 714,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 4360830,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2431mAh",
+      "weight": "155g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 715,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 9",
+    "price": 18696950,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2041mAh",
+      "weight": "160g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 716,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 3",
+    "price": 14872018,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "985mAh",
+      "weight": "141g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 717,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 1",
+    "price": 13068841,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1983mAh",
+      "weight": "201g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 718,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 12199240,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1460mAh",
+      "weight": "226g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 719,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 8988836,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1280mAh",
+      "weight": "152g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 720,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 15236347,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2134mAh",
+      "weight": "156g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 721,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 5719086,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1001mAh",
+      "weight": "261g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 722,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 1",
+    "price": 15381959,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "2299mAh",
+      "weight": "175g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 723,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 9",
+    "price": 3632601,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "954mAh",
+      "weight": "183g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 724,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 15568632,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2106mAh",
+      "weight": "157g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 725,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 9195451,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1847mAh",
+      "weight": "107g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 726,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 4",
+    "price": 17150182,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1958mAh",
+      "weight": "289g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 727,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 6273186,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2180mAh",
+      "weight": "214g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 728,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 7",
+    "price": 19725737,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1393mAh",
+      "weight": "195g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 729,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 4",
+    "price": 19075584,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2148mAh",
+      "weight": "215g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 730,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 10862998,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1960mAh",
+      "weight": "269g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 731,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 16414199,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2030mAh",
+      "weight": "283g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 732,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 4427099,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "844mAh",
+      "weight": "224g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 733,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 5",
+    "price": 12440061,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1956mAh",
+      "weight": "200g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 734,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 9",
+    "price": 18824541,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2348mAh",
+      "weight": "105g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 735,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 9289913,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1682mAh",
+      "weight": "103g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 736,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 7",
+    "price": 12466066,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2321mAh",
+      "weight": "278g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 737,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 5135815,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1126mAh",
+      "weight": "262g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 738,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 2194506,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "911mAh",
+      "weight": "156g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 739,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 1",
+    "price": 3508018,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1835mAh",
+      "weight": "216g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 740,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 2",
+    "price": 12161189,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1274mAh",
+      "weight": "119g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 741,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 8",
+    "price": 5406173,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1507mAh",
+      "weight": "267g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 742,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 13250392,
+    "rating": 5.0,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1917mAh",
+      "weight": "255g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 743,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 17648871,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1370mAh",
+      "weight": "250g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 744,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 13255549,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2423mAh",
+      "weight": "209g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 745,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 3",
+    "price": 9295663,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2422mAh",
+      "weight": "245g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 746,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 10748677,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2086mAh",
+      "weight": "258g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 747,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 4991922,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2319mAh",
+      "weight": "245g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 748,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 7",
+    "price": 10551878,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1377mAh",
+      "weight": "144g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 749,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 5",
+    "price": 10395708,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1134mAh",
+      "weight": "243g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 750,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 3705907,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1469mAh",
+      "weight": "129g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 751,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 1",
+    "price": 9228008,
+    "rating": 5.0,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "929mAh",
+      "weight": "108g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 752,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 2",
+    "price": 13038499,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2095mAh",
+      "weight": "259g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 753,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 6",
+    "price": 4060735,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1623mAh",
+      "weight": "198g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 754,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 9",
+    "price": 10425158,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1650mAh",
+      "weight": "261g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 755,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 6",
+    "price": 8877609,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1906mAh",
+      "weight": "242g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 756,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 7",
+    "price": 12421634,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1514mAh",
+      "weight": "180g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 757,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 1",
+    "price": 13368952,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1668mAh",
+      "weight": "250g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 758,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 15215944,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1105mAh",
+      "weight": "162g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 759,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 1",
+    "price": 13045369,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1720mAh",
+      "weight": "211g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 760,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 6",
+    "price": 9366475,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1127mAh",
+      "weight": "270g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 761,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 16249974,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "2404mAh",
+      "weight": "267g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 762,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 10444943,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2294mAh",
+      "weight": "115g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 763,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 8105982,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2302mAh",
+      "weight": "258g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 764,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 6279334,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "987mAh",
+      "weight": "164g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 765,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 9",
+    "price": 10664600,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2004mAh",
+      "weight": "154g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 766,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 3",
+    "price": 5470392,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1427mAh",
+      "weight": "227g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 767,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 5234590,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1265mAh",
+      "weight": "106g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 768,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 6",
+    "price": 18250651,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2301mAh",
+      "weight": "235g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 769,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 13301672,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1034mAh",
+      "weight": "275g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 770,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 19938820,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1133mAh",
+      "weight": "185g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 771,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 5241246,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1628mAh",
+      "weight": "110g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 772,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 14590583,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "878mAh",
+      "weight": "242g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 773,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 10",
+    "price": 18158252,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2153mAh",
+      "weight": "135g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 774,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 1",
+    "price": 8975985,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1669mAh",
+      "weight": "126g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 775,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 6810085,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1058mAh",
+      "weight": "110g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 776,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 4",
+    "price": 13892737,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2155mAh",
+      "weight": "294g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 777,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 10",
+    "price": 9421269,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1581mAh",
+      "weight": "160g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 778,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 4078575,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "2097mAh",
+      "weight": "235g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 779,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 17104858,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2185mAh",
+      "weight": "107g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 780,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 9669251,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2241mAh",
+      "weight": "148g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 781,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 2",
+    "price": 15947559,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1202mAh",
+      "weight": "190g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 782,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 10852882,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "944mAh",
+      "weight": "202g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 783,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 9",
+    "price": 14622242,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1946mAh",
+      "weight": "105g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 784,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 1",
+    "price": 2365191,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2099mAh",
+      "weight": "153g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 785,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 15853240,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "971mAh",
+      "weight": "181g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 786,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 9",
+    "price": 6164642,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1080mAh",
+      "weight": "185g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 787,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 19978713,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "802mAh",
+      "weight": "296g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 788,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 6",
+    "price": 19303275,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1831mAh",
+      "weight": "191g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 789,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 7165133,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1716mAh",
+      "weight": "248g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 790,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 18204538,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2287mAh",
+      "weight": "167g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 791,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 4979890,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1397mAh",
+      "weight": "213g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 792,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 2666793,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2119mAh",
+      "weight": "140g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 793,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 14607694,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "942mAh",
+      "weight": "188g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 794,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 18160148,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2456mAh",
+      "weight": "210g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 795,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 7",
+    "price": 9221126,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1544mAh",
+      "weight": "176g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 796,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 8",
+    "price": 12391160,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1893mAh",
+      "weight": "255g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 797,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 9000800,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1114mAh",
+      "weight": "139g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 798,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 5",
+    "price": 9422270,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1222mAh",
+      "weight": "116g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 799,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 5249721,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1147mAh",
+      "weight": "261g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 800,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 10186875,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1337mAh",
+      "weight": "101g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 801,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 17129532,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1927mAh",
+      "weight": "117g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 802,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 12399965,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1266mAh",
+      "weight": "173g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 803,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 4382936,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "883mAh",
+      "weight": "158g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 804,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 19318672,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1383mAh",
+      "weight": "253g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 805,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 9",
+    "price": 15399379,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "993mAh",
+      "weight": "222g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 806,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 13878901,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2041mAh",
+      "weight": "206g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 807,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 9",
+    "price": 3830465,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1029mAh",
+      "weight": "229g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 808,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 2",
+    "price": 8978177,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1807mAh",
+      "weight": "229g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 809,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 8",
+    "price": 8880129,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1355mAh",
+      "weight": "116g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 810,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 13772997,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1892mAh",
+      "weight": "208g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 811,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 1",
+    "price": 19021357,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1344mAh",
+      "weight": "280g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 812,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 5",
+    "price": 13043561,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2384mAh",
+      "weight": "289g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 813,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 4",
+    "price": 13353891,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1455mAh",
+      "weight": "180g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 814,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 8",
+    "price": 14766630,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "900mAh",
+      "weight": "256g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 815,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 8042769,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1383mAh",
+      "weight": "211g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 816,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 4565399,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1806mAh",
+      "weight": "128g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 817,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 3966859,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2467mAh",
+      "weight": "200g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 818,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 2042143,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "908mAh",
+      "weight": "133g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 819,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 5",
+    "price": 15343569,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1137mAh",
+      "weight": "234g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 820,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 5",
+    "price": 12466196,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "912mAh",
+      "weight": "193g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 821,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 7",
+    "price": 4093826,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1712mAh",
+      "weight": "189g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 822,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 9979008,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "843mAh",
+      "weight": "274g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 823,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 17454292,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "982mAh",
+      "weight": "128g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 824,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 4",
+    "price": 14190081,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1135mAh",
+      "weight": "182g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 825,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 3783265,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2319mAh",
+      "weight": "113g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 826,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 5",
+    "price": 12264636,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1304mAh",
+      "weight": "128g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 827,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 3587050,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "852mAh",
+      "weight": "209g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 828,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 5",
+    "price": 15290445,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1600mAh",
+      "weight": "273g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 829,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 5",
+    "price": 2226710,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1195mAh",
+      "weight": "132g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 830,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 3",
+    "price": 15516967,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1313mAh",
+      "weight": "105g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 831,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 4317403,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1585mAh",
+      "weight": "111g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 832,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 9296857,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1464mAh",
+      "weight": "241g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 833,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 3",
+    "price": 17077976,
+    "rating": 5.0,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1165mAh",
+      "weight": "188g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 834,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 14330834,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1191mAh",
+      "weight": "187g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 835,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 19159153,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1975mAh",
+      "weight": "113g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 836,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 13158744,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1295mAh",
+      "weight": "108g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 837,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 6",
+    "price": 18838377,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1243mAh",
+      "weight": "107g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 838,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 5",
+    "price": 9717613,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1393mAh",
+      "weight": "177g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 839,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 6",
+    "price": 18836598,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1894mAh",
+      "weight": "111g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 840,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 9",
+    "price": 18638184,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1474mAh",
+      "weight": "226g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 841,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 3045550,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2269mAh",
+      "weight": "186g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 842,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 10",
+    "price": 11348354,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2231mAh",
+      "weight": "122g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 843,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 2",
+    "price": 6307949,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1643mAh",
+      "weight": "245g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 844,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 16192445,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2132mAh",
+      "weight": "135g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 845,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 7",
+    "price": 5884618,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2477mAh",
+      "weight": "151g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 846,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 6",
+    "price": 6870573,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2251mAh",
+      "weight": "296g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 847,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 9",
+    "price": 3990043,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "881mAh",
+      "weight": "214g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 848,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 7",
+    "price": 11698895,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1334mAh",
+      "weight": "259g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 849,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 4",
+    "price": 15114304,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2458mAh",
+      "weight": "100g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 850,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 9",
+    "price": 4514787,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2143mAh",
+      "weight": "154g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 851,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 17986036,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1694mAh",
+      "weight": "193g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 852,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 10572184,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1526mAh",
+      "weight": "212g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 853,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 9878379,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1514mAh",
+      "weight": "286g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 854,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 3",
+    "price": 19880699,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2333mAh",
+      "weight": "246g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 855,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 7",
+    "price": 6479321,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2283mAh",
+      "weight": "283g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 856,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 6",
+    "price": 2791227,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1128mAh",
+      "weight": "118g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 857,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 8",
+    "price": 3074858,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1748mAh",
+      "weight": "250g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 858,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 7",
+    "price": 4322833,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1301mAh",
+      "weight": "271g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 859,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 7679264,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "868mAh",
+      "weight": "287g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 860,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 4",
+    "price": 14314130,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1920mAh",
+      "weight": "157g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 861,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 2766977,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1490mAh",
+      "weight": "167g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 862,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 17837511,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2132mAh",
+      "weight": "131g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 863,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 7",
+    "price": 18459695,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1159mAh",
+      "weight": "143g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 864,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 11271863,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1478mAh",
+      "weight": "296g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 865,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 5",
+    "price": 13476174,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1540mAh",
+      "weight": "239g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 866,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 11120965,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2204mAh",
+      "weight": "268g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 867,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 16103017,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1545mAh",
+      "weight": "155g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 868,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 14529764,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2457mAh",
+      "weight": "186g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 869,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 9",
+    "price": 15899456,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1637mAh",
+      "weight": "156g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 870,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 7",
+    "price": 12746841,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "898mAh",
+      "weight": "225g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 871,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 7",
+    "price": 11270072,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "802mAh",
+      "weight": "214g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 872,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 2",
+    "price": 8039302,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "828mAh",
+      "weight": "286g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 873,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 5105498,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1476mAh",
+      "weight": "125g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 874,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 9",
+    "price": 14133640,
+    "rating": 5.0,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1574mAh",
+      "weight": "106g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 875,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 13793049,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2242mAh",
+      "weight": "236g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 876,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 14349504,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2254mAh",
+      "weight": "152g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 877,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 10",
+    "price": 17754023,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1912mAh",
+      "weight": "229g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 878,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 15011465,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1353mAh",
+      "weight": "124g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 879,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 14686055,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1577mAh",
+      "weight": "154g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 880,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 15409991,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1239mAh",
+      "weight": "276g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 881,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 6",
+    "price": 6363556,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1622mAh",
+      "weight": "109g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 882,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 4",
+    "price": 9519099,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "900mAh",
+      "weight": "206g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 883,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 5135353,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1942mAh",
+      "weight": "157g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 884,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 18729029,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1693mAh",
+      "weight": "176g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 885,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 7",
+    "price": 12364608,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "908mAh",
+      "weight": "263g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 886,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 4",
+    "price": 7242121,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2485mAh",
+      "weight": "287g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 887,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 1",
+    "price": 14913345,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "826mAh",
+      "weight": "300g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 888,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 5",
+    "price": 16662636,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2406mAh",
+      "weight": "180g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 889,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 6",
+    "price": 12123653,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "876mAh",
+      "weight": "278g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 890,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 3",
+    "price": 12593462,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1280mAh",
+      "weight": "213g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 891,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 13139155,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1359mAh",
+      "weight": "154g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 892,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 3",
+    "price": 14133112,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2080mAh",
+      "weight": "214g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 893,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 12249776,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2488mAh",
+      "weight": "146g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 894,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 9",
+    "price": 10542795,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1941mAh",
+      "weight": "195g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 895,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 7064406,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1516mAh",
+      "weight": "295g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 896,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 9934795,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1754mAh",
+      "weight": "178g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 897,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 13599408,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1046mAh",
+      "weight": "295g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 898,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 9",
+    "price": 15651021,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1313mAh",
+      "weight": "277g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 899,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 14315740,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1198mAh",
+      "weight": "258g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 900,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 3",
+    "price": 14914713,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1962mAh",
+      "weight": "150g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 901,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 15499521,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1134mAh",
+      "weight": "232g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 902,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 13958747,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2248mAh",
+      "weight": "227g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 903,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 1",
+    "price": 5154928,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1828mAh",
+      "weight": "131g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 904,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 12809395,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2172mAh",
+      "weight": "210g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 905,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 6",
+    "price": 5279176,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1463mAh",
+      "weight": "166g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 906,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 13021821,
+    "rating": 5.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2444mAh",
+      "weight": "144g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 907,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 14264899,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "804mAh",
+      "weight": "117g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 908,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 12391896,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1856mAh",
+      "weight": "209g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 909,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 10",
+    "price": 9047273,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2288mAh",
+      "weight": "109g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 910,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 3559140,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1983mAh",
+      "weight": "182g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 911,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 7",
+    "price": 6802535,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1860mAh",
+      "weight": "242g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 912,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 10",
+    "price": 4661455,
+    "rating": 5.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1075mAh",
+      "weight": "151g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 913,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 5251021,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1387mAh",
+      "weight": "136g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 914,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 9410190,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "804mAh",
+      "weight": "298g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 915,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 5",
+    "price": 11932064,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1741mAh",
+      "weight": "206g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 916,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 5",
+    "price": 4604411,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1190mAh",
+      "weight": "232g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 917,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 9",
+    "price": 15130479,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1334mAh",
+      "weight": "269g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 918,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 17182684,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1423mAh",
+      "weight": "217g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 919,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 6",
+    "price": 14696592,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2245mAh",
+      "weight": "158g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 920,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 4",
+    "price": 14083187,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1208mAh",
+      "weight": "219g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 921,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 8687398,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "2107mAh",
+      "weight": "164g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 922,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 10243583,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "885mAh",
+      "weight": "106g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 923,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 6",
+    "price": 8606993,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1228mAh",
+      "weight": "106g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 924,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 8",
+    "price": 4879276,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1022mAh",
+      "weight": "109g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 925,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 4849481,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1154mAh",
+      "weight": "180g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 926,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 8367751,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2152mAh",
+      "weight": "236g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 927,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 3",
+    "price": 3282850,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1250mAh",
+      "weight": "105g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 928,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 1",
+    "price": 8197439,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2417mAh",
+      "weight": "176g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 929,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 10344076,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1436mAh",
+      "weight": "202g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 930,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 9",
+    "price": 8756736,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "812mAh",
+      "weight": "202g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 931,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 15374950,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1063mAh",
+      "weight": "183g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 932,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 4",
+    "price": 10823728,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2005mAh",
+      "weight": "198g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 933,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 17879484,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2109mAh",
+      "weight": "261g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 934,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 5628059,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1979mAh",
+      "weight": "298g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 935,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 15914183,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "887mAh",
+      "weight": "165g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 936,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 6072535,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1892mAh",
+      "weight": "120g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 937,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 1",
+    "price": 18957119,
+    "rating": 4.4,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "872mAh",
+      "weight": "277g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 938,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 11005739,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "831mAh",
+      "weight": "296g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 939,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 2281051,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1722mAh",
+      "weight": "210g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 940,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 9",
+    "price": 18936735,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1674mAh",
+      "weight": "185g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 941,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 1",
+    "price": 11467943,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1851mAh",
+      "weight": "191g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 942,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 5",
+    "price": 14761452,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2116mAh",
+      "weight": "136g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 943,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 6670664,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1977mAh",
+      "weight": "296g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 944,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 2",
+    "price": 5774138,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1935mAh",
+      "weight": "225g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 945,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 14086074,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1539mAh",
+      "weight": "249g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 946,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 2",
+    "price": 17454411,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1777mAh",
+      "weight": "256g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 947,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 7",
+    "price": 13785846,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1768mAh",
+      "weight": "135g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 948,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 5",
+    "price": 3344269,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1394mAh",
+      "weight": "120g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 949,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 10",
+    "price": 19805355,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1964mAh",
+      "weight": "291g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 950,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 2",
+    "price": 7701443,
+    "rating": 3.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2233mAh",
+      "weight": "238g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 951,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 8",
+    "price": 7355160,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1037mAh",
+      "weight": "116g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 952,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 4931525,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "958mAh",
+      "weight": "286g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 953,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 10",
+    "price": 9590153,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1738mAh",
+      "weight": "152g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 954,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 16346613,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1950mAh",
+      "weight": "284g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 955,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 5",
+    "price": 19037045,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2310mAh",
+      "weight": "171g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 956,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 4",
+    "price": 2157777,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1244mAh",
+      "weight": "202g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 957,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 1",
+    "price": 15789215,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1937mAh",
+      "weight": "123g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 958,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 8",
+    "price": 11118026,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1636mAh",
+      "weight": "240g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 959,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 10",
+    "price": 15453010,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1499mAh",
+      "weight": "140g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 960,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 3",
+    "price": 11909539,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1088mAh",
+      "weight": "275g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 961,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 10",
+    "price": 5335405,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2115mAh",
+      "weight": "128g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 962,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 1",
+    "price": 3987416,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1534mAh",
+      "weight": "161g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 963,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 4",
+    "price": 3077726,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1026mAh",
+      "weight": "282g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 964,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 8",
+    "price": 17784728,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2437mAh",
+      "weight": "138g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 965,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 11306344,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "932mAh",
+      "weight": "121g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 966,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 9",
+    "price": 2836227,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1459mAh",
+      "weight": "178g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 967,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 2",
+    "price": 11278054,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "861mAh",
+      "weight": "220g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 968,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 4",
+    "price": 4705790,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "802mAh",
+      "weight": "285g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 969,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 16433357,
+    "rating": 3.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "2446mAh",
+      "weight": "258g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 970,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 14928893,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1411mAh",
+      "weight": "210g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 971,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 3",
+    "price": 10654377,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1339mAh",
+      "weight": "267g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 972,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 7744199,
+    "rating": 4.3,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1365mAh",
+      "weight": "141g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 973,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 6",
+    "price": 2589025,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1027mAh",
+      "weight": "234g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 974,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 6465011,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1305mAh",
+      "weight": "298g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 975,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 2",
+    "price": 17355944,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1419mAh",
+      "weight": "259g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 976,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 8",
+    "price": 3204376,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1802mAh",
+      "weight": "279g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 977,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 6747129,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2098mAh",
+      "weight": "170g",
+      "color": "Bạc",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 978,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 6",
+    "price": 15154513,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1075mAh",
+      "weight": "179g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 979,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 5",
+    "price": 8195859,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1427mAh",
+      "weight": "253g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 980,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 3",
+    "price": 2005975,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1098mAh",
+      "weight": "125g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 981,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 6923916,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1987mAh",
+      "weight": "177g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 982,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 2",
+    "price": 12543487,
+    "rating": 4.0,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "1241mAh",
+      "weight": "180g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 983,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 2",
+    "price": 17579434,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2115mAh",
+      "weight": "164g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 984,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 6",
+    "price": 12792659,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1154mAh",
+      "weight": "234g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 985,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 10593109,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1353mAh",
+      "weight": "115g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 986,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 6",
+    "price": 5174263,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1264mAh",
+      "weight": "199g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 987,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "DJI",
+    "name": "DJI ActionCam 4",
+    "price": 8320695,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "1521mAh",
+      "weight": "297g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 988,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 3",
+    "price": 17893590,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1783mAh",
+      "weight": "271g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 989,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 8",
+    "price": 9885935,
+    "rating": 4.9,
+    "specs": {
+      "resolution": "2.7K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1934mAh",
+      "weight": "268g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 990,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Sony",
+    "name": "Sony ActionCam 9",
+    "price": 10799620,
+    "rating": 3.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "1391mAh",
+      "weight": "202g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 991,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 15525283,
+    "rating": 4.1,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "1469mAh",
+      "weight": "297g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 992,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 2",
+    "price": 9286328,
+    "rating": 3.8,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2056mAh",
+      "weight": "148g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 993,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 1",
+    "price": 3425199,
+    "rating": 4.5,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "1170mAh",
+      "weight": "210g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 994,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 4",
+    "price": 13374960,
+    "rating": 4.2,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "60fps",
+      "waterproof": "Không",
+      "battery": "1832mAh",
+      "weight": "179g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 995,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 1",
+    "price": 6656034,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "1080p",
+      "frame_rate": "120fps",
+      "waterproof": "Có",
+      "battery": "2409mAh",
+      "weight": "283g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 996,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "GoPro",
+    "name": "GoPro ActionCam 10",
+    "price": 19990953,
+    "rating": 4.8,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Không",
+      "battery": "2067mAh",
+      "weight": "156g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 997,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 7",
+    "price": 19743013,
+    "rating": 4.7,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "30fps",
+      "waterproof": "Có",
+      "battery": "2305mAh",
+      "weight": "294g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 998,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "Insta360",
+    "name": "Insta360 ActionCam 8",
+    "price": 16780848,
+    "rating": 3.7,
+    "specs": {
+      "resolution": "4K",
+      "frame_rate": "120fps",
+      "waterproof": "Không",
+      "battery": "2027mAh",
+      "weight": "269g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 999,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 2",
+    "price": 8645135,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "881mAh",
+      "weight": "164g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 1000,
+    "category": "Camera hành trình",
+    "tags": [
+      "camera",
+      "hành trình"
+    ],
+    "brand": "SJCAM",
+    "name": "SJCAM ActionCam 9",
+    "price": 7310524,
+    "rating": 4.6,
+    "specs": {
+      "resolution": "5K",
+      "frame_rate": "60fps",
+      "waterproof": "Có",
+      "battery": "2308mAh",
+      "weight": "110g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  }
+]

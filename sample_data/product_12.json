@@ -1,0 +1,6302 @@
+[
+  {
+    "index": 301,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 1886200,
+    "rating": 4.5,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "176g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 302,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 805739,
+    "rating": 3.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "130g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 303,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 446697,
+    "rating": 4.0,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "162g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 304,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 1932537,
+    "rating": 4.8,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "123g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 305,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 197349,
+    "rating": 4.9,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "66g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 306,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1038314,
+    "rating": 4.2,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "167g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 307,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 65W",
+    "price": 617957,
+    "rating": 3.8,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "114g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 308,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 2099121,
+    "rating": 3.8,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "60g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 309,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 770453,
+    "rating": 3.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "124g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 310,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 1423892,
+    "rating": 4.8,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "175g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 311,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 950466,
+    "rating": 4.0,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "61g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 312,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 528814,
+    "rating": 4.5,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "124g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 313,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 993509,
+    "rating": 4.3,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "171g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 314,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 1211256,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "186g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 315,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 25W",
+    "price": 1227243,
+    "rating": 4.2,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "104g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 316,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 669500,
+    "rating": 4.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "67g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 317,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 1778275,
+    "rating": 4.8,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "193g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 318,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 1990130,
+    "rating": 4.0,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "173g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 319,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 417494,
+    "rating": 3.7,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "184g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 320,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 1924616,
+    "rating": 3.9,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "138g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 321,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 2202274,
+    "rating": 4.6,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "173g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 322,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 405679,
+    "rating": 4.3,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "106g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 323,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 2618957,
+    "rating": 4.9,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "158g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 324,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 2352326,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "72g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 325,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 1922767,
+    "rating": 3.5,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "99g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 326,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 2294980,
+    "rating": 3.5,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "60g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 327,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 25W",
+    "price": 1108439,
+    "rating": 3.5,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "190g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 328,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 444545,
+    "rating": 4.2,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "138g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 329,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 491831,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "129g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 330,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 2923362,
+    "rating": 4.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "57g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 331,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 2865090,
+    "rating": 4.9,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "102g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 332,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 2264936,
+    "rating": 4.1,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "56g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 333,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 2397884,
+    "rating": 4.2,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "52g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 334,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 593518,
+    "rating": 3.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "119g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 335,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 1947148,
+    "rating": 3.9,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "127g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 336,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 603100,
+    "rating": 4.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "80g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 337,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 1841479,
+    "rating": 3.9,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "162g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 338,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 1824963,
+    "rating": 3.5,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "120g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 339,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 1825274,
+    "rating": 4.0,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "74g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 340,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 2833662,
+    "rating": 4.7,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "157g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 341,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 934448,
+    "rating": 3.5,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "113g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 342,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 1638956,
+    "rating": 3.9,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "70g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 343,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 926644,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "123g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 344,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 440153,
+    "rating": 4.3,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "155g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 345,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 2917750,
+    "rating": 4.9,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "97g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 346,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 968633,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "146g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 347,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 613512,
+    "rating": 3.9,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "200g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 348,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 1955455,
+    "rating": 4.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "150g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 349,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 2398017,
+    "rating": 4.7,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "180g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 350,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 2141745,
+    "rating": 4.8,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "176g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 351,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 2519862,
+    "rating": 4.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "98g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 352,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 2838476,
+    "rating": 4.4,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "164g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 353,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 2974870,
+    "rating": 4.3,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "129g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 354,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 1987641,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "161g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 355,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 807169,
+    "rating": 3.6,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "79g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 356,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 2943639,
+    "rating": 4.5,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "171g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 357,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 1348785,
+    "rating": 3.8,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "160g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 358,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 1853960,
+    "rating": 4.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "93g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 359,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 2420254,
+    "rating": 3.9,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "101g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 360,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 1748356,
+    "rating": 3.9,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "188g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 361,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 2635888,
+    "rating": 4.5,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "195g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 362,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 1407022,
+    "rating": 3.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "54g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 363,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 2336517,
+    "rating": 4.2,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "82g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 364,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 866705,
+    "rating": 4.2,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "63g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 365,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 528507,
+    "rating": 4.3,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "120g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 366,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 1995902,
+    "rating": 4.3,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "54g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 367,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 2348186,
+    "rating": 5.0,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "154g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 368,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 2010282,
+    "rating": 4.5,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "75g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 369,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1547616,
+    "rating": 3.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "77g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 370,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 2343272,
+    "rating": 4.5,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "98g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 371,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 1027654,
+    "rating": 3.9,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "100g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 372,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1792743,
+    "rating": 4.2,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "112g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 373,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1731329,
+    "rating": 4.9,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "122g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 374,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 2498639,
+    "rating": 3.8,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "199g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 375,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 1459141,
+    "rating": 4.3,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "101g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 376,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 742184,
+    "rating": 4.5,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "51g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 377,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 1025857,
+    "rating": 4.5,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "56g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 378,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 2431384,
+    "rating": 4.0,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "110g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 379,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1965495,
+    "rating": 4.4,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "125g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 380,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1374211,
+    "rating": 3.8,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "101g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 381,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 1228926,
+    "rating": 5.0,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "86g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 382,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 2833304,
+    "rating": 4.3,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "73g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 383,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 2085978,
+    "rating": 4.0,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "142g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 384,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 1244086,
+    "rating": 4.6,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "189g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 385,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 326101,
+    "rating": 3.9,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "50g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 386,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 860845,
+    "rating": 3.8,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "71g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 387,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 230303,
+    "rating": 4.0,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "66g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 388,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 1489901,
+    "rating": 4.2,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "93g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 389,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 1511826,
+    "rating": 4.1,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "68g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 390,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1804646,
+    "rating": 4.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "120g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 391,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 1233158,
+    "rating": 3.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "143g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 392,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 2289642,
+    "rating": 4.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "179g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 393,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 1494007,
+    "rating": 4.5,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "180g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 394,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 2701930,
+    "rating": 4.8,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "144g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 395,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 2689250,
+    "rating": 3.5,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "137g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 396,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 1115944,
+    "rating": 3.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "177g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 397,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 2183891,
+    "rating": 4.0,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "144g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 398,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 847371,
+    "rating": 3.8,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "127g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 399,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 1570304,
+    "rating": 3.7,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "154g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 400,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 366335,
+    "rating": 3.8,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "118g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 401,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 1440823,
+    "rating": 4.8,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "122g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 402,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 2315537,
+    "rating": 4.7,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "197g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 403,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 2852218,
+    "rating": 4.7,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "119g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 404,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 905226,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "88g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 405,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 370087,
+    "rating": 4.8,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "168g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 406,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 433731,
+    "rating": 4.1,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "140g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 407,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 65W",
+    "price": 1677645,
+    "rating": 3.5,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "124g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 408,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 156374,
+    "rating": 4.6,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "169g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 409,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 2166408,
+    "rating": 4.3,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "117g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 410,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 390815,
+    "rating": 4.2,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "115g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 411,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 2044892,
+    "rating": 4.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "113g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 412,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1024452,
+    "rating": 3.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "95g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 413,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 809090,
+    "rating": 4.9,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "118g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 414,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 2946940,
+    "rating": 4.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "80g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 415,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 2016391,
+    "rating": 4.2,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "76g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 416,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 1705389,
+    "rating": 3.7,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "55g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 417,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 2446591,
+    "rating": 4.3,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "81g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 418,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 2494626,
+    "rating": 3.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "124g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 419,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 2393325,
+    "rating": 4.1,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "115g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 420,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 1420441,
+    "rating": 4.0,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "52g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 421,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 1908917,
+    "rating": 3.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "53g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 422,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 1769034,
+    "rating": 4.4,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "146g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 423,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 2217552,
+    "rating": 5.0,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "190g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 424,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 459933,
+    "rating": 3.5,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "115g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 425,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 2553888,
+    "rating": 4.7,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "104g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 426,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 2136455,
+    "rating": 3.7,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "126g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 427,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 2081237,
+    "rating": 4.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "166g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 428,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 1227172,
+    "rating": 4.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "171g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 429,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 2140512,
+    "rating": 4.5,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "186g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 430,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 2323912,
+    "rating": 4.0,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "56g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 431,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 2598693,
+    "rating": 4.3,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "149g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 432,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 411731,
+    "rating": 3.6,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "92g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 433,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1684342,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "169g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 434,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 592839,
+    "rating": 5.0,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "192g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 435,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 2840981,
+    "rating": 3.6,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "81g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 436,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 2104954,
+    "rating": 4.2,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "115g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 437,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 273433,
+    "rating": 4.4,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "57g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 438,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 220730,
+    "rating": 4.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "122g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 439,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1143690,
+    "rating": 4.5,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "159g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 440,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 2372908,
+    "rating": 4.2,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "116g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 441,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 2962094,
+    "rating": 4.6,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "75g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 442,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 692474,
+    "rating": 3.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "118g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 443,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 2907301,
+    "rating": 4.3,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "88g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 444,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 2221334,
+    "rating": 4.1,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "70g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 445,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 1752230,
+    "rating": 4.4,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "129g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 446,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 2612440,
+    "rating": 4.8,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "116g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 447,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 934813,
+    "rating": 4.4,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "53g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 448,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 2972222,
+    "rating": 5.0,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "169g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 449,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 990017,
+    "rating": 3.6,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "175g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 450,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 186861,
+    "rating": 4.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "192g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 451,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 1433329,
+    "rating": 3.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "155g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 452,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 65W",
+    "price": 2114830,
+    "rating": 4.0,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "87g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 453,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 1565041,
+    "rating": 3.9,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "59g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 454,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 946396,
+    "rating": 4.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "76g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 455,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 520041,
+    "rating": 4.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "137g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 456,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 998599,
+    "rating": 3.7,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "130g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 457,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 575905,
+    "rating": 4.4,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "65g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 458,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 1326608,
+    "rating": 4.1,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "150g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 459,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1125015,
+    "rating": 4.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "139g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 460,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 2301109,
+    "rating": 4.1,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "61g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 461,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 712101,
+    "rating": 4.5,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "170g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 462,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 2793674,
+    "rating": 4.8,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "150g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 463,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 816934,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "188g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 464,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 453084,
+    "rating": 3.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "78g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 465,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 638457,
+    "rating": 3.7,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "111g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 466,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 1365659,
+    "rating": 3.8,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "87g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 467,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 836075,
+    "rating": 3.6,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "157g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 468,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1052116,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "62g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 469,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 65W",
+    "price": 2514792,
+    "rating": 4.9,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "134g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 470,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 1483613,
+    "rating": 4.5,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "155g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 471,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 2106073,
+    "rating": 5.0,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "117g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 472,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 1508600,
+    "rating": 3.7,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "95g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 473,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1811125,
+    "rating": 3.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "177g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 474,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 2164633,
+    "rating": 4.5,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "141g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 475,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 682996,
+    "rating": 3.9,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "127g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 476,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 2455017,
+    "rating": 4.2,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "175g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 477,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 769652,
+    "rating": 4.3,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "196g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 478,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 990642,
+    "rating": 4.2,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "113g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 479,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 1585355,
+    "rating": 4.1,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "101g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 480,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 567950,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "143g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 481,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 866833,
+    "rating": 4.2,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "59g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 482,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 921258,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "167g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 483,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 2191222,
+    "rating": 4.8,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "61g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 484,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 2912152,
+    "rating": 3.6,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "196g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 485,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1167476,
+    "rating": 4.1,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "151g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 486,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 1574082,
+    "rating": 3.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "146g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 487,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 2578833,
+    "rating": 4.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "96g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 488,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1762026,
+    "rating": 3.6,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "114g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 489,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 1559506,
+    "rating": 4.3,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "158g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 490,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 990612,
+    "rating": 4.1,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "106g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 491,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 2116345,
+    "rating": 4.8,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "156g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 492,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 373540,
+    "rating": 4.6,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "193g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 493,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 2913783,
+    "rating": 4.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "139g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 494,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 65W",
+    "price": 1621848,
+    "rating": 3.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "66g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 495,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 1466616,
+    "rating": 4.5,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "190g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 496,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 2288438,
+    "rating": 4.1,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "86g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 497,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 1136761,
+    "rating": 4.4,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "130g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 498,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 2823678,
+    "rating": 3.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "84g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 499,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 1808461,
+    "rating": 4.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "187g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 500,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 1161832,
+    "rating": 4.8,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "87g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 501,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 1086039,
+    "rating": 4.6,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "132g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 502,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 2328607,
+    "rating": 4.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "95g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 503,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 2624540,
+    "rating": 4.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "74g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 504,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 1275780,
+    "rating": 4.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "107g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 505,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 1572809,
+    "rating": 4.6,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "148g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 506,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 2874231,
+    "rating": 4.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "95g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 507,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 371852,
+    "rating": 4.3,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "165g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 508,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 288401,
+    "rating": 4.2,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "67g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 509,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 208086,
+    "rating": 4.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "130g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 510,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 1799333,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "176g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 511,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 1855721,
+    "rating": 4.8,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "167g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 512,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1872488,
+    "rating": 3.8,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "59g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 513,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 531159,
+    "rating": 4.4,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "86g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 514,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 65W",
+    "price": 1548673,
+    "rating": 4.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "70g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 515,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 937851,
+    "rating": 3.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "152g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 516,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 2598809,
+    "rating": 4.0,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "178g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 517,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 393181,
+    "rating": 4.2,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "107g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 518,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 2676908,
+    "rating": 5.0,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "81g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 519,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 2287794,
+    "rating": 5.0,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "125g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 520,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 1480683,
+    "rating": 3.8,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "81g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 521,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 1423242,
+    "rating": 4.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "114g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 522,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1714894,
+    "rating": 3.7,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "69g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 523,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 33W",
+    "price": 863739,
+    "rating": 4.1,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "86g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 524,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 25W",
+    "price": 2825591,
+    "rating": 4.0,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "79g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 525,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 2708630,
+    "rating": 3.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "89g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 526,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 18W",
+    "price": 1876521,
+    "rating": 4.5,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "52g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 527,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 599553,
+    "rating": 5.0,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "187g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 528,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 1563042,
+    "rating": 3.9,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "52g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 529,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 2407149,
+    "rating": 4.3,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "138g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 530,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1980300,
+    "rating": 4.5,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "119g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 531,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 2219637,
+    "rating": 4.8,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "193g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 532,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 2545392,
+    "rating": 4.0,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "124g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 533,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 2837073,
+    "rating": 3.7,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "124g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 534,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 2519502,
+    "rating": 4.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "68g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 535,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 2127283,
+    "rating": 3.9,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "77g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 536,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 2009620,
+    "rating": 4.2,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "130g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 537,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 65W",
+    "price": 630017,
+    "rating": 4.5,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "131g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 538,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 2831963,
+    "rating": 3.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "168g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 539,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 25W",
+    "price": 1599212,
+    "rating": 3.8,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "167g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 540,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 2615287,
+    "rating": 4.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "104g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 541,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 2903797,
+    "rating": 4.1,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "140g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 542,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1273235,
+    "rating": 4.7,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "163g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 543,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 1703414,
+    "rating": 4.8,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "72g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 544,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 2483483,
+    "rating": 4.8,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "161g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 545,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 2450362,
+    "rating": 3.7,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "92g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 546,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 25W",
+    "price": 2753670,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "76g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 547,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 2294585,
+    "rating": 3.5,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "115g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 548,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 2351567,
+    "rating": 4.4,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "137g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 549,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 1488282,
+    "rating": 5.0,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "149g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 550,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 1694564,
+    "rating": 4.5,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "82g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 551,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 1370913,
+    "rating": 4.0,
+    "specs": {
+      "power": "65W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "129g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 552,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1416297,
+    "rating": 4.8,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "146g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 553,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 831683,
+    "rating": 4.3,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "135g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 554,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 1039068,
+    "rating": 4.2,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "56g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 555,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 2502044,
+    "rating": 3.6,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "137g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 556,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 2141463,
+    "rating": 4.9,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "130g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 557,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 857495,
+    "rating": 3.7,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "196g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 558,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 1932323,
+    "rating": 3.9,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "70g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 559,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 18W",
+    "price": 2579842,
+    "rating": 3.7,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "63g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 560,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1133259,
+    "rating": 4.7,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "187g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 561,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 25W",
+    "price": 1391335,
+    "rating": 4.5,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "175g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 562,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1202012,
+    "rating": 4.0,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "149g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 563,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 65W",
+    "price": 1679189,
+    "rating": 4.4,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "67g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 564,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 513182,
+    "rating": 3.6,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "189g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 565,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 609217,
+    "rating": 4.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "81g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 566,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 25W",
+    "price": 2427875,
+    "rating": 4.3,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "127g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 567,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 33W",
+    "price": 2954368,
+    "rating": 3.8,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "158g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 568,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 1766300,
+    "rating": 3.5,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "69g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 569,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 1160330,
+    "rating": 4.1,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "52g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 570,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 100W",
+    "price": 1285911,
+    "rating": 4.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "197g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 571,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1191815,
+    "rating": 3.8,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "118g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 572,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 100W",
+    "price": 1077462,
+    "rating": 4.3,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "162g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 573,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 341299,
+    "rating": 4.5,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "181g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 574,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 739416,
+    "rating": 4.6,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "132g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 575,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 65W",
+    "price": 1275675,
+    "rating": 4.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "71g",
+      "color": "Xanh",
+      "warranty": "6 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 576,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 433725,
+    "rating": 4.4,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "143g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 577,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 165237,
+    "rating": 3.6,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "129g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 578,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 25W",
+    "price": 2382072,
+    "rating": 3.8,
+    "specs": {
+      "power": "25W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "111g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 579,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 264138,
+    "rating": 3.6,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "78g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 580,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 981230,
+    "rating": 3.8,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "73g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 581,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 1901640,
+    "rating": 3.9,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "120g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 582,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 25W",
+    "price": 755440,
+    "rating": 4.8,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "56g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 583,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 2757557,
+    "rating": 4.8,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "171g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 584,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 33W",
+    "price": 2210963,
+    "rating": 3.7,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "154g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 585,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 65W",
+    "price": 687261,
+    "rating": 3.8,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "139g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 586,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 100W",
+    "price": 360013,
+    "rating": 4.6,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-C",
+      "fast_charge": "Có",
+      "weight": "89g",
+      "color": "Đen",
+      "warranty": "6 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 587,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 18W",
+    "price": 406743,
+    "rating": 4.3,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "133g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 588,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 18W",
+    "price": 1408919,
+    "rating": 4.4,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Có",
+      "weight": "79g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 589,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 2663300,
+    "rating": 4.3,
+    "specs": {
+      "power": "18W",
+      "ports": "USB-C",
+      "fast_charge": "Không",
+      "weight": "166g",
+      "color": "Đỏ",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 590,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 100W",
+    "price": 1718100,
+    "rating": 5.0,
+    "specs": {
+      "power": "100W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "182g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 591,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 2383713,
+    "rating": 3.9,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "85g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 592,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 18W",
+    "price": 1791224,
+    "rating": 4.0,
+    "specs": {
+      "power": "18W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "104g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 593,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Baseus",
+    "name": "Baseus Charger 100W",
+    "price": 1553824,
+    "rating": 3.8,
+    "specs": {
+      "power": "100W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "113g",
+      "color": "Đỏ",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 594,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 25W",
+    "price": 1769608,
+    "rating": 4.4,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "111g",
+      "color": "Xanh",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 595,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 1399907,
+    "rating": 4.0,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Có",
+      "weight": "116g",
+      "color": "Đỏ",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 596,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 65W",
+    "price": 1298177,
+    "rating": 3.7,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-C + USB-A",
+      "fast_charge": "Không",
+      "weight": "88g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 597,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Aukey",
+    "name": "Aukey Charger 33W",
+    "price": 2883137,
+    "rating": 4.5,
+    "specs": {
+      "power": "33W",
+      "ports": "USB-A",
+      "fast_charge": "Không",
+      "weight": "162g",
+      "color": "Trắng",
+      "warranty": "6 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 598,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Anker",
+    "name": "Anker Charger 25W",
+    "price": 2355890,
+    "rating": 4.4,
+    "specs": {
+      "power": "25W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "181g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 599,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Samsung",
+    "name": "Samsung Charger 33W",
+    "price": 2453052,
+    "rating": 3.9,
+    "specs": {
+      "power": "33W",
+      "ports": "Dual USB",
+      "fast_charge": "Không",
+      "weight": "135g",
+      "color": "Xanh",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 600,
+    "category": "Cục sạc",
+    "tags": [
+      "phụ kiện",
+      "sạc"
+    ],
+    "brand": "Xiaomi",
+    "name": "Xiaomi Charger 65W",
+    "price": 1285575,
+    "rating": 4.0,
+    "specs": {
+      "power": "65W",
+      "ports": "USB-A",
+      "fast_charge": "Có",
+      "weight": "105g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  }
+]

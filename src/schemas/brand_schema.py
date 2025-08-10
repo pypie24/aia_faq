@@ -1,26 +1,25 @@
 from uuid import UUID
 from typing import Optional
-
 from pydantic import BaseModel
 
 
-class KnowledgeCreateSchema(BaseModel):
-    question: str
-    response: str
+class BrandCreateSchema(BaseModel):
+    name: str
+    description: Optional[str] = None
 
     class Config:
         orm_mode = True
 
 
-class KnowledgeUpdateSchema(BaseModel):
-    question: Optional[str] = None
-    response: Optional[str] = None
+class BrandUpdateSchema(BaseModel):
+    name: Optional[str] = None
+    description: Optional[str] = None
 
     class Config:
         orm_mode = True
 
 
-class KnowledgeSchema(KnowledgeUpdateSchema):
+class BrandSchema(BrandUpdateSchema):
     id: UUID
 
     class Config:

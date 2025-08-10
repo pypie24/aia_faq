@@ -4,6 +4,8 @@ services:
     container_name: faq_service
     ports:
       - 8000:8000
+    expose:
+      - 8000
     env_file:
       - .env
     environment:
@@ -20,6 +22,11 @@ services:
       - ./:/app/:u+rw
     networks:
       - faq-network
+    command: ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload", "--workers", "4"]
+    depends_on:
+      - db
+      - minio
+      - chromadb
 
   db:
     image: postgres:15-alpine
@@ -30,15 +37,50 @@ services:
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_DB: ${POSTGRES_DB}
+      DB_TEST_NAME: ${DB_TEST_NAME}
+    expose:
+      - 5432
     ports:
       - 5432:5432
     volumes:
       - db_data:/var/lib/postgresql/data
+      - ./bootstrap/init-db.sh:/docker-entrypoint-initdb.d/init.sh
     networks:
       - faq-network
 
+  chromadb:
+    image: chromadb/chroma:latest
+    ports:
+      - 8000:8000
+    volumes:
+      - chroma_data:/chroma/chroma # Persist data to a local directory
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - faq-network
+
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports:
+      - 9000:9000
+      - 9001:9001
+    volumes:
+      - minio_data:/data
+    networks:
+      - faq-network
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    command: server /data --console-address ":9001"
+
 volumes:
   db_data:
+  chroma_data:
+  minio_data:
 
 networks:
   faq-network:

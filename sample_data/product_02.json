@@ -1,0 +1,8102 @@
+[
+  {
+    "index": 1,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 257 15MP",
+    "price": 10570753,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "15MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-83111",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1586mAh",
+      "weight": "802g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 2,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 864 28MP",
+    "price": 43369393,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-53028",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1882mAh",
+      "weight": "514g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 3,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 956 28MP",
+    "price": 30672122,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-67517",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1206mAh",
+      "weight": "407g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 4,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 753 15MP",
+    "price": 96032630,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "15MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-58704",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2276mAh",
+      "weight": "659g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 5,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 195 45MP",
+    "price": 95117324,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "45MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-61234",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1271mAh",
+      "weight": "384g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 6,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 922 46MP",
+    "price": 25586387,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "46MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-46044",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1951mAh",
+      "weight": "493g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 7,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 157 31MP",
+    "price": 99612540,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-80720",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1437mAh",
+      "weight": "1210g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 8,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 699 20MP",
+    "price": 13969532,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-71954",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "877mAh",
+      "weight": "1054g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 9,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 352 29MP",
+    "price": 24175882,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "29MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-84603",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1432mAh",
+      "weight": "1379g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 10,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 512 20MP",
+    "price": 37864582,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-31672",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1480mAh",
+      "weight": "1385g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 11,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 988 32MP",
+    "price": 9481720,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "32MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-49000",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1232mAh",
+      "weight": "514g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 12,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 771 43MP",
+    "price": 73890093,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "43MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-66735",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1507mAh",
+      "weight": "317g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 13,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 967 35MP",
+    "price": 76061559,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "35MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-99157",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2314mAh",
+      "weight": "542g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 14,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 110 13MP",
+    "price": 29761256,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "13MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-36282",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2187mAh",
+      "weight": "661g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 15,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 350 43MP",
+    "price": 91042296,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "43MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-38778",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1853mAh",
+      "weight": "1310g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 16,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 227 34MP",
+    "price": 85855276,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-43870",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1374mAh",
+      "weight": "545g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 17,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 842 28MP",
+    "price": 13480129,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-29947",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "938mAh",
+      "weight": "491g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 18,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 260 47MP",
+    "price": 97769610,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-78838",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1447mAh",
+      "weight": "796g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 19,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 937 27MP",
+    "price": 66771209,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-78668",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2101mAh",
+      "weight": "1158g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 20,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 924 18MP",
+    "price": 15348802,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-73517",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1513mAh",
+      "weight": "343g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 21,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 584 20MP",
+    "price": 28136528,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-88715",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2352mAh",
+      "weight": "931g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 22,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 398 31MP",
+    "price": 92661880,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-59302",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1442mAh",
+      "weight": "1438g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 23,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 282 39MP",
+    "price": 112908374,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-75128",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1242mAh",
+      "weight": "991g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 24,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 659 46MP",
+    "price": 25659126,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "46MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-51824",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1928mAh",
+      "weight": "1473g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 25,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 122 22MP",
+    "price": 78020263,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-83057",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1748mAh",
+      "weight": "1207g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 26,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 572 47MP",
+    "price": 55515782,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-46263",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1567mAh",
+      "weight": "703g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 27,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 322 39MP",
+    "price": 106633172,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-49855",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1049mAh",
+      "weight": "624g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 28,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 218 26MP",
+    "price": 59707094,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-76739",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1723mAh",
+      "weight": "1408g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 29,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 227 41MP",
+    "price": 27535533,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-59522",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "893mAh",
+      "weight": "865g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 30,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 414 26MP",
+    "price": 115056454,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-44894",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "936mAh",
+      "weight": "470g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 31,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 968 23MP",
+    "price": 25671084,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "23MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-43499",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2399mAh",
+      "weight": "1311g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 32,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 928 31MP",
+    "price": 97936482,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-97689",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2008mAh",
+      "weight": "1034g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 33,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 705 30MP",
+    "price": 14208395,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-97203",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2489mAh",
+      "weight": "734g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 34,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 482 24MP",
+    "price": 46497574,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "24MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-44449",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1750mAh",
+      "weight": "536g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 35,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 828 19MP",
+    "price": 54991064,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "19MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-67534",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1948mAh",
+      "weight": "670g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 36,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 244 20MP",
+    "price": 107470348,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-77403",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1953mAh",
+      "weight": "1036g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 37,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 593 15MP",
+    "price": 90686219,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "15MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-97315",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1986mAh",
+      "weight": "386g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 38,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 651 15MP",
+    "price": 99838763,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "15MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-71675",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2383mAh",
+      "weight": "341g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 39,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 572 27MP",
+    "price": 111636877,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-30996",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2297mAh",
+      "weight": "789g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 40,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 756 39MP",
+    "price": 78133492,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-26403",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1636mAh",
+      "weight": "921g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 41,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 665 48MP",
+    "price": 17439110,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "48MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-46747",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1879mAh",
+      "weight": "1236g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 42,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 942 46MP",
+    "price": 89463383,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "46MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-38215",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "870mAh",
+      "weight": "743g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 43,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 128 21MP",
+    "price": 60482804,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-98702",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2070mAh",
+      "weight": "1261g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 44,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 868 12MP",
+    "price": 83553879,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "12MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-26246",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2163mAh",
+      "weight": "418g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 45,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 855 20MP",
+    "price": 27091451,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-91877",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1720mAh",
+      "weight": "450g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 46,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 324 38MP",
+    "price": 25920860,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-75280",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1648mAh",
+      "weight": "1200g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 47,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 605 48MP",
+    "price": 48114578,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "48MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-55425",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1811mAh",
+      "weight": "1015g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 48,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 454 12MP",
+    "price": 94856165,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "12MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-45022",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1825mAh",
+      "weight": "1130g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 49,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 335 16MP",
+    "price": 100013635,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-61578",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "860mAh",
+      "weight": "1197g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 50,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 174 45MP",
+    "price": 99954342,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "45MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-44715",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1334mAh",
+      "weight": "555g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 51,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 121 39MP",
+    "price": 5501902,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-45472",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1351mAh",
+      "weight": "1317g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 52,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 665 22MP",
+    "price": 83243420,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-91774",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "849mAh",
+      "weight": "696g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 53,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 295 37MP",
+    "price": 25255427,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-76949",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2333mAh",
+      "weight": "518g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 54,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 599 20MP",
+    "price": 85788555,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-44366",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1980mAh",
+      "weight": "1196g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 55,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 157 24MP",
+    "price": 71714250,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "24MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-44394",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1667mAh",
+      "weight": "604g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 56,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 978 24MP",
+    "price": 70056920,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "24MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-31402",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1251mAh",
+      "weight": "1118g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 57,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 842 47MP",
+    "price": 89208520,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-39273",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1594mAh",
+      "weight": "1169g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 58,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 580 13MP",
+    "price": 85175662,
+    "rating": 5.0,
+    "specs": {
+      "sensor": "13MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-57085",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "935mAh",
+      "weight": "1204g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 59,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 368 25MP",
+    "price": 91987572,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-41110",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1194mAh",
+      "weight": "674g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 60,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 298 25MP",
+    "price": 74847334,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-95378",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "922mAh",
+      "weight": "1118g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 61,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 477 30MP",
+    "price": 51696337,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-63488",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2064mAh",
+      "weight": "814g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 62,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 844 26MP",
+    "price": 98524399,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-83273",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1337mAh",
+      "weight": "1173g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 63,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 160 50MP",
+    "price": 71147763,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-29929",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1877mAh",
+      "weight": "1180g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 64,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 404 25MP",
+    "price": 18387703,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-74197",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2115mAh",
+      "weight": "687g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 65,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 988 12MP",
+    "price": 45497007,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "12MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-93628",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1539mAh",
+      "weight": "1363g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 66,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 889 30MP",
+    "price": 54251741,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-77773",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2426mAh",
+      "weight": "1175g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 67,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 341 26MP",
+    "price": 95159671,
+    "rating": 5.0,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-64999",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1525mAh",
+      "weight": "631g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 68,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 665 22MP",
+    "price": 49010921,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-89298",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1848mAh",
+      "weight": "549g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 69,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 616 38MP",
+    "price": 102710886,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-53566",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1873mAh",
+      "weight": "528g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 70,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 263 50MP",
+    "price": 46988307,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-33576",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1580mAh",
+      "weight": "568g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 71,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 430 22MP",
+    "price": 34742139,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-69534",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1781mAh",
+      "weight": "1251g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 72,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 839 34MP",
+    "price": 31586807,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-88012",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1116mAh",
+      "weight": "404g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 73,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 340 27MP",
+    "price": 92586466,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-40355",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1059mAh",
+      "weight": "440g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 74,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 132 38MP",
+    "price": 39978919,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-99555",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "999mAh",
+      "weight": "1291g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 75,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 587 13MP",
+    "price": 90360255,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "13MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-57122",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2479mAh",
+      "weight": "432g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 76,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 179 37MP",
+    "price": 69292895,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-41169",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2233mAh",
+      "weight": "490g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 77,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 694 16MP",
+    "price": 101862798,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-61790",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2441mAh",
+      "weight": "1013g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 78,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 984 16MP",
+    "price": 5536940,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-42462",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2043mAh",
+      "weight": "729g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 79,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 679 41MP",
+    "price": 80149771,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-74473",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1143mAh",
+      "weight": "974g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 80,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 989 27MP",
+    "price": 103161301,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-72187",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1777mAh",
+      "weight": "1023g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 81,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 834 35MP",
+    "price": 30173703,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "35MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-71251",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1060mAh",
+      "weight": "1079g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 82,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 577 31MP",
+    "price": 42051993,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-91499",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1242mAh",
+      "weight": "435g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 83,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 156 42MP",
+    "price": 93571054,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-100981",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2337mAh",
+      "weight": "1124g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 84,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 171 42MP",
+    "price": 108480357,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-70660",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1959mAh",
+      "weight": "442g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 85,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 961 46MP",
+    "price": 31449552,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "46MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-80573",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2110mAh",
+      "weight": "982g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 86,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 220 39MP",
+    "price": 42784357,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-86794",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1676mAh",
+      "weight": "784g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 87,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 534 37MP",
+    "price": 75385744,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-72285",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1583mAh",
+      "weight": "962g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 88,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 373 12MP",
+    "price": 103583046,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "12MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-52952",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2402mAh",
+      "weight": "1401g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 89,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 873 44MP",
+    "price": 46849494,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "44MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-32153",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2032mAh",
+      "weight": "1394g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 90,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 715 16MP",
+    "price": 85633378,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-50458",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1707mAh",
+      "weight": "1045g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 91,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 530 25MP",
+    "price": 72264041,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-25947",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1655mAh",
+      "weight": "649g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 92,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 640 23MP",
+    "price": 55386539,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "23MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-91529",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1783mAh",
+      "weight": "1443g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 93,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 665 24MP",
+    "price": 57531485,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "24MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-90373",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2413mAh",
+      "weight": "658g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 94,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 925 36MP",
+    "price": 39206314,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "36MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-43752",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "997mAh",
+      "weight": "910g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 95,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 641 14MP",
+    "price": 14333610,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "14MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-63185",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2375mAh",
+      "weight": "320g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 96,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 199 49MP",
+    "price": 90009252,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "49MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-69766",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2117mAh",
+      "weight": "1161g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 97,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 331 43MP",
+    "price": 13303418,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "43MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-44179",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1486mAh",
+      "weight": "998g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 98,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 719 20MP",
+    "price": 43006133,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-30990",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "910mAh",
+      "weight": "1275g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 99,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 243 42MP",
+    "price": 95596882,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-44360",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2157mAh",
+      "weight": "361g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 100,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 681 37MP",
+    "price": 106856274,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-28849",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2243mAh",
+      "weight": "1351g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 101,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 303 34MP",
+    "price": 17222296,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-44405",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1118mAh",
+      "weight": "1201g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 102,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 737 38MP",
+    "price": 29023505,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-71844",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1368mAh",
+      "weight": "1250g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 103,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 934 30MP",
+    "price": 93032290,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-85213",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "805mAh",
+      "weight": "440g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 104,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 382 16MP",
+    "price": 107212141,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-84824",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2417mAh",
+      "weight": "1411g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 105,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 647 30MP",
+    "price": 52712275,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-40060",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1064mAh",
+      "weight": "953g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 106,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 774 26MP",
+    "price": 110446744,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-27233",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1199mAh",
+      "weight": "691g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 107,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 516 40MP",
+    "price": 33820397,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "40MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-73927",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2187mAh",
+      "weight": "1022g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 108,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 681 19MP",
+    "price": 15186014,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "19MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-26267",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2475mAh",
+      "weight": "536g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 109,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 999 31MP",
+    "price": 23788316,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-83599",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1907mAh",
+      "weight": "1234g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 110,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 238 34MP",
+    "price": 18917499,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-66820",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1004mAh",
+      "weight": "869g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 111,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 495 21MP",
+    "price": 78509781,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-32545",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1496mAh",
+      "weight": "331g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 112,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 209 37MP",
+    "price": 41728257,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-95911",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1495mAh",
+      "weight": "483g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 113,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 419 30MP",
+    "price": 82454970,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-89772",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1879mAh",
+      "weight": "349g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 114,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 580 44MP",
+    "price": 20412950,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "44MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-43704",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2011mAh",
+      "weight": "814g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 115,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 402 25MP",
+    "price": 63579350,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-34393",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1433mAh",
+      "weight": "705g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 116,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 500 21MP",
+    "price": 116665742,
+    "rating": 5.0,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-82428",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2331mAh",
+      "weight": "955g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 117,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 132 32MP",
+    "price": 50229126,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "32MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-79832",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1726mAh",
+      "weight": "719g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 118,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 398 21MP",
+    "price": 52491259,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-36199",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1549mAh",
+      "weight": "823g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 119,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 205 42MP",
+    "price": 63703904,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-35434",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "993mAh",
+      "weight": "748g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 120,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 617 38MP",
+    "price": 9884230,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-78448",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2481mAh",
+      "weight": "1142g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 121,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 827 34MP",
+    "price": 55642726,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-62719",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1950mAh",
+      "weight": "676g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 122,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 620 30MP",
+    "price": 99142098,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-31173",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1671mAh",
+      "weight": "1407g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 123,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 983 22MP",
+    "price": 19904412,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-42393",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1312mAh",
+      "weight": "375g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 124,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 740 18MP",
+    "price": 73755763,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-100119",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2291mAh",
+      "weight": "1317g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 125,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 902 14MP",
+    "price": 104762109,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "14MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-40435",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1529mAh",
+      "weight": "1191g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 126,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 305 24MP",
+    "price": 46173378,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "24MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-31279",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "802mAh",
+      "weight": "1017g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 127,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 799 21MP",
+    "price": 40092523,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-27046",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1855mAh",
+      "weight": "758g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 128,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 274 30MP",
+    "price": 67984699,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-84561",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "863mAh",
+      "weight": "439g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 129,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 954 29MP",
+    "price": 8390186,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "29MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-91048",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2485mAh",
+      "weight": "762g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 130,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 433 28MP",
+    "price": 117139110,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-66123",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "927mAh",
+      "weight": "1335g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 131,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 846 45MP",
+    "price": 99625106,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "45MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-41427",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1708mAh",
+      "weight": "525g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 132,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 782 49MP",
+    "price": 16032641,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "49MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-47602",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1336mAh",
+      "weight": "571g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 133,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 979 44MP",
+    "price": 5923364,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "44MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-86813",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1082mAh",
+      "weight": "578g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 134,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 564 47MP",
+    "price": 112963037,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-32433",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1527mAh",
+      "weight": "990g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 135,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 935 22MP",
+    "price": 55199011,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-60162",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1199mAh",
+      "weight": "621g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 136,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 557 18MP",
+    "price": 103561483,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-56549",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2042mAh",
+      "weight": "406g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 137,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 191 12MP",
+    "price": 72152458,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "12MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-77888",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2466mAh",
+      "weight": "1365g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 138,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 467 19MP",
+    "price": 49064973,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "19MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-88254",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1113mAh",
+      "weight": "845g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 139,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 224 40MP",
+    "price": 113046144,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "40MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-84520",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2265mAh",
+      "weight": "625g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 140,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 496 28MP",
+    "price": 49758241,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-57786",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1036mAh",
+      "weight": "1448g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 141,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 297 12MP",
+    "price": 99167205,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "12MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-34502",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2021mAh",
+      "weight": "527g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 142,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 156 41MP",
+    "price": 86904820,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-83739",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "882mAh",
+      "weight": "889g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 143,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 405 24MP",
+    "price": 92421095,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "24MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-55906",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "877mAh",
+      "weight": "670g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 144,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 958 28MP",
+    "price": 110812708,
+    "rating": 5.0,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-41356",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1545mAh",
+      "weight": "1474g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 145,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 408 34MP",
+    "price": 119063685,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-36310",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1229mAh",
+      "weight": "1346g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 146,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 301 37MP",
+    "price": 85792773,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-46686",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1050mAh",
+      "weight": "1499g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 147,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 852 33MP",
+    "price": 27624391,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "33MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-70254",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2394mAh",
+      "weight": "499g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 148,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 388 50MP",
+    "price": 94462252,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-74342",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2247mAh",
+      "weight": "1047g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 149,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 486 24MP",
+    "price": 90763656,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "24MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-41149",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2333mAh",
+      "weight": "1305g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 150,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 199 18MP",
+    "price": 60659834,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-71216",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1102mAh",
+      "weight": "732g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 151,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 699 28MP",
+    "price": 73513476,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-93300",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1290mAh",
+      "weight": "725g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 152,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 647 50MP",
+    "price": 72889962,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-86803",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "947mAh",
+      "weight": "359g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 153,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 678 42MP",
+    "price": 20352541,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-99856",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1238mAh",
+      "weight": "830g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 154,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 386 16MP",
+    "price": 68891387,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-61764",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2344mAh",
+      "weight": "498g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 155,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 557 28MP",
+    "price": 67550458,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-93217",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "938mAh",
+      "weight": "697g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 156,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 454 34MP",
+    "price": 13541478,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-58905",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1399mAh",
+      "weight": "694g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 157,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 185 37MP",
+    "price": 18558971,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-56294",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1703mAh",
+      "weight": "684g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 158,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 829 26MP",
+    "price": 32269817,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-72131",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2077mAh",
+      "weight": "1491g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 159,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 211 43MP",
+    "price": 71195186,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "43MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-44077",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2472mAh",
+      "weight": "1334g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 160,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 400 49MP",
+    "price": 109715595,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "49MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-58904",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1835mAh",
+      "weight": "1374g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 161,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 272 16MP",
+    "price": 50516004,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-43254",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1107mAh",
+      "weight": "626g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 162,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 320 44MP",
+    "price": 33281815,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "44MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-78621",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1352mAh",
+      "weight": "1142g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 163,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 871 21MP",
+    "price": 25642353,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-37665",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2452mAh",
+      "weight": "523g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 164,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 940 16MP",
+    "price": 38411684,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-43065",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2199mAh",
+      "weight": "913g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 165,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 351 34MP",
+    "price": 86261385,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-43222",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1583mAh",
+      "weight": "575g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 166,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 479 43MP",
+    "price": 46273636,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "43MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-90181",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1794mAh",
+      "weight": "773g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 167,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 533 31MP",
+    "price": 33494610,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-76108",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1602mAh",
+      "weight": "1289g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 168,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 869 37MP",
+    "price": 18369907,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-32966",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1634mAh",
+      "weight": "503g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 169,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 265 22MP",
+    "price": 26370298,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-42650",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2433mAh",
+      "weight": "577g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 170,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 950 47MP",
+    "price": 97027785,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-82964",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1882mAh",
+      "weight": "1408g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 171,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 705 31MP",
+    "price": 17440715,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-50149",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2022mAh",
+      "weight": "504g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 172,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 117 18MP",
+    "price": 23417553,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-96813",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2062mAh",
+      "weight": "1037g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 173,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 324 33MP",
+    "price": 37351248,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "33MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-102234",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "949mAh",
+      "weight": "329g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 174,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 606 35MP",
+    "price": 85881841,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "35MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-99234",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2351mAh",
+      "weight": "326g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 175,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 119 38MP",
+    "price": 92269289,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-33296",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1034mAh",
+      "weight": "632g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 176,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 335 28MP",
+    "price": 96004286,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-101568",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2368mAh",
+      "weight": "1108g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 177,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 960 50MP",
+    "price": 15830641,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-37874",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2449mAh",
+      "weight": "778g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 178,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 989 19MP",
+    "price": 92353615,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "19MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-51200",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1016mAh",
+      "weight": "1117g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 179,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 715 27MP",
+    "price": 46934364,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-96274",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1021mAh",
+      "weight": "853g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 180,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 784 25MP",
+    "price": 116550208,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-100322",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1890mAh",
+      "weight": "1284g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 181,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 402 42MP",
+    "price": 82880446,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-43733",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1069mAh",
+      "weight": "1270g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 182,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 709 48MP",
+    "price": 81185648,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "48MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-26040",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1778mAh",
+      "weight": "1382g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 183,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 944 47MP",
+    "price": 52304354,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-53842",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1690mAh",
+      "weight": "1234g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 184,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 452 30MP",
+    "price": 30646752,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-52584",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1686mAh",
+      "weight": "1104g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 185,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 818 30MP",
+    "price": 37034109,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-81944",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "803mAh",
+      "weight": "1215g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 186,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 714 34MP",
+    "price": 16453049,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-83537",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2119mAh",
+      "weight": "1269g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 187,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 157 41MP",
+    "price": 41949753,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-90970",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1315mAh",
+      "weight": "583g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 188,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 438 37MP",
+    "price": 22597389,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-100725",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "848mAh",
+      "weight": "426g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 189,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 204 26MP",
+    "price": 19488507,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-66805",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1420mAh",
+      "weight": "695g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 190,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 682 31MP",
+    "price": 63570482,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-100956",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1707mAh",
+      "weight": "632g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 191,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 538 47MP",
+    "price": 70088429,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-78434",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2092mAh",
+      "weight": "1023g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 192,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 660 33MP",
+    "price": 89151731,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "33MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-45662",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1703mAh",
+      "weight": "1358g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 193,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 998 41MP",
+    "price": 61386101,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-69695",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2194mAh",
+      "weight": "807g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 194,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 216 27MP",
+    "price": 95113278,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-70734",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1956mAh",
+      "weight": "1063g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 195,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 581 48MP",
+    "price": 94431578,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "48MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-37944",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2176mAh",
+      "weight": "1332g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 196,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 533 41MP",
+    "price": 52413173,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-39107",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1704mAh",
+      "weight": "656g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 197,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 506 25MP",
+    "price": 98423241,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-37678",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1188mAh",
+      "weight": "1293g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 198,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 308 37MP",
+    "price": 77597619,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-46628",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1066mAh",
+      "weight": "344g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 199,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 456 29MP",
+    "price": 66896986,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "29MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-85434",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1417mAh",
+      "weight": "734g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 200,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 802 22MP",
+    "price": 7490993,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-72359",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1515mAh",
+      "weight": "531g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 201,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 894 27MP",
+    "price": 32630827,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-88929",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1996mAh",
+      "weight": "1405g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 202,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 757 47MP",
+    "price": 29235475,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-48320",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2008mAh",
+      "weight": "870g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 203,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 592 38MP",
+    "price": 62255609,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-29801",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2233mAh",
+      "weight": "864g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 204,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 159 27MP",
+    "price": 44943992,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "27MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-79151",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1602mAh",
+      "weight": "1010g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 205,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 741 31MP",
+    "price": 38338536,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-34496",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1324mAh",
+      "weight": "330g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 206,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 307 50MP",
+    "price": 86771133,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-85558",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2245mAh",
+      "weight": "1091g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 207,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 537 22MP",
+    "price": 17740313,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-81949",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1015mAh",
+      "weight": "770g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 208,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 726 28MP",
+    "price": 61042783,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "28MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-34349",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1619mAh",
+      "weight": "700g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 209,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 263 42MP",
+    "price": 45356618,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-36942",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "943mAh",
+      "weight": "1441g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 210,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 239 17MP",
+    "price": 16735676,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "17MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-78938",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2083mAh",
+      "weight": "772g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 211,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 189 38MP",
+    "price": 105669725,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-60532",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1958mAh",
+      "weight": "746g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 212,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 329 45MP",
+    "price": 87941017,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "45MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-88640",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1554mAh",
+      "weight": "705g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 213,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 832 42MP",
+    "price": 10788677,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-58092",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "897mAh",
+      "weight": "1384g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 214,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 885 34MP",
+    "price": 109265401,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-37270",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1269mAh",
+      "weight": "807g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 215,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 111 39MP",
+    "price": 81893456,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-55482",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "826mAh",
+      "weight": "1260g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 216,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 428 39MP",
+    "price": 13652395,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-32709",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2270mAh",
+      "weight": "325g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 217,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 168 40MP",
+    "price": 66994963,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "40MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-35513",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1920mAh",
+      "weight": "893g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 218,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 617 34MP",
+    "price": 20091727,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "34MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-89910",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2244mAh",
+      "weight": "1414g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 219,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 757 46MP",
+    "price": 82209938,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "46MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-32512",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1640mAh",
+      "weight": "412g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 220,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 797 38MP",
+    "price": 65014199,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-25785",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1813mAh",
+      "weight": "944g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 221,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 415 49MP",
+    "price": 19403901,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "49MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-93078",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2311mAh",
+      "weight": "1471g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 222,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 673 36MP",
+    "price": 16777314,
+    "rating": 5.0,
+    "specs": {
+      "sensor": "36MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-84958",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1317mAh",
+      "weight": "679g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 223,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 500 26MP",
+    "price": 65044758,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-92052",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1271mAh",
+      "weight": "1391g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 224,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 790 21MP",
+    "price": 60762044,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-46091",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "895mAh",
+      "weight": "1102g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 225,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 535 18MP",
+    "price": 14892959,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-61496",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2492mAh",
+      "weight": "1174g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 226,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 383 22MP",
+    "price": 6810029,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-89298",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2217mAh",
+      "weight": "521g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 227,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 918 20MP",
+    "price": 119285166,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-55702",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2313mAh",
+      "weight": "761g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 228,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 617 30MP",
+    "price": 93083619,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-95637",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1412mAh",
+      "weight": "330g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 229,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 945 47MP",
+    "price": 25046624,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-88101",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1774mAh",
+      "weight": "435g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 230,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 325 25MP",
+    "price": 11015718,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-36550",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "823mAh",
+      "weight": "1173g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 231,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 181 16MP",
+    "price": 34342452,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-27026",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1729mAh",
+      "weight": "1453g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 232,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 510 47MP",
+    "price": 60298210,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-37202",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1817mAh",
+      "weight": "916g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 233,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 744 26MP",
+    "price": 102341659,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-67507",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1380mAh",
+      "weight": "356g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 234,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 233 38MP",
+    "price": 69977457,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-73691",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1791mAh",
+      "weight": "587g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 235,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 723 37MP",
+    "price": 23988315,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-57286",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2338mAh",
+      "weight": "573g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 236,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 617 47MP",
+    "price": 8074002,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-72027",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "972mAh",
+      "weight": "804g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 237,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 927 42MP",
+    "price": 87233755,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-40142",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "958mAh",
+      "weight": "1108g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 238,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 675 17MP",
+    "price": 91929506,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "17MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-38997",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2018mAh",
+      "weight": "335g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 239,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 771 29MP",
+    "price": 51732758,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "29MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-58591",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1203mAh",
+      "weight": "332g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 240,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 914 20MP",
+    "price": 99399812,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-90549",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "947mAh",
+      "weight": "513g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 241,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 196 20MP",
+    "price": 55459280,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-57524",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1398mAh",
+      "weight": "1382g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 242,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 401 16MP",
+    "price": 14240213,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "16MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-29114",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1785mAh",
+      "weight": "394g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 243,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 628 31MP",
+    "price": 12518232,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "31MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-36530",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2096mAh",
+      "weight": "944g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 244,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 107 18MP",
+    "price": 116746040,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-64901",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1463mAh",
+      "weight": "1357g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 245,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 811 44MP",
+    "price": 14244572,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "44MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-81722",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1553mAh",
+      "weight": "552g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 246,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 403 48MP",
+    "price": 11880065,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "48MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-26526",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1485mAh",
+      "weight": "1171g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 247,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 888 40MP",
+    "price": 60462792,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "40MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-99265",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1684mAh",
+      "weight": "1175g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 248,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 192 14MP",
+    "price": 107923916,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "14MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-63946",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1280mAh",
+      "weight": "761g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 249,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 768 47MP",
+    "price": 79309672,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-92348",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1137mAh",
+      "weight": "561g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 250,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 813 29MP",
+    "price": 94652272,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "29MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-87963",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1800mAh",
+      "weight": "1373g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 251,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 554 47MP",
+    "price": 94111228,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-38905",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1819mAh",
+      "weight": "1384g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 252,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 328 20MP",
+    "price": 65412544,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "20MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-70346",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2226mAh",
+      "weight": "520g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 253,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 513 13MP",
+    "price": 43588926,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "13MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-64822",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2268mAh",
+      "weight": "1187g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 254,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 663 22MP",
+    "price": 19446034,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-69362",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1176mAh",
+      "weight": "822g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 255,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 615 47MP",
+    "price": 44880193,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-57806",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "947mAh",
+      "weight": "318g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 256,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 214 18MP",
+    "price": 34339437,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "18MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-75521",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1762mAh",
+      "weight": "1118g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 257,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 209 43MP",
+    "price": 46376325,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "43MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-68395",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1969mAh",
+      "weight": "429g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 258,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 590 21MP",
+    "price": 46728564,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-69783",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1674mAh",
+      "weight": "913g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 259,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 448 38MP",
+    "price": 97920576,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-52790",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1577mAh",
+      "weight": "338g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 260,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 723 41MP",
+    "price": 30504299,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-59346",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1787mAh",
+      "weight": "1394g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 261,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 899 48MP",
+    "price": 114917802,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "48MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-88315",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1258mAh",
+      "weight": "1251g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 262,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 480 26MP",
+    "price": 59160621,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "26MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-85492",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1434mAh",
+      "weight": "1128g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 263,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 109 40MP",
+    "price": 46462580,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "40MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-40094",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1751mAh",
+      "weight": "1380g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 264,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 371 14MP",
+    "price": 99982449,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "14MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-48460",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1506mAh",
+      "weight": "488g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 265,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 605 14MP",
+    "price": 102443246,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "14MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-70817",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1570mAh",
+      "weight": "856g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 266,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 397 12MP",
+    "price": 35891185,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "12MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-56839",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1019mAh",
+      "weight": "740g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 267,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 326 19MP",
+    "price": 29221922,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "19MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-99508",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2014mAh",
+      "weight": "932g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 268,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 421 21MP",
+    "price": 103618052,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-86337",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1546mAh",
+      "weight": "739g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 269,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 101 23MP",
+    "price": 94205201,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "23MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-67034",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1992mAh",
+      "weight": "1327g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 270,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 410 45MP",
+    "price": 92005548,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "45MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-55004",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1763mAh",
+      "weight": "1262g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 271,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 682 39MP",
+    "price": 26144505,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-61997",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "933mAh",
+      "weight": "637g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 272,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 744 41MP",
+    "price": 27838366,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-28637",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1746mAh",
+      "weight": "1066g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 273,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 282 21MP",
+    "price": 108579061,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "21MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-99195",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2025mAh",
+      "weight": "1171g",
+      "color": "Bạc",
+      "warranty": "24 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 274,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 807 41MP",
+    "price": 117607799,
+    "rating": 4.1,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-31556",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1987mAh",
+      "weight": "919g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 275,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 324 41MP",
+    "price": 79401286,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "41MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-71076",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1070mAh",
+      "weight": "874g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 276,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 808 47MP",
+    "price": 36597076,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-43648",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "919mAh",
+      "weight": "800g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 277,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 234 43MP",
+    "price": 12752849,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "43MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-61619",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1828mAh",
+      "weight": "631g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 278,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 369 14MP",
+    "price": 55780244,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "14MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-84071",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2179mAh",
+      "weight": "1202g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 279,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 525 49MP",
+    "price": 107809042,
+    "rating": 4.2,
+    "specs": {
+      "sensor": "49MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-97789",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "807mAh",
+      "weight": "940g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 280,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 142 35MP",
+    "price": 90604347,
+    "rating": 3.9,
+    "specs": {
+      "sensor": "35MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-81485",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "878mAh",
+      "weight": "820g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 281,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 681 38MP",
+    "price": 102127192,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "38MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-82600",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1457mAh",
+      "weight": "961g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 282,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 505 14MP",
+    "price": 119921875,
+    "rating": 4.7,
+    "specs": {
+      "sensor": "14MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-100412",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1549mAh",
+      "weight": "493g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 283,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 906 37MP",
+    "price": 37293799,
+    "rating": 3.6,
+    "specs": {
+      "sensor": "37MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-26976",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1202mAh",
+      "weight": "485g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 284,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 523 25MP",
+    "price": 48330659,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "25MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-83097",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2451mAh",
+      "weight": "391g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 285,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 829 44MP",
+    "price": 46446389,
+    "rating": 4.8,
+    "specs": {
+      "sensor": "44MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-58859",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1760mAh",
+      "weight": "708g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 286,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 560 50MP",
+    "price": 60037450,
+    "rating": 4.0,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-82800",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1858mAh",
+      "weight": "738g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 287,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 925 32MP",
+    "price": 40340854,
+    "rating": 4.6,
+    "specs": {
+      "sensor": "32MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-63799",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2290mAh",
+      "weight": "814g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 288,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 711 22MP",
+    "price": 10466432,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-54642",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2200mAh",
+      "weight": "1075g",
+      "color": "Trắng",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 289,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 483 19MP",
+    "price": 5687175,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "19MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-57659",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "999mAh",
+      "weight": "1307g",
+      "color": "Đen",
+      "warranty": "24 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 290,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 679 46MP",
+    "price": 93091632,
+    "rating": 3.8,
+    "specs": {
+      "sensor": "46MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-93648",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2360mAh",
+      "weight": "1113g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2021
+    }
+  },
+  {
+    "index": 291,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 400 17MP",
+    "price": 55908250,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "17MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-37706",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2235mAh",
+      "weight": "909g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 292,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 770 50MP",
+    "price": 109929346,
+    "rating": 4.5,
+    "specs": {
+      "sensor": "50MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-91896",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2385mAh",
+      "weight": "698g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 293,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 777 30MP",
+    "price": 109231347,
+    "rating": 4.9,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-50975",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "990mAh",
+      "weight": "1098g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2025
+    }
+  },
+  {
+    "index": 294,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Panasonic",
+    "name": "Panasonic Camera 941 42MP",
+    "price": 115948205,
+    "rating": 3.5,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-74455",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1249mAh",
+      "weight": "1210g",
+      "color": "Trắng",
+      "warranty": "12 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 295,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 782 30MP",
+    "price": 31129234,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "30MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-101944",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1283mAh",
+      "weight": "637g",
+      "color": "Đen",
+      "warranty": "12 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 296,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 704 22MP",
+    "price": 91223938,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "22MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-54235",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1329mAh",
+      "weight": "354g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2022
+    }
+  },
+  {
+    "index": 297,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Canon",
+    "name": "Canon Camera 762 47MP",
+    "price": 107109762,
+    "rating": 5.0,
+    "specs": {
+      "sensor": "47MP CMOS",
+      "lens": "Prime 50mm",
+      "iso": "100-75012",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1218mAh",
+      "weight": "613g",
+      "color": "Bạc",
+      "warranty": "36 tháng",
+      "release_year": 2023
+    }
+  },
+  {
+    "index": 298,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Nikon",
+    "name": "Nikon Camera 402 39MP",
+    "price": 92445880,
+    "rating": 3.7,
+    "specs": {
+      "sensor": "39MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-49133",
+      "video": "4K 60fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1972mAh",
+      "weight": "886g",
+      "color": "Đen",
+      "warranty": "36 tháng",
+      "release_year": 2024
+    }
+  },
+  {
+    "index": 299,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Sony",
+    "name": "Sony Camera 375 23MP",
+    "price": 6378716,
+    "rating": 4.3,
+    "specs": {
+      "sensor": "23MP CMOS",
+      "lens": "Zoom 24-70mm",
+      "iso": "100-72606",
+      "video": "1080p 120fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "2245mAh",
+      "weight": "579g",
+      "color": "Bạc",
+      "warranty": "12 tháng",
+      "release_year": 2020
+    }
+  },
+  {
+    "index": 300,
+    "category": "Máy ảnh",
+    "tags": [
+      "máy ảnh",
+      "chụp ảnh"
+    ],
+    "brand": "Fujifilm",
+    "name": "Fujifilm Camera 972 42MP",
+    "price": 25154745,
+    "rating": 4.4,
+    "specs": {
+      "sensor": "42MP CMOS",
+      "lens": "Kit 18-55mm",
+      "iso": "100-63989",
+      "video": "4K 30fps",
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "battery": "1154mAh",
+      "weight": "1036g",
+      "color": "Trắng",
+      "warranty": "24 tháng",
+      "release_year": 2023
+    }
+  }
+]
