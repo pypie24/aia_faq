@@ -67,11 +67,13 @@ async def delete_product_line(
 
 @router.get("/lines", response_model=list[ProductLinesSchema])
 async def list_product_lines(
+    category_id: UUID = None,
+    brand_id: UUID = None,
     skip: int = 0,
     limit: int = 20,
     service: ProductLinesService = Depends(get_product_lines_service),
 ):
-    return await service.list(skip, limit)
+    return await service.list(category_id, brand_id, skip, limit)
 
 
 # Product Endpoints

@@ -1,6 +1,16 @@
-from sqlalchemy import JSON, UUID, Column, Date, ForeignKey, Integer, String
+from sqlalchemy import (
+    Boolean,
+    JSON,
+    UUID,
+    Column,
+    Date,
+    ForeignKey,
+    Integer,
+    String,
+    Float,
+    Text,
+)
 from sqlalchemy.orm import Relationship
-
 from src.models.base import BaseModel
 
 
@@ -8,7 +18,8 @@ class Category(BaseModel):
     __tablename__ = "categories"
 
     name = Column(String, index=True, nullable=False, unique=True)
-    description = Column(String, nullable=False)
+    product_lines = Relationship("ProductLines", back_populates="category")
+    description = Column(String, nullable=True)
 
     def __repr__(self):
         return f"<Category(id={self.id}, name={self.name}, description={self.description})>"
@@ -18,7 +29,8 @@ class Brand(BaseModel):
     __tablename__ = "brands"
 
     name = Column(String, index=True, nullable=False, unique=True)
-    description = Column(String, nullable=False)
+    product_lines = Relationship("ProductLines", back_populates="brand")
+    description = Column(String, nullable=True)
 
     def __repr__(self):
         return (
@@ -26,25 +38,19 @@ class Brand(BaseModel):
         )
 
 
-class Tag(BaseModel):
-    __tablename__ = "tags"
-
-    name = Column(String, index=True, nullable=False, unique=True)
-
-    def __repr__(self):
-        return f"<Tag(id={self.id}, name={self.name})>"
-
-
 class ProductLines(BaseModel):
     __tablename__ = "product_lines"
 
     name = Column(String, index=True, nullable=False, unique=True)
-    brand = Relationship("Brand", back_populates="product_lines", nullable=False)
-    category = Relationship("Category", back_populates="product_lines", nullable=False)
-    release_years = Column(Integer, nullable=False)
-    description = Column(String, nullable=False)
-    url = Column(String, nullable=False)
-    slug = Column(String, nullable=False)
+    brand = Relationship("Brand", back_populates="product_lines")
+    brand_id = Column(UUID, ForeignKey("brands.id"), nullable=False)
+    category = Relationship("Category", back_populates="product_lines")
+    category_id = Column(UUID, ForeignKey("categories.id"), nullable=False)
+    products = Relationship("Product", back_populates="product_line")
+    release_years = Column(Integer, nullable=True)
+    description = Column(String, nullable=True)
+    url = Column(String, nullable=True)
+    slug = Column(String, nullable=True)
 
     def __repr__(self):
         return f"<ProductLine(id={self.id}, name={self.name}, description={self.description})>"
@@ -54,73 +60,65 @@ class Product(BaseModel):
     __tablename__ = "products"
 
     name = Column(String, index=True, nullable=False, unique=True)
-    product_line = Relationship(
-        "ProductLines", back_populates="products", nullable=False
-    )
+    product_line = Relationship("ProductLines", back_populates="products")
     product_line_id = Column(UUID, ForeignKey("product_lines.id"), nullable=False)
-    release_date = Column(Date, nullable=False)
-    url = Column(String, nullable=False)
-    slug = Column(String, nullable=False)
+    sku = Column(String, nullable=True, unique=True)
+    variants = Relationship("ProductVariant", back_populates="product")
+    release_date = Column(Date, nullable=True)
+    url = Column(String, nullable=True)
+    slug = Column(String, nullable=True)
 
 
 class ProductVariant(BaseModel):
     __tablename__ = "product_variants"
 
-    product = Relationship("Product", back_populates="variants", nullable=False)
+    product = Relationship("Product", back_populates="variants")
     product_id = Column(UUID, ForeignKey("products.id"), nullable=False)
-    color = Column(String, nullable=False)
-    price = Column(float, nullable=False)
-    stock = Column(int, nullable=False)
-    specs = Column(JSON, nullable=False)
-    metadata = Column(JSON, nullable=True)
-    url = Column(String, nullable=False)
-    slug = Column(String, nullable=False)
+    name = Column(String, nullable=False)
+    variant_sku = Column(String, nullable=True, unique=True)
+    price = Column(Float, nullable=True)
+    stock = Column(Integer, nullable=True)
+    specs = Column(JSON, nullable=True)
+    url = Column(String, nullable=True)
+    slug = Column(String, nullable=True)
+    images = Relationship("Image", back_populates="variant")
+    tags = Relationship(
+        "Tag", secondary="product_variant_tags", back_populates="variants"
+    )
 
     def __repr__(self):
         return (
             f"<ProductVariant(id={self.id}, product_id={self.product_id}, "
-            f"color={self.color}, price={self.price}, stock={self.stock})>"
+            f"name={self.name}, color={self.color}, price={self.price}, stock={self.stock})>"
         )
 
 
 class Image(BaseModel):
     __tablename__ = "images"
 
-    name = Column(String, nullable=False)
-    url = Column(String, nullable=False)
-    alt_text = Column(String, nullable=False)
-
-    def __repr__(self):
-        return f"<Image(id={self.id}, name={self.name}, url={self.url}, alt_text={self.alt_text})>"
-
-
-class ImageAssignment(BaseModel):
-    __tablename__ = "image_assignments"
-
-    image_id = Column(UUID, ForeignKey("images.id"), nullable=False)
-    entity_id = Column(UUID, nullable=False)
-    entity_type = Column(String, nullable=False)
-    sort_order = Column(Integer, nullable=False)
-
-    def __repr__(self):
-        return (
-            f"<ImageAssignment(id={self.id}, image_id={self.image_id}, "
-            f"entity_id={self.entity_id}, entity_type={self.entity_type}, "
-            f"sort_order={self.sort_order})>"
-        )
+    variant_id = Column(
+        UUID, ForeignKey("product_variants.id", ondelete="CASCADE"), nullable=False
+    )
+    url = Column(Text, nullable=False)
+    alt_text = Column(String(255))
+    position = Column(Integer, default=0)
+    is_primary = Column(Boolean, default=False)
+    variant = Relationship("ProductVariant", back_populates="images")
 
 
-class TagAssignment(BaseModel):
-    __tablename__ = "tag_assignments"
+class Tag(BaseModel):
+    __tablename__ = "tags"
 
-    tag_id = Column(UUID, ForeignKey("tags.id"), nullable=False)
-    entity_id = Column(UUID, nullable=False)
-    entity_type = Column(String, nullable=False)
-    sort_order = Column(Integer, nullable=False)
+    name = Column(String(255), unique=True, nullable=False)
+    variants = Relationship(
+        "ProductVariant", secondary="product_variant_tags", back_populates="tags"
+    )
 
-    def __repr__(self):
-        return (
-            f"<TagAssignment(id={self.id}, tag_id={self.tag_id}, "
-            f"entity_id={self.entity_id}, entity_type={self.entity_type}, "
-            f"sort_order={self.sort_order})>"
-        )
+
+class ProductVariantTag(BaseModel):
+    __tablename__ = "product_variant_tags"
+
+    variant_id = Column(
+        UUID, ForeignKey("product_variants.id", ondelete="CASCADE"), primary_key=True
+    )
+    tag_id = Column(UUID, ForeignKey("tags.id", ondelete="CASCADE"), primary_key=True)

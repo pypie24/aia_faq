@@ -1,84 +1,57 @@
-from abc import ABC, abstractmethod
+from typing import Any
+import boto3
 
-from minio import Minio
-
-from src.config import get_settings
-
-
-class FileClient(ABC):
-    @abstractmethod
-    def upload_file(self, file_path: str, bucket_name: str, object_name: str):
-        pass
-
-    @abstractmethod
-    def download_file(self, bucket_name: str, object_name: str, file_path: str):
-        raise NotImplementedError("This method should be implemented by subclasses.")
-
-    @abstractmethod
-    def remove_file(self, bucket_name: str, object_name: str):
-        raise NotImplementedError("This method should be implemented by subclasses.")
-
-    @abstractmethod
-    def list_files(self, bucket_name: str):
-        raise NotImplementedError("This method should be implemented by subclasses.")
-
-    @abstractmethod
-    def create_folder(self, folder_name: str):
-        raise NotImplementedError("This method should be implemented by subclasses.")
-
-    @abstractmethod
-    def remove_folder(self, folder_name: str):
-        raise NotImplementedError("This method should be implemented by subclasses.")
-
-    @abstractmethod
-    def is_folder_exists(self, folder_name: str):
-        raise NotImplementedError("This method should be implemented by subclasses.")
+from src.config import settings
+from botocore.exceptions import ClientError
 
 
-class MinioClient(FileClient):
+class ImageUploader:
     def __init__(self):
-        settings = get_settings()
-        self.client = Minio(
-            endpoint=settings.FILE_SERVER_ENDPOINT,
-            access_key=settings.FILE_SERVER_ACCESS_KEY,
-            secret_key=settings.FILE_SERVER_SECRET_KEY,
-            secure=settings.FILE_SERVER_SECURE,
+        self.bucket_name = settings.FILE_SERVER_BUCKET_NAME
+        self.s3_client = boto3.client(
+            "s3",
+            endpoint_url=settings.FILE_SERVER_ENDPOINT,
+            aws_access_key_id=settings.FILE_SERVER_ACCESS_KEY,
+            aws_secret_access_key=settings.FILE_SERVER_SECRET_KEY,
+            region_name="us-east-1",
         )
 
-    def upload_file(self, file_path: str, folder_name: str, object_name: str):
-        if not self.is_folder_exists(folder_name):
-            self.create_folder(folder_name)
-        self.client.fput_object(folder_name, object_name, file_path)
+    def ensure_bucket(self) -> bool:
+        """
+        Checks if the S3 bucket exists.
 
-    def download_file(self, folder_name: str, object_name: str, file_path: str):
-        self.client.fget_object(folder_name, object_name, file_path)
-
-    def remove_file(self, folder_name: str, object_name: str):
-        self.client.remove_object(folder_name, object_name)
-
-    def list_files(self, folder_name: str):
-        return self.client.list_objects(folder_name)
-
-    def create_folder(self, folder_name: str):
-        self.client.make_bucket(folder_name)
-
-    def remove_folder(self, folder_name: str):
-        self.client.remove_bucket(folder_name)
-
-    def is_folder_exists(self, folder_name: str):
+        :return: True if the bucket exists, False otherwise.
+        """
         try:
-            self.client.bucket_exists(bucket_name=folder_name)
+            self.s3_client.head_bucket(Bucket=self.bucket_name)
             return True
-        except Exception:
-            return False
+        except ClientError as e:
+            self.s3_client.create_bucket(Bucket=self.bucket_name)
+            return True
+
+    def upload_image(self, object_data: Any, object_name: str = None) -> str:
+        """
+        Uploads an image to the S3 bucket.
+
+        :param object_data: The data of the object to upload.
+        :param object_name: S3 object name. If not specified, a unique name will be generated.
+        :return: URL of the uploaded image.
+        """
+        self.ensure_bucket()
+        try:
+            self.s3.upload_fileobj(object_data, self.bucket_name, object_name)
+        except ClientError as e:
+            raise RuntimeError(f"Failed to upload image: {e}")
+        return self.get_image_url(object_name)
+
+    def get_image_url(self, object_name: str) -> str:
+        """
+        Gets the public URL of an image stored in the S3 bucket.
+
+        :param object_name: S3 object name.
+        :return: URL of the image.
+        """
+        return f"{settings.FILE_SERVER_ENDPOINT}/{self.bucket_name}/{object_name}"
 
 
-class FileService:
-    def __init__(self, client: FileClient):
-        self.client = client
-
-    def save_image_to_bucket(self, bucket_name, object_name, image_data):
-        self.client.upload_file(image_data, bucket_name, object_name)
-
-    def get_image_from_bucket(self, bucket_name, object_name):
-        return self.client.download_file(bucket_name, object_name)
+image_uploader = ImageUploader()

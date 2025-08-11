@@ -1,17 +1,18 @@
 from uuid import UUID
-from typing import Optional, Dict
-from pydantic import BaseModel
+from typing import Optional
+
+from src.schemas.base_schema import BaseSchema
 
 
-class CategoryCreateSchema(BaseModel):
+class CategoryCreateSchema(BaseSchema):
     name: str
-    description: str
+    description: Optional[str] = None
 
     class Config:
         orm_mode = True
 
 
-class CategoryUpdateSchema(BaseModel):
+class CategoryUpdateSchema(BaseSchema):
     name: Optional[str] = None
     description: Optional[str] = None
 

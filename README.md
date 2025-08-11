@@ -11,7 +11,7 @@
 - run: `python -m venv env`(to create a virtual environment)
 - run: `pip install -r requirements.txt`(to install library)
 - run: `pre-commit install`(to init pre-commit)
-- run: `uvicorn src.main:app --host 0.0.0.0 --port 8000 --reload`
+- run: `uvicorn src.main:app --host 0.0.0.0 --port 5000 --reload`
 
 # Migration
 - run: `alembic update head` before start app

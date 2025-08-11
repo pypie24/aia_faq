@@ -1,9 +1,10 @@
 from uuid import UUID
 from typing import Optional
-from pydantic import BaseModel
+
+from src.schemas.base_schema import BaseSchema
 
 
-class BrandCreateSchema(BaseModel):
+class BrandCreateSchema(BaseSchema):
     name: str
     description: Optional[str] = None
 
@@ -11,7 +12,7 @@ class BrandCreateSchema(BaseModel):
         orm_mode = True
 
 
-class BrandUpdateSchema(BaseModel):
+class BrandUpdateSchema(BaseSchema):
     name: Optional[str] = None
     description: Optional[str] = None
 

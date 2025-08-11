@@ -1,6 +1,8 @@
+from uuid import UUID
 from sqlalchemy.future import select
 
 from src.models.product_models import (
+    Category,
     ProductLines,
     Product,
     ProductVariant,
@@ -13,12 +15,34 @@ from src.schemas.product_schemas import (
     ProductVariantCreateSchema,
     ProductVariantUpdateSchema,
 )
+from src.models.product_models import Brand
 from src.services.base_services import BaseServiceDBSession
 from src.utils.common import update_obj_from_dict
 
 
 class ProductLinesService(BaseServiceDBSession):
+    async def _generate_slug(self, name: str, category_id: UUID, brand_id: UUID) -> str:
+        slug = []
+        category = await self.session.execute(
+            select(Category).where(Category.id == category_id)
+        )
+        category = category.scalar_one_or_none()
+        if category:
+            slug.append(category.name.lower().replace(" ", "-"))
+
+        brand = await self.session.execute(select(Brand).where(Brand.id == brand_id))
+        brand = brand.scalar_one_or_none()
+        if brand:
+            slug.append(brand.name.lower().replace(" ", "-"))
+
+        slug.append(name.lower().replace(" ", "-"))
+
+        return "-".join(slug)
+
     async def create(self, data: ProductLinesCreateSchema) -> ProductLines:
+        data.slug = await self._generate_slug(
+            data.name, data.category_id, data.brand_id
+        )
         obj = ProductLines(**data.model_dump())
         self.session.add(obj)
         await self.session.commit()
@@ -41,6 +65,7 @@ class ProductLinesService(BaseServiceDBSession):
         if obj is None:
             return None
         update_obj_from_dict(obj, data.model_dump(exclude_unset=True))
+        obj.slug = await self._generate_slug(obj.name, obj.category_id, obj.brand_id)
         await self.session.commit()
         await self.session.refresh(obj)
         return obj
@@ -56,10 +81,15 @@ class ProductLinesService(BaseServiceDBSession):
         await self.session.commit()
         return True
 
-    async def list(self, skip: int = 0, limit: int = 20) -> list[ProductLines]:
-        result = await self.session.execute(
-            select(ProductLines).offset(skip).limit(limit)
-        )
+    async def list(
+        self, category_id: UUID, brand_id: UUID, skip: int = 0, limit: int = 20
+    ) -> list[ProductLines]:
+        query = select(ProductLines).offset(skip).limit(limit)
+        if brand_id:
+            query = query.where(ProductLines.brand_id == brand_id)
+        if category_id:
+            query = query.where(ProductLines.category_id == category_id)
+        result = await self.session.execute(query)
         return result.scalars().all()
 
 
@@ -94,8 +124,22 @@ class ProductService(BaseServiceDBSession):
         await self.session.commit()
         return True
 
-    async def list(self, skip: int = 0, limit: int = 20) -> list[Product]:
-        result = await self.session.execute(select(Product).offset(skip).limit(limit))
+    async def list(
+        self,
+        brand_id: UUID = None,
+        category_id: UUID = None,
+        product_line_id: UUID = None,
+        skip: int = 0,
+        limit: int = 20,
+    ) -> list[Product]:
+        query = select(Product).offset(skip).limit(limit)
+        if brand_id:
+            query = query.where(Product.product_line.brand_id == brand_id)
+        if category_id:
+            query = query.where(Product.product_line.category_id == category_id)
+        if product_line_id:
+            query = query.where(Product.product_line_id == product_line_id)
+        result = await self.session.execute(query)
         return result.scalars().all()
 
 

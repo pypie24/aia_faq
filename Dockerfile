@@ -9,7 +9,6 @@ COPY requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
-RUN chmod +x ./bootstrap/entrypoint.sh
+RUN chmod -R 0777 /app
 
-# run entrypoint.sh
-ENTRYPOINT ["/app/bootstrap/entrypoint.sh"]
+CMD ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "5000", "--reload", "--workers", "4"]

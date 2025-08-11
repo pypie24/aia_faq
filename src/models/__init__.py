@@ -6,6 +6,5 @@ from src.models.product_models import (
     ProductLines,
     Product,
     ProductVariant,
-    ImageAssignment,
-    TagAssignment,
+    ProductVariantTag,
 )  # noqa

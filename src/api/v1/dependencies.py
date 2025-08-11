@@ -8,9 +8,7 @@ from src.services.product_services import (
 from src.services.category_services import CategoryService
 from src.services.brand_services import BrandService
 from src.services.tag_services import TagService
-from src.services.tag_services import TagAssignmentService
 from src.services.image_services import ImageService
-from src.services.image_services import ImageAssignmentService
 from src.db import get_db
 
 
@@ -38,13 +36,5 @@ def get_tag_service(session=Depends(get_db)):
     return TagService(session)
 
 
-def get_tag_assignment_service(session=Depends(get_db)):
-    return TagAssignmentService(session)
-
-
 def get_image_service(session=Depends(get_db)):
     return ImageService(session)
-
-
-def get_image_assignment_service(session=Depends(get_db)):
-    return ImageAssignmentService(session)
