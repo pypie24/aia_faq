@@ -115,11 +115,14 @@ async def delete_product(
 
 @router.get("/", response_model=list[ProductSchema])
 async def list_products(
+    brand_id: UUID = None,
+    category_id: UUID = None,
+    product_line_id: UUID = None,
     skip: int = 0,
     limit: int = 20,
     service: ProductService = Depends(get_product_service),
 ):
-    return await service.list(skip, limit)
+    return await service.list(brand_id, category_id, product_line_id, skip, limit)
 
 
 # ProductVariant Endpoints

@@ -37,6 +37,7 @@ class ProductCreateSchema(BaseSchema):
     name: str
     product_line_id: UUID
     release_date: Optional[str] = None
+    sku: Optional[str] = None
     url: Optional[str] = None
 
     class Config:
@@ -53,6 +54,7 @@ class ProductUpdateSchema(ProductCreateSchema):
 
 class ProductSchema(ProductUpdateSchema):
     id: UUID
+    slug: Optional[str] = None
 
     class Config:
         orm_mode = True
@@ -60,14 +62,11 @@ class ProductSchema(ProductUpdateSchema):
 
 
 class ProductVariantCreateSchema(BaseSchema):
-    product_id: UUID
     name: str
-    color: Optional[str] = None
     price: Optional[float] = None
     stock: Optional[int] = None
     specs: Optional[Dict] = None
     url: Optional[str] = None
-    slug: Optional[str] = None
 
     class Config:
         orm_mode = True
@@ -75,12 +74,10 @@ class ProductVariantCreateSchema(BaseSchema):
 
 class ProductVariantUpdateSchema(BaseSchema):
     product_id: Optional[UUID] = None
-    color: Optional[str] = None
     price: Optional[float] = None
     stock: Optional[int] = None
     specs: Optional[Dict] = None
     url: Optional[str] = None
-    slug: Optional[str] = None
 
     class Config:
         orm_mode = True

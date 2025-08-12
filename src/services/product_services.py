@@ -94,8 +94,22 @@ class ProductLinesService(BaseServiceDBSession):
 
 
 class ProductService(BaseServiceDBSession):
+    async def _generate_slug(self, name: str, product_line_id: UUID) -> str:
+        slug = []
+        product_line = await self.session.execute(
+            select(ProductLines).where(ProductLines.id == product_line_id)
+        )
+        product_line = product_line.scalar_one_or_none()
+        if product_line:
+            slug.append(product_line.name.lower().replace(" ", "-"))
+
+        slug.append(name.lower().replace(" ", "-"))
+
+        return "-".join(slug)
+
     async def create(self, data: ProductCreateSchema) -> Product:
         obj = Product(**data.model_dump())
+        obj.slug = await self._generate_slug(obj.name, obj.product_line_id)
         self.session.add(obj)
         await self.session.commit()
         await self.session.refresh(obj)
@@ -111,6 +125,7 @@ class ProductService(BaseServiceDBSession):
         if obj is None:
             return None
         update_obj_from_dict(obj, data.model_dump(exclude_unset=True))
+        obj.slug = await self._generate_slug(obj.name, obj.product_line_id)
         await self.session.commit()
         await self.session.refresh(obj)
         return obj
@@ -144,8 +159,23 @@ class ProductService(BaseServiceDBSession):
 
 
 class ProductVariantService(BaseServiceDBSession):
-    async def create(self, data: ProductVariantCreateSchema) -> ProductVariant:
+    async def _generate_slug(self, name: str, product_id: UUID) -> str:
+        slug = []
+        product = await self.session.execute(
+            select(Product).where(Product.id == product_id)
+        )
+        product = product.scalar_one_or_none()
+        if product:
+            slug.append(product.name.lower().replace(" ", "-"))
+
+        slug.append(name.lower().replace(" ", "-"))
+
+        return "-".join(slug)
+
+    async def create(self, product_id: UUID, data: ProductVariantCreateSchema) -> ProductVariant:
         obj = ProductVariant(**data.model_dump())
+        obj.product_id = product_id
+        obj.slug = await self._generate_slug(obj.name, product_id)
         self.session.add(obj)
         await self.session.commit()
         await self.session.refresh(obj)
@@ -167,6 +197,7 @@ class ProductVariantService(BaseServiceDBSession):
         if obj is None:
             return None
         update_obj_from_dict(obj, data.model_dump(exclude_unset=True))
+        obj.slug = await self._generate_slug(obj.name, obj.product_id)
         await self.session.commit()
         await self.session.refresh(obj)
         return obj
