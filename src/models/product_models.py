@@ -1,5 +1,4 @@
 from sqlalchemy import (
-    Boolean,
     JSON,
     UUID,
     Column,
@@ -8,7 +7,6 @@ from sqlalchemy import (
     Integer,
     String,
     Float,
-    Text,
 )
 from sqlalchemy.orm import Relationship
 from src.models.base import BaseModel
@@ -81,7 +79,6 @@ class ProductVariant(BaseModel):
     specs = Column(JSON, nullable=True)
     url = Column(String, nullable=True)
     slug = Column(String, nullable=True)
-    images = Relationship("Image", back_populates="variant")
     tags = Relationship(
         "Tag", secondary="product_variant_tags", back_populates="variants"
     )
@@ -91,19 +88,6 @@ class ProductVariant(BaseModel):
             f"<ProductVariant(id={self.id}, product_id={self.product_id}, "
             f"name={self.name}, color={self.color}, price={self.price}, stock={self.stock})>"
         )
-
-
-class Image(BaseModel):
-    __tablename__ = "images"
-
-    variant_id = Column(
-        UUID, ForeignKey("product_variants.id", ondelete="CASCADE"), nullable=False
-    )
-    url = Column(Text, nullable=False)
-    alt_text = Column(String(255))
-    position = Column(Integer, default=0)
-    is_primary = Column(Boolean, default=False)
-    variant = Relationship("ProductVariant", back_populates="images")
 
 
 class Tag(BaseModel):

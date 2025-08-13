@@ -1,14 +1,11 @@
 from fastapi.params import Depends
 
-from src.services.product_services import (
-    ProductLinesService,
-    ProductService,
-    ProductVariantService,
-)
+from src.services.product_line_services import ProductLinesService
+from src.services.product_variant_services import ProductVariantService
+from src.services.product_services import ProductService
 from src.services.category_services import CategoryService
 from src.services.brand_services import BrandService
 from src.services.tag_services import TagService
-from src.services.image_services import ImageService
 from src.db import get_db
 
 
@@ -34,7 +31,3 @@ def get_product_variant_service(session=Depends(get_db)):
 
 def get_tag_service(session=Depends(get_db)):
     return TagService(session)
-
-
-def get_image_service(session=Depends(get_db)):
-    return ImageService(session)

@@ -1,7 +1,7 @@
 from sqlalchemy.future import select
 
 from src.models.product_models import Brand
-from src.schemas.brand_schema import (
+from src.schemas.brand_schemas import (
     BrandCreateSchema,
     BrandUpdateSchema,
 )

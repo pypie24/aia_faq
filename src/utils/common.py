@@ -1,5 +1,4 @@
 import re
-import uuid
 
 
 def update_obj_from_dict(obj: object, data: dict) -> object:
@@ -15,6 +14,9 @@ def strtobool(value: str) -> bool:
 
 def slugify(text: str) -> str:
     text = text.strip().lower()
+    # replace slash with hyphen
+    text = text.replace("/", "-")
+    # replace spaces and underscores with hyphens
     text = re.sub(r"[\s_]+", "-", text)
     # Remove non-alphanumeric/hyphen characters
     text = re.sub(r"[^a-z0-9-]", "", text)
@@ -25,7 +27,6 @@ def slugify(text: str) -> str:
     return text
 
 
-def slugify_unique(text: str) -> str:
-    base_slug = slugify(text)
-    unique_part = str(uuid.uuid4())[:8]  # short random part
-    return f"{base_slug}-{unique_part}"
+def building_slug(text: str, texts: list[str]) -> str:
+    if slugify(text) not in texts:
+        texts.append(slugify(text))

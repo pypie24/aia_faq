@@ -1,7 +1,7 @@
 from uuid import UUID
 from fastapi import APIRouter, Depends, HTTPException, status
 
-from src.schemas.brand_schema import BrandCreateSchema, BrandUpdateSchema, BrandSchema
+from src.schemas.brand_schemas import BrandCreateSchema, BrandUpdateSchema, BrandSchema
 from src.services.brand_services import BrandService
 from src.api.v1.dependencies import get_brand_service
 
