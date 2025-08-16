@@ -25,6 +25,10 @@
 - attach to the docker container of `web` services
 - run: `python -m src.cli populatedb`
 
+# Run embedding database
+- attach to the docker container of `web` services
+- run: `python -m src.cli embeddingdb`
+
 ## Commit
 - run: `pre-commit install`
 - run: `git add .`

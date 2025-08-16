@@ -14,6 +14,7 @@ from src.models.product_models import (
     Tag,
     ProductVariantTag,
 )
+from src.tasks.embedding_tasks import process_unembedding_queue
 
 
 logging.basicConfig(level=logging.INFO)
@@ -120,6 +121,13 @@ def populatedb():
             log.info("Done Inserting Product Variant Tags...")
 
     asyncio.run(populate_db())
+
+
+@cli.command()
+def embeddingdb():
+    log.info("Processing unembedding queue...")
+    process_unembedding_queue()
+    log.info("Unembedding queue processed.")
 
 
 if __name__ == "__main__":
