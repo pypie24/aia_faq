@@ -1,4 +1,5 @@
 from sqlalchemy import (
+    Boolean,
     JSON,
     UUID,
     Column,
@@ -7,6 +8,7 @@ from sqlalchemy import (
     Integer,
     String,
     Float,
+    UniqueConstraint,
 )
 from sqlalchemy.orm import Relationship
 from src.models.base import BaseModel
@@ -50,6 +52,10 @@ class ProductLines(BaseModel):
     url = Column(String, nullable=True)
     slug = Column(String, nullable=True)
 
+    __table_args__ = (
+        UniqueConstraint("name", "brand_id", "category_id", name="uq_product_line_name"),
+    )
+
     def __repr__(self):
         return f"<ProductLine(id={self.id}, name={self.name}, description={self.description})>"
 
@@ -60,11 +66,16 @@ class Product(BaseModel):
     name = Column(String, index=True, nullable=False, unique=True)
     product_line = Relationship("ProductLines", back_populates="products")
     product_line_id = Column(UUID, ForeignKey("product_lines.id"), nullable=False)
+    description = Column(String, nullable=True)
     sku = Column(String, nullable=True, unique=True)
     variants = Relationship("ProductVariant", back_populates="product")
     release_date = Column(Date, nullable=True)
     url = Column(String, nullable=True)
     slug = Column(String, nullable=True)
+
+    __table_args__ = (
+        UniqueConstraint("name", "product_line_id", name="uq_product_name_product_line"),
+    )
 
 
 class ProductVariant(BaseModel):
@@ -72,7 +83,7 @@ class ProductVariant(BaseModel):
 
     product = Relationship("Product", back_populates="variants")
     product_id = Column(UUID, ForeignKey("products.id"), nullable=False)
-    name = Column(String, nullable=False)
+    name = Column(String, nullable=False, unique=True)
     variant_sku = Column(String, nullable=True, unique=True)
     price = Column(Float, nullable=True)
     stock = Column(Integer, nullable=True)
@@ -81,6 +92,10 @@ class ProductVariant(BaseModel):
     slug = Column(String, nullable=True)
     tags = Relationship(
         "Tag", secondary="product_variant_tags", back_populates="variants"
+    )
+
+    __table_args__ = (
+        UniqueConstraint("name", "product_id", name="uq_product_variant_name_product"),
     )
 
     def __repr__(self):
@@ -106,3 +121,7 @@ class ProductVariantTag(BaseModel):
         UUID, ForeignKey("product_variants.id", ondelete="CASCADE"), primary_key=True
     )
     tag_id = Column(UUID, ForeignKey("tags.id", ondelete="CASCADE"), primary_key=True)
+
+    __table_args__ = (
+        UniqueConstraint("variant_id", "tag_id", name="uq_product_variant_tag"),
+    )

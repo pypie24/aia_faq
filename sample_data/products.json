@@ -1,0 +1,926 @@
+[
+    {
+        "name": "Iphone 13",
+        "description": "The iPhone 13 features a 6.1-inch Super Retina XDR OLED display with vibrant colors, HDR support, and up to 1200 nits peak brightness. Powered by the A15 Bionic chip with 4 GB of RAM, it offers fast performance and efficient power use. Storage options range from 128 GB to 512 GB.\nIt has a dual-camera system with 12 MP wide and ultra-wide lenses, Cinematic Mode for videos, and improved low-light photography. The front 12 MP TrueDepth camera supports Face ID. Battery life is up to 2.5 hours longer than iPhone 12, with fast charging to 50% in ~30 minutes.\nThe design includes Ceramic Shield glass, aluminum frame, IP68 water resistance, and diagonal rear camera layout. It supports 5G, ships with iOS 15, and is available in Pink, Blue, Starlight, Midnight, and Green.",
+        "product_line_id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "slug": "smartphone-apple-iphone-13",
+        "id": "55446157-e2d0-4bb8-88dd-99874a66e1d5"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, HDR10+ support, and Gorilla Glass Victus protection. It is powered by the Exynos 2100 (International) or Snapdragon 888 (USA) chipset, with options for 8GB of RAM and storage variants of 128GB or 256GB.\nThe camera system includes a triple-lens setup with a 12 MP ultra-wide, 12 MP wide, and 64 MP telephoto lens, capable of 8K video recording. The front camera is 10 MP and supports 4K video.\nBattery life is supported by a 4000mAh battery with fast charging, wireless charging, and reverse wireless charging capabilities. The design features an aluminum frame, IP68 water resistance, and is available in Phantom Gray, Phantom White, Phantom Violet, and Phantom Pink.",
+        "product_line_id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "slug": "smartphone-samsung-galaxy-s21",
+        "id": "9ca7e4a0-141f-472a-90f3-230ff71523db"
+    },
+    {
+        "name": "Xiaomi Mi 11",
+        "description": "The Xiaomi Mi 11 features a 6.81-inch AMOLED display with a 120Hz refresh rate, HDR10+ support, and Gorilla Glass Victus protection. It is powered by the Snapdragon 888 chipset, with options for 8GB or 12GB of RAM and storage variants of 128GB or 256GB.\nThe camera system includes a triple-lens setup with a 108 MP wide, 13 MP ultra-wide, and 5 MP telephoto lens, capable of 8K video recording. The front camera is 20 MP and supports 4K video.\nBattery life is supported by a 4600mAh battery with fast charging, wireless charging, and reverse wireless charging capabilities. The design features an aluminum frame, IP68 water resistance, and is available in Horizon Blue, Midnight Gray, and Frosted White.",
+        "product_line_id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "slug": "smartphone-xiaomi-mi-11",
+        "id": "9557dc65-35d3-4ec2-a3a2-0539b47caf8b"
+    },
+    {
+        "name": "Lenovo Ideapad 330s 14IKB",
+        "description": "The Lenovo Ideapad 330s 14IKB is a sleek and lightweight laptop featuring a 14-inch Full HD display with narrow bezels for an immersive viewing experience. It is powered by Intel's 8th generation processors, with options for i5 or i7, and comes with up to 16GB of RAM and 512GB SSD storage.\nThe laptop includes a backlit keyboard, a precision touchpad, and a fingerprint reader for added security. It offers a variety of ports, including USB-C, USB 3.0, HDMI, and a card reader. The Ideapad 330s is designed for portability and performance, making it suitable for both work and entertainment.",
+        "product_line_id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "slug": "laptop-lenovo-ideapad-330s-14ikb",
+        "id": "4f0b0e80-85d8-4726-ac03-701bd2218d24"
+    },
+    {
+        "name": "Lenovo Ideapad 330s 15IKB",
+        "description": "The Lenovo Ideapad 330s 15IKB is a versatile laptop featuring a 15.6-inch Full HD display with narrow bezels for an immersive viewing experience. It is powered by Intel's 8th generation processors, with options for i5 or i7, and comes with up to 16GB of RAM and 512GB SSD storage.\nThe laptop includes a backlit keyboard, a precision touchpad, and a fingerprint reader for added security. It offers a variety of ports, including USB-C, USB 3.0, HDMI, and a card reader. The Ideapad 330s is designed for portability and performance, making it suitable for both work and entertainment.",
+        "product_line_id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "slug": "laptop-lenovo-ideapad-330s-15ikb",
+        "id": "40e95089-80c8-4e61-a24e-a9b43274bb8b"
+    },
+    {
+        "name": "Dell Inspiron 15 3000",
+        "description": "The Dell Inspiron 15 3000 is a budget-friendly laptop featuring a 15.6-inch HD display with anti-glare technology. It is powered by Intel's 10th generation processors, with options for i3, i5, or i7, and comes with up to 8GB of RAM and 512GB SSD storage.\nThe laptop includes a full-size keyboard, a precision touchpad, and a variety of ports, including USB-C, USB 3.0, HDMI, and an SD card reader. The Inspiron 15 3000 is designed for everyday tasks, making it suitable for students and professionals alike.",
+        "product_line_id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "slug": "laptop-dell-inspiron-15-3000",
+        "id": "134f0a44-87d8-4e80-893c-6e289d64d898"
+    },
+    {
+        "name": "iPhone 14 Pro",
+        "description": "The iPhone 14 Pro features a 6.1-inch Super Retina XDR display, A16 Bionic chip, ProMotion, and a triple 48MP camera system. Available in Deep Purple, Gold, Silver, and Space Black.",
+        "product_line_id": "edfce9d5-8b81-466a-a95a-5058d8cb3e00",
+        "slug": "smartphone-apple-iphone-14-pro",
+        "id": "fb5088f3-b06b-4e4c-82a9-73a98082fa5e"
+    },
+    {
+        "name": "iPhone 14 Pro Max",
+        "description": "Apple's largest iPhone with a 6.7-inch display, A16 Bionic, ProMotion, and advanced camera features. Available in multiple colors.",
+        "product_line_id": "4712e83e-e8ea-4563-92d1-0e1e1fe93f48",
+        "slug": "smartphone-apple-iphone-14-pro-max",
+        "id": "c4a62dcb-372c-4073-8ebe-eb40d5f25e87"
+    },
+    {
+        "name": "iPad Pro 12.9 (2022)",
+        "description": "The iPad Pro 12.9-inch (2022) features a Liquid Retina XDR display, M2 chip, and supports Apple Pencil 2. Ideal for creative professionals.",
+        "product_line_id": "d0021378-dbdb-4d81-acce-e77e207c0143",
+        "slug": "tablet-apple-ipad-pro-12-9-2022",
+        "id": "bdc8ce53-ee29-4228-b777-7421c2c31e4b"
+    },
+    {
+        "name": "iPad Air 5",
+        "description": "The iPad Air 5 features a 10.9-inch Liquid Retina display, M1 chip, and 5G support. Lightweight and powerful for everyday use.",
+        "product_line_id": "27486d31-8b42-429b-a497-52a84314f26e",
+        "slug": "tablet-apple-ipad-air-5",
+        "id": "59ac5c07-a55c-49e5-9e58-afd4ae03d559"
+    },
+    {
+        "name": "Apple Watch Series 8",
+        "description": "Apple Watch Series 8 offers advanced health sensors, always-on display, and crash detection. Available in 41mm and 45mm sizes.",
+        "product_line_id": "2edd7456-6cfa-4b8a-aff9-0a66ee17484e",
+        "slug": "smartwatch-apple-watch-series-8",
+        "id": "f91af43b-8e78-4f9a-b744-4fe1285bce94"
+    },
+    {
+        "name": "Apple Watch SE (2022)",
+        "description": "Affordable Apple Watch with core features, fitness tracking, and crash detection. Available in multiple colors.",
+        "product_line_id": "9f863d0b-2a7f-438e-89fb-79c42d2cc72f",
+        "slug": "smartwatch-apple-watch-se-2022",
+        "id": "b2f62d5c-2c47-4ff3-a576-8dae005b220e"
+    },
+    {
+        "name": "Apple Watch Ultra",
+        "description": "Rugged Apple Watch Ultra for extreme sports, with titanium case, dual-frequency GPS, and 36-hour battery life.",
+        "product_line_id": "a0b2ee3c-1e70-4952-8a31-814ccbfd1748",
+        "slug": "smartwatch-apple-watch-ultra",
+        "id": "cc90626a-b9fd-49e5-8666-646d1ea0bbfc"
+    },
+    {
+        "name": "MacBook Pro 16 (2023)",
+        "description": "The MacBook Pro 16-inch (2023) features the M2 Max chip, Liquid Retina XDR display, and up to 96GB RAM. Ideal for professionals.",
+        "product_line_id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "slug": "laptop-apple-macbook-pro-16-2023",
+        "id": "20084fcf-e795-4ddb-a388-ee90eed2dfd5"
+    },
+    {
+        "name": "MacBook Air M2",
+        "description": "The MacBook Air M2 offers a fanless design, 13.6-inch Liquid Retina display, and all-day battery life. Lightweight and powerful.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-m2",
+        "id": "ce08db5c-2fb7-432b-8db0-7712229fa71d"
+    },
+    {
+        "name": "AirPods Pro 2nd Gen",
+        "description": "Apple's AirPods Pro 2nd Gen feature active noise cancellation, adaptive transparency, and MagSafe charging case.",
+        "product_line_id": "dd7e02a4-4e7a-4fbc-9798-087a72c91c2c",
+        "slug": "headphones-apple-airpods-pro-2",
+        "id": "6c35b7a0-13b9-47a6-8c2f-c76f148e70ad"
+    },
+    {
+        "name": "AirPods 3rd Gen",
+        "description": "Apple's AirPods 3rd Gen offer spatial audio, sweat and water resistance, and up to 6 hours of listening time.",
+        "product_line_id": "792df8c9-aa6d-4ced-b884-d034244da1b3",
+        "slug": "earbuds-apple-airpods-3",
+        "id": "602284b7-8b78-41a9-99a9-74115c972f41"
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra",
+        "description": "The Galaxy S23 Ultra features a 6.8-inch QHD+ AMOLED display, Snapdragon 8 Gen 2, and a 200MP main camera. S Pen support included.",
+        "product_line_id": "ddb4338c-e5da-48ad-bb97-bb8162b85f5d",
+        "slug": "smartphone-samsung-galaxy-s23-ultra",
+        "id": "536e2154-b35d-4e12-99ba-f5e438533737"
+    },
+    {
+        "name": "Samsung Galaxy A54",
+        "description": "The Galaxy A54 offers a 6.4-inch FHD+ display, Exynos 1380, and a 50MP triple camera system. Affordable and stylish.",
+        "product_line_id": "5d4037af-91db-47df-a0f7-a110003598bb",
+        "slug": "smartphone-samsung-galaxy-a54",
+        "id": "58bd41e1-74ed-4d38-a47b-3ef145b81e83"
+    },
+    {
+        "name": "Samsung Galaxy Watch 5 Pro",
+        "description": "Galaxy Watch 5 Pro features a titanium case, GPS, and up to 80 hours battery life. Designed for outdoor adventures.",
+        "product_line_id": "87b8aba7-2632-4fc5-a748-b576e629e3b0",
+        "slug": "smartwatch-samsung-galaxy-watch-5-pro",
+        "id": "cf3f274a-991b-4746-b963-f3c780ef4a70"
+    },
+    {
+        "name": "Samsung Galaxy Tab S8+",
+        "description": "The Galaxy Tab S8+ features a 12.4-inch Super AMOLED display, Snapdragon 8 Gen 1, and S Pen support.",
+        "product_line_id": "29e5db70-68dc-4d2a-a6a2-3a609b8a8c7f",
+        "slug": "tablet-samsung-galaxy-tab-s8-plus",
+        "id": "64a7726b-abb2-46ad-aab8-0d5263bfb38e"
+    },
+    {
+        "name": "Samsung Galaxy Book3 Pro",
+        "description": "Galaxy Book3 Pro is a premium ultrabook with 13th Gen Intel Core, AMOLED display, and long battery life.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book3-pro",
+        "id": "a2a7a832-81e1-4f72-b8ea-78a4c65caf95"
+    },
+    {
+        "name": "Samsung Galaxy Buds2 Pro",
+        "description": "Galaxy Buds2 Pro offer Hi-Fi sound, active noise cancellation, and 360 Audio. Comfortable and compact.",
+        "product_line_id": "6646abe0-67a4-4942-826e-75b2f9e0eb1f",
+        "slug": "earbuds-samsung-galaxy-buds2-pro",
+        "id": "75e02721-5aa2-44fc-be02-e9f77e20098e"
+    },
+    {
+        "name": "Xiaomi Redmi Note 12 Pro",
+        "description": "Redmi Note 12 Pro features a 6.67-inch AMOLED display, Dimensity 1080, and a 108MP camera. Great value for money.",
+        "product_line_id": "3ccfaf72-5547-4935-b87e-dc897625cd86",
+        "slug": "smartphone-xiaomi-redmi-note-12-pro",
+        "id": "3bf0a64d-3522-4d8f-bdb0-0460b3b89b93"
+    },
+    {
+        "name": "Xiaomi Mi Pad 5 Pro",
+        "description": "Mi Pad 5 Pro features an 11-inch 120Hz display, Snapdragon 870, and quad speakers. Ideal for entertainment and productivity.",
+        "product_line_id": "eb9fb07d-29aa-478d-bedc-45eea45d0072",
+        "slug": "tablet-xiaomi-mipad-5-pro",
+        "id": "e922d16e-06f3-4e34-a813-d4091daab3bd"
+    },
+    {
+        "name": "Oppo Find X5 Pro",
+        "description": "Find X5 Pro features a 6.7-inch AMOLED display, Snapdragon 8 Gen 1, and Hasselblad camera system.",
+        "product_line_id": "f1ac4e04-695a-4042-a3aa-d3f2e93385dd",
+        "slug": "smartphone-oppo-find-x5-pro",
+        "id": "38c42e5b-c813-47db-ade7-671b0f59b6ad"
+    },
+    {
+        "name": "Vivo X90 Pro+",
+        "description": "Vivo X90 Pro+ features a 6.78-inch AMOLED display, Snapdragon 8 Gen 2, and Zeiss optics for photography.",
+        "product_line_id": "4afba762-5a2a-45bc-bbfb-94ec22a1b66b",
+        "slug": "smartphone-vivo-x90-pro-plus",
+        "id": "1a698f05-eaba-49e8-bc11-23763c162e1a"
+    },
+    {
+        "name": "Huawei P60 Pro",
+        "description": "Huawei P60 Pro features a 6.67-inch OLED display, Snapdragon 8+ Gen 1, and XMAGE camera system.",
+        "product_line_id": "99e0e5a2-862f-4e20-b509-a0c6b28abf61",
+        "slug": "smartphone-huawei-p60-pro",
+        "id": "1b60e397-babd-45e9-87dc-1e8ddf8389e7"
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+        "description": "ThinkPad X1 Carbon Gen 11 features a 14-inch 2.8K OLED display, Intel vPro, and legendary ThinkPad keyboard.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-x1-carbon-gen-11",
+        "id": "ace69a38-1263-4a0a-b4e6-f9bacabb6d5d"
+    },
+    {
+        "name": "Dell XPS 13 Plus (2023)",
+        "description": "XPS 13 Plus features a 13.4-inch InfinityEdge display, 13th Gen Intel Core, and a seamless glass touchpad.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-13-plus-2023",
+        "id": "98abd1ac-759e-4e5d-bb29-c9870a406667"
+    },
+    {
+        "name": "Acer Aspire 7",
+        "description": "Aspire 7 features a 15.6-inch FHD display, Ryzen 7 5800H, and NVIDIA GTX 1650 graphics. Great for work and play.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-7",
+        "id": "809e5687-f0b4-46ba-a9d8-98e307a4f32b"
+    },
+    {
+        "name": "MSI Stealth 16 Studio",
+        "description": "Stealth 16 Studio features a 16-inch QHD+ display, Intel i9-13900H, and RTX 4070 graphics. Thin and powerful.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-16-studio",
+        "id": "a257ee32-6aff-47a4-90a5-5c919fc9a438"
+    },
+    {
+        "name": "Asus ROG Zephyrus G14",
+        "description": "ROG Zephyrus G14 features a 14-inch QHD display, Ryzen 9 7940HS, and RTX 4060 graphics. Compact gaming powerhouse.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-zephyrus-g14",
+        "id": "7f1a5c16-400d-4de6-bfd3-c3ebab58fb04"
+    },
+    {
+        "name": "Baseus Encok W04 Pro",
+        "description": "Baseus Encok W04 Pro are true wireless earbuds with Bluetooth 5.0, touch controls, and long battery life.",
+        "product_line_id": "425fd16a-11d5-4c7a-823d-a725715847ec",
+        "slug": "earbuds-baseus-encok-w04-pro",
+        "id": "02f224bb-40ef-4b65-affd-da1af73b1b81"
+    },
+    {
+        "name": "Anker PowerPort III Nano",
+        "description": "Anker PowerPort III Nano is a compact 20W USB-C charger for fast charging iPhones and Android devices.",
+        "product_line_id": "62fa122d-e8c5-4082-8612-84c6ce33e88f",
+        "slug": "charger-anker-powerport-iii-nano",
+        "id": "86cde72e-07c4-4002-8d34-3595bfe1dad4"
+    },
+    {
+        "name": "Logitech G Pro X",
+        "description": "Logitech G Pro X is a wired gaming headset with Blue VO!CE microphone technology and 50mm drivers.",
+        "product_line_id": "def9df3a-73ef-4ca3-a681-52afbe5cfc0d",
+        "slug": "headphones-logitech-g-pro-x",
+        "id": "0315952b-0c0f-40e6-8cf9-2f7d256ea578"
+    },
+    {
+        "name": "Razer Kraken V3",
+        "description": "Razer Kraken V3 is a gaming headset with Triforce Titanium 50mm drivers, THX Spatial Audio, and RGB lighting.",
+        "product_line_id": "db4f5056-63ba-408e-9ba6-d707e6b3911b",
+        "slug": "headphones-razer-kraken-v3",
+        "id": "9f281543-d229-40b6-878b-dc1208120ce0"
+    },
+    {
+        "name": "Sony WH-1000XM5",
+        "description": "Sony WH-1000XM5 are wireless noise-cancelling headphones with 30-hour battery life and touch controls.",
+        "product_line_id": "b19507f7-bf0c-43bb-ad40-e0536183f96b",
+        "slug": "headphones-sony-wh-1000xm5",
+        "id": "20c4a146-83a8-496a-aa6b-a811661f2116"
+    },
+    {
+        "name": "LG Tone Free FP9",
+        "description": "LG Tone Free FP9 are true wireless earbuds with UVnano charging case and active noise cancellation.",
+        "product_line_id": "cb0e358c-e7cf-4af5-bbe6-3d2e5e825525",
+        "slug": "headphones-lg-tone-free-fp9",
+        "id": "010de5b3-dd9a-434b-90b1-a62cc71795c5"
+    },
+    {
+        "name": "Canon EOS R6 Mark II",
+        "description": "Canon EOS R6 Mark II is a full-frame mirrorless camera with 24.2MP sensor, 4K60p video, and advanced autofocus.",
+        "product_line_id": "bbf6cc8c-7bb8-4dd1-8a8b-8f056c33a995",
+        "slug": "camera-canon-eos-r6-mark-ii",
+        "id": "284a81fa-81aa-4d5f-9430-0de657b1ed6a"
+    },
+    {
+        "name": "Nikon Z8",
+        "description": "Nikon Z8 is a professional mirrorless camera with 45.7MP stacked sensor, 8K video, and fast burst shooting.",
+        "product_line_id": "8525b445-dad2-4782-9244-03b1e86ed3b2",
+        "slug": "camera-nikon-z8",
+        "id": "fc0b3366-98be-4477-ba18-a78e29da5349"
+    },
+    {
+        "name": "iPhone 15",
+        "description": "The iPhone 15 features a 6.1-inch OLED display, A17 Bionic chip, and improved battery life. Available in new colors.",
+        "product_line_id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "slug": "smartphone-apple-iphone-15",
+        "id": "acd91690-1f6e-4d88-bdea-b00d0598fe35"
+    },
+    {
+        "name": "iPhone 15 Pro",
+        "description": "Apple's iPhone 15 Pro offers a titanium frame, A17 Pro chip, and a triple-lens camera system for pro photography.",
+        "product_line_id": "edfce9d5-8b81-466a-a95a-5058d8cb3e00",
+        "slug": "smartphone-apple-iphone-15-pro",
+        "id": "1565cafb-89a2-4b95-8359-e1ab8d9ec004"
+    },
+    {
+        "name": "iPhone 15 Pro Max",
+        "description": "The iPhone 15 Pro Max features a 6.7-inch OLED display, A17 Pro chip, and periscope telephoto camera.",
+        "product_line_id": "4712e83e-e8ea-4563-92d1-0e1e1fe93f48",
+        "slug": "smartphone-apple-iphone-15-pro-max",
+        "id": "488187b2-b8a7-495a-90db-68028811d47c"
+    },
+    {
+        "name": "iPad Pro 11 (2024)",
+        "description": "The iPad Pro 11-inch (2024) features an M3 chip, ProMotion display, and Thunderbolt connectivity.",
+        "product_line_id": "d0021378-dbdb-4d81-acce-e77e207c0143",
+        "slug": "tablet-apple-ipad-pro-11-2024",
+        "id": "fbf91a56-9a8b-43a7-8d2d-006911d42207"
+    },
+    {
+        "name": "iPad Air 6",
+        "description": "The iPad Air 6 features a 10.9-inch Liquid Retina display, M2 chip, and 5G support.",
+        "product_line_id": "27486d31-8b42-429b-a497-52a84314f26e",
+        "slug": "tablet-apple-ipad-air-6",
+        "id": "7852c428-13c4-4e7d-9dcc-9d61932b745b"
+    },
+    {
+        "name": "Apple Watch Series 9",
+        "description": "Apple Watch Series 9 offers new health sensors, faster S9 chip, and improved battery life.",
+        "product_line_id": "2edd7456-6cfa-4b8a-aff9-0a66ee17484e",
+        "slug": "smartwatch-apple-watch-series-9",
+        "id": "a949ff72-4b4b-465a-ae23-f7ca5c267e88"
+    },
+    {
+        "name": "Apple Watch SE (2024)",
+        "description": "Affordable Apple Watch with core features and new color options.",
+        "product_line_id": "9f863d0b-2a7f-438e-89fb-79c42d2cc72f",
+        "slug": "smartwatch-apple-watch-se-2024",
+        "id": "bec0eb65-eae6-4380-a8ed-c5d7ea7ae991"
+    },
+    {
+        "name": "Apple Watch Ultra 2",
+        "description": "Apple Watch Ultra 2 for extreme sports, with longer battery and new sensors.",
+        "product_line_id": "a0b2ee3c-1e70-4952-8a31-814ccbfd1748",
+        "slug": "smartwatch-apple-watch-ultra-2",
+        "id": "587a5093-6812-4781-81ed-7a7d4247b819"
+    },
+    {
+        "name": "MacBook Pro 14 (2024)",
+        "description": "The MacBook Pro 14-inch (2024) features the M3 Pro chip, mini-LED display, and MagSafe charging.",
+        "product_line_id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "slug": "laptop-apple-macbook-pro-14-2024",
+        "id": "bcbe88f7-4586-4021-824b-1c3589386a11"
+    },
+    {
+        "name": "MacBook Air 15",
+        "description": "The MacBook Air 15 offers a larger display, M2 chip, and all-day battery life.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-15",
+        "id": "3ee62c51-fabb-439c-b347-afc6d31a286d"
+    },
+    {
+        "name": "AirPods Pro 3rd Gen",
+        "description": "Apple's AirPods Pro 3rd Gen with improved ANC and lossless audio support.",
+        "product_line_id": "dd7e02a4-4e7a-4fbc-9798-087a72c91c2c",
+        "slug": "headphones-apple-airpods-pro-3",
+        "id": "445ce06d-6f47-439b-bbc8-962f4ab89ee1"
+    },
+    {
+        "name": "AirPods 4th Gen",
+        "description": "Apple's AirPods 4th Gen with better battery and spatial audio.",
+        "product_line_id": "792df8c9-aa6d-4ced-b884-d034244da1b3",
+        "slug": "earbuds-apple-airpods-4",
+        "id": "00a4b555-c52a-4166-901a-3276596442e0"
+    },
+    {
+        "name": "Samsung Galaxy S24 Ultra",
+        "description": "The Galaxy S24 Ultra features a 6.9-inch AMOLED display, Snapdragon 8 Gen 3, and 200MP camera.",
+        "product_line_id": "ddb4338c-e5da-48ad-bb97-bb8162b85f5d",
+        "slug": "smartphone-samsung-galaxy-s24-ultra",
+        "id": "07bda930-da03-4295-841d-5a6a1b874dba"
+    },
+    {
+        "name": "Samsung Galaxy A74",
+        "description": "The Galaxy A74 offers a 6.7-inch FHD+ display, Exynos 1480, and quad camera system.",
+        "product_line_id": "5d4037af-91db-47df-a0f7-a110003598bb",
+        "slug": "smartphone-samsung-galaxy-a74",
+        "id": "65f940c7-41ef-45ac-905b-83e6b38246bc"
+    },
+    {
+        "name": "Samsung Galaxy Watch 6 Pro",
+        "description": "Galaxy Watch 6 Pro with sapphire glass, ECG, and 100-hour battery.",
+        "product_line_id": "87b8aba7-2632-4fc5-a748-b576e629e3b0",
+        "slug": "smartwatch-samsung-galaxy-watch-6-pro",
+        "id": "232b1005-d324-458e-b5b3-008c5c87ee81"
+    },
+    {
+        "name": "Samsung Galaxy Tab S9 Ultra",
+        "description": "The Galaxy Tab S9 Ultra features a 14.6-inch AMOLED display, Snapdragon 8 Gen 3, and S Pen.",
+        "product_line_id": "29e5db70-68dc-4d2a-a6a2-3a609b8a8c7f",
+        "slug": "tablet-samsung-galaxy-tab-s9-ultra",
+        "id": "2f5b4eee-d449-4055-b940-2c0b35ba57b1"
+    },
+    {
+        "name": "Samsung Galaxy Book4 Pro",
+        "description": "Galaxy Book4 Pro is a premium ultrabook with Intel Core Ultra, AMOLED display, and 20-hour battery.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book4-pro",
+        "id": "b52e3a23-e49c-4a47-9629-a9b569b5e07a"
+    },
+    {
+        "name": "Samsung Galaxy Buds3 Pro",
+        "description": "Galaxy Buds3 Pro with Hi-Fi sound, ANC, and wireless charging.",
+        "product_line_id": "6646abe0-67a4-4942-826e-75b2f9e0eb1f",
+        "slug": "earbuds-samsung-galaxy-buds3-pro",
+        "id": "00bda6e5-2dab-4083-9389-994bd6017d08"
+    },
+    {
+        "name": "Xiaomi Redmi Note 13 Pro",
+        "description": "Redmi Note 13 Pro with 6.8-inch AMOLED, Dimensity 1200, and 200MP camera.",
+        "product_line_id": "3ccfaf72-5547-4935-b87e-dc897625cd86",
+        "slug": "smartphone-xiaomi-redmi-note-13-pro",
+        "id": "f5878662-3c8f-4384-867f-33748ecdf9e2"
+    },
+    {
+        "name": "Xiaomi Mi Pad 6 Pro",
+        "description": "Mi Pad 6 Pro with 12-inch 144Hz display, Snapdragon 8+ Gen 1, and quad speakers.",
+        "product_line_id": "eb9fb07d-29aa-478d-bedc-45eea45d0072",
+        "slug": "tablet-xiaomi-mipad-6-pro",
+        "id": "212ff153-aba3-4cfd-a2d6-1e4c953a3e37"
+    },
+    {
+        "name": "Oppo Find X6 Pro",
+        "description": "Find X6 Pro with 6.8-inch AMOLED, Snapdragon 8 Gen 2, and Hasselblad camera.",
+        "product_line_id": "f1ac4e04-695a-4042-a3aa-d3f2e93385dd",
+        "slug": "smartphone-oppo-find-x6-pro",
+        "id": "d71c267d-c645-4a0d-9257-3ff0e62c23f7"
+    },
+    {
+        "name": "Vivo X100 Pro+",
+        "description": "Vivo X100 Pro+ with 6.9-inch AMOLED, Snapdragon 8 Gen 3, and Zeiss optics.",
+        "product_line_id": "4afba762-5a2a-45bc-bbfb-94ec22a1b66b",
+        "slug": "smartphone-vivo-x100-pro-plus",
+        "id": "b60183f2-0671-4ed6-b536-bc1e351d2909"
+    },
+    {
+        "name": "Huawei P70 Pro",
+        "description": "Huawei P70 Pro with 6.8-inch OLED, Kirin 9900, and XMAGE camera.",
+        "product_line_id": "99e0e5a2-862f-4e20-b509-a0c6b28abf61",
+        "slug": "smartphone-huawei-p70-pro",
+        "id": "85754481-f395-4bbd-bb4b-dede79830002"
+    },
+    {
+        "name": "Lenovo ThinkPad Z13 Gen 2",
+        "description": "ThinkPad Z13 Gen 2 with 13.3-inch OLED, Ryzen 7 PRO, and vegan leather cover.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-z13-gen-2",
+        "id": "1f80752c-6958-4f75-ab44-e96693737920"
+    },
+    {
+        "name": "Dell XPS 17 (2024)",
+        "description": "XPS 17 (2024) with 17-inch UHD+ display, Intel Core Ultra, and RTX 4080.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-17-2024",
+        "id": "96081eae-c5ac-4775-8d12-45a2ff376128"
+    },
+    {
+        "name": "Acer Aspire Vero",
+        "description": "Aspire Vero is an eco-friendly laptop with recycled materials and Intel Core i7.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-vero",
+        "id": "bd4b9b4f-2929-4400-a252-2dca97118d15"
+    },
+    {
+        "name": "MSI Stealth 18 Studio",
+        "description": "Stealth 18 Studio with 18-inch QHD+ display, Intel i9, and RTX 4090.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-18-studio",
+        "id": "80fab003-7da1-4b6d-bc1d-6190b3aab245"
+    },
+    {
+        "name": "Asus ROG Flow X16",
+        "description": "ROG Flow X16 with 16-inch Mini LED, Ryzen 9, and RTX 4080.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-flow-x16",
+        "id": "a93ad24b-3feb-4ae6-827d-fc107e20ea3a"
+    },
+    {
+        "name": "Baseus Encok W09",
+        "description": "Baseus Encok W09 are wireless earbuds with Bluetooth 5.1 and long battery life.",
+        "product_line_id": "425fd16a-11d5-4c7a-823d-a725715847ec",
+        "slug": "earbuds-baseus-encok-w09",
+        "id": "caa6ff76-6a59-4442-a3d8-92ead595ab54"
+    },
+    {
+        "name": "Anker PowerPort IV",
+        "description": "Anker PowerPort IV is a 65W multi-port charger for laptops and phones.",
+        "product_line_id": "62fa122d-e8c5-4082-8612-84c6ce33e88f",
+        "slug": "charger-anker-powerport-iv",
+        "id": "4130dbc2-b839-4606-86fc-d24dc8b7693c"
+    },
+    {
+        "name": "Logitech G733",
+        "description": "Logitech G733 is a wireless gaming headset with LIGHTSYNC RGB and 29-hour battery.",
+        "product_line_id": "def9df3a-73ef-4ca3-a681-52afbe5cfc0d",
+        "slug": "headphones-logitech-g733",
+        "id": "d69e8434-9ea3-486d-911c-0d9f5d8acf67"
+    },
+    {
+        "name": "Razer BlackShark V2 Pro",
+        "description": "Razer BlackShark V2 Pro is a wireless esports headset with THX Spatial Audio.",
+        "product_line_id": "db4f5056-63ba-408e-9ba6-d707e6b3911b",
+        "slug": "headphones-razer-blackshark-v2-pro",
+        "id": "472a22f2-5612-40a8-90ba-c351397e8e3c"
+    },
+    {
+        "name": "Sony WH-CH720N",
+        "description": "Sony WH-CH720N are lightweight wireless headphones with ANC and 35-hour battery.",
+        "product_line_id": "b19507f7-bf0c-43bb-ad40-e0536183f96b",
+        "slug": "headphones-sony-wh-ch720n",
+        "id": "6af5da7d-e7bf-4c11-90e1-fdad4ecf6387"
+    },
+    {
+        "name": "LG Tone Free T90",
+        "description": "LG Tone Free T90 are true wireless earbuds with Dolby Atmos and UVnano case.",
+        "product_line_id": "cb0e358c-e7cf-4af5-bbe6-3d2e5e825525",
+        "slug": "headphones-lg-tone-free-t90",
+        "id": "0c011d0b-5d74-47c0-bf13-a6a9adbc70a9"
+    },
+    {
+        "name": "Canon EOS R7",
+        "description": "Canon EOS R7 is an APS-C mirrorless camera with 32.5MP sensor and 4K60p video.",
+        "product_line_id": "bbf6cc8c-7bb8-4dd1-8a8b-8f056c33a995",
+        "slug": "camera-canon-eos-r7",
+        "id": "21972a51-f402-4945-b2d9-cee3d5bdb07e"
+    },
+    {
+        "name": "Nikon Zf",
+        "description": "Nikon Zf is a retro-styled full-frame mirrorless camera with 24.5MP sensor.",
+        "product_line_id": "8525b445-dad2-4782-9244-03b1e86ed3b2",
+        "slug": "camera-nikon-zf",
+        "id": "81ac936c-5734-4cdd-92c6-6852f22e89da"
+    },
+    {
+        "name": "Canon EOS R10",
+        "description": "Canon EOS R10 is a compact APS-C mirrorless camera with 24.2MP sensor and 4K video.",
+        "product_line_id": "bbf6cc8c-7bb8-4dd1-8a8b-8f056c33a995",
+        "slug": "camera-canon-eos-r10",
+        "id": "0baa52d8-ebbc-4e5d-b0f0-527b9c8e208d"
+    },
+    {
+        "name": "Canon EOS R5 C",
+        "description": "Canon EOS R5 C is a hybrid cinema camera with 45MP sensor and 8K video.",
+        "product_line_id": "bbf6cc8c-7bb8-4dd1-8a8b-8f056c33a995",
+        "slug": "camera-canon-eos-r5-c",
+        "id": "f017c720-e84d-44fd-a29e-9a8dc7ab0466"
+    },
+    {
+        "name": "Nikon Z6 III",
+        "description": "Nikon Z6 III is a full-frame mirrorless camera with 24.5MP sensor and 4K120p video.",
+        "product_line_id": "8525b445-dad2-4782-9244-03b1e86ed3b2",
+        "slug": "camera-nikon-z6-iii",
+        "id": "f87870c6-46f1-46f9-88a4-da9ac7c8ab7a"
+    },
+    {
+        "name": "Nikon Z50 II",
+        "description": "Nikon Z50 II is an APS-C mirrorless camera with 21MP sensor and fast autofocus.",
+        "product_line_id": "8525b445-dad2-4782-9244-03b1e86ed3b2",
+        "slug": "camera-nikon-z50-ii",
+        "id": "c8af631b-eb16-493e-a636-11b0f89de99d"
+    },
+    {
+        "name": "Canon EOS R8",
+        "description": "Canon EOS R8 is a lightweight full-frame mirrorless camera with 24MP sensor and 4K60p video.",
+        "product_line_id": "bbf6cc8c-7bb8-4dd1-8a8b-8f056c33a995",
+        "slug": "camera-canon-eos-r8",
+        "id": "cc4195aa-c457-4e8e-bab6-c438ac428246"
+    },
+    {
+        "name": "Nikon Z7 III",
+        "description": "Nikon Z7 III is a high-resolution full-frame mirrorless camera with 45.7MP sensor.",
+        "product_line_id": "8525b445-dad2-4782-9244-03b1e86ed3b2",
+        "slug": "camera-nikon-z7-iii",
+        "id": "e7ba075c-d8d7-4d1d-aa92-e695ab31506b"
+    },
+    {
+        "name": "Canon EOS R6",
+        "description": "Canon EOS R6 is a versatile full-frame mirrorless camera with 20MP sensor and fast autofocus.",
+        "product_line_id": "bbf6cc8c-7bb8-4dd1-8a8b-8f056c33a995",
+        "slug": "camera-canon-eos-r6",
+        "id": "6606523e-41c9-488b-8d06-eaeab9925ced"
+    },
+    {
+        "name": "Nikon Z30",
+        "description": "Nikon Z30 is a compact APS-C mirrorless camera for vlogging and content creation.",
+        "product_line_id": "8525b445-dad2-4782-9244-03b1e86ed3b2",
+        "slug": "camera-nikon-z30",
+        "id": "b9360f64-da9b-4d92-af23-a390bde6c6ee"
+    },
+    {
+        "name": "Apple MacBook Air M4",
+        "description": "The MacBook Air M4 offers a fanless design, 14-inch Liquid Retina display, and all-day battery life. Lightweight and powerful for students and professionals.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-m4",
+        "id": "83bfc565-7efc-4015-be66-968d590dfa79"
+    },
+    {
+        "name": "Samsung Galaxy Book5 Ultra",
+        "description": "Galaxy Book5 Ultra is a premium ultrabook with Intel Core Ultra 9, AMOLED display, and 24-hour battery life. Perfect for business and travel.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book5-ultra",
+        "id": "54eb513d-8454-4ac6-be4a-ce25935a31d5"
+    },
+    {
+        "name": "Lenovo ThinkPad X1 Extreme Gen 7",
+        "description": "ThinkPad X1 Extreme Gen 7 features a 16-inch 4K OLED display, Intel i9, and NVIDIA RTX 4080 graphics. Built for demanding workloads.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-x1-extreme-gen-7",
+        "id": "3eddde33-ccbc-459d-9a20-e5cf2cdf2b16"
+    },
+    {
+        "name": "Dell XPS 15 OLED (2025)",
+        "description": "XPS 15 OLED (2025) with 15.6-inch 3.5K OLED display, Intel Core Ultra, and RTX 4070. Sleek and powerful for creators.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-15-oled-2025",
+        "id": "824ad32f-a4b5-4465-a1d3-54b71882b7e0"
+    },
+    {
+        "name": "Acer Aspire 5 Spin 14",
+        "description": "Aspire 5 Spin 14 is a convertible laptop with 14-inch touchscreen, Intel Core i7, and long battery life. Versatile for work and play.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-5-spin-14",
+        "id": "50795a06-4a30-4755-8d7e-8f35b26fefd0"
+    },
+    {
+        "name": "MSI Stealth 14 Studio (2025)",
+        "description": "Stealth 14 Studio (2025) with 14-inch QHD+ display, Intel i7-15500H, and RTX 4060 graphics. Ultra-thin gaming and creative laptop.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-14-studio-2025",
+        "id": "2cd50bf7-1a77-466c-b837-25a77d7b3da9"
+    },
+    {
+        "name": "Asus ROG Zephyrus Duo 16 (2025)",
+        "description": "ROG Zephyrus Duo 16 features dual displays, Ryzen 9 9950HX, and RTX 5090 graphics. Ultimate gaming and multitasking machine.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-zephyrus-duo-16-2025",
+        "id": "38cc5d30-3e48-42a5-bf43-854092800e7b"
+    },
+    {
+        "name": "Apple MacBook Pro 14 (2025)",
+        "description": "The MacBook Pro 14-inch (2025) features the M4 Pro chip, mini-LED display, and MagSafe charging. Ideal for professionals.",
+        "product_line_id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "slug": "laptop-apple-macbook-pro-14-2025",
+        "id": "1398bb9d-22ad-43e7-98c6-d6461f1fd665"
+    },
+    {
+        "name": "Apple MacBook Air 16",
+        "description": "The MacBook Air 16 offers a larger display, M4 chip, and all-day battery life. Lightweight and portable.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-16",
+        "id": "de5fe580-ecbc-4a72-a3a2-f29a639e0dcd"
+    },
+    {
+        "name": "Samsung Galaxy Book5 Pro 360",
+        "description": "Galaxy Book5 Pro 360 is a convertible ultrabook with 16-inch AMOLED touchscreen, S Pen support, and Intel Core Ultra.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book5-pro-360",
+        "id": "02bc8c53-a2ea-4ee6-8ecf-379cc89b208b"
+    },
+    {
+        "name": "Lenovo ThinkPad Z16 Gen 3",
+        "description": "ThinkPad Z16 Gen 3 with 16-inch OLED, Ryzen 9 PRO, and vegan leather cover. Premium business laptop.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-z16-gen-3",
+        "id": "7b3761bf-b8a8-440e-a6dc-ffccf579773f"
+    },
+    {
+        "name": "Dell XPS 13 2-in-1 (2025)",
+        "description": "XPS 13 2-in-1 (2025) with 13.4-inch InfinityEdge touchscreen, Intel Core Ultra, and detachable keyboard.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-13-2-in-1-2025",
+        "id": "bf0150d5-161b-482e-b3b0-e81c6aece253"
+    },
+    {
+        "name": "Acer Aspire 3 (2025)",
+        "description": "Aspire 3 (2025) is a budget-friendly laptop with 15.6-inch FHD display, Intel Core i5, and SSD storage.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-3-2025",
+        "id": "5e7f94bb-65bd-4a51-91cd-4cb1278357ad"
+    },
+    {
+        "name": "MSI Stealth 17 Studio (2025)",
+        "description": "Stealth 17 Studio (2025) with 17-inch QHD+ display, Intel i9-15900HX, and RTX 4080 graphics. High-performance gaming laptop.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-17-studio-2025",
+        "id": "92c46f15-db12-4218-9b0f-fce84303afca"
+    },
+    {
+        "name": "Asus ROG Flow Z13 (2025)",
+        "description": "ROG Flow Z13 is a detachable gaming tablet/laptop with 13.4-inch 165Hz display, Intel Core Ultra, and RTX 4060.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-flow-z13-2025",
+        "id": "59be5ddf-db50-4e54-a74d-078ba9369b84"
+    },
+    {
+        "name": "Apple MacBook Pro 16 (2025)",
+        "description": "The MacBook Pro 16-inch (2025) features the M4 Max chip, Liquid Retina XDR display, and up to 128GB RAM. Ideal for professionals.",
+        "product_line_id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "slug": "laptop-apple-macbook-pro-16-2025",
+        "id": "d79c327f-f661-4021-a020-8f185461617a"
+    },
+    {
+        "name": "Apple MacBook Air 13 (2025)",
+        "description": "The MacBook Air 13-inch (2025) features the M4 chip, 13.6-inch Liquid Retina display, and all-day battery life.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-13-2025",
+        "id": "4a819682-0a77-4372-9090-5fe9353dff7d"
+    },
+    {
+        "name": "Samsung Galaxy Book5 Go",
+        "description": "Galaxy Book5 Go is a lightweight laptop with Snapdragon 8cx Gen 4, 14-inch FHD display, and LTE connectivity.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book5-go",
+        "id": "97b37ede-4d17-4a10-a00c-1f1024356644"
+    },
+    {
+        "name": "Lenovo ThinkPad L14 Gen 6",
+        "description": "ThinkPad L14 Gen 6 features a 14-inch FHD display, Intel Core i7, and robust security features. Built for business.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-l14-gen-6",
+        "id": "f7e95822-d7f3-4ac6-9f15-9d60978713b7"
+    },
+    {
+        "name": "Dell XPS 17 OLED (2025)",
+        "description": "XPS 17 OLED (2025) with 17-inch UHD+ OLED display, Intel Core Ultra, and RTX 4090. Ultimate desktop replacement.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-17-oled-2025",
+        "id": "1b19fbd8-2831-4927-9b4f-db6908d5d16e"
+    },
+    {
+        "name": "Acer Aspire 7 (2025)",
+        "description": "Aspire 7 (2025) features a 15.6-inch FHD display, Ryzen 7 7840HS, and NVIDIA RTX 4050 graphics.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-7-2025",
+        "id": "b7df8116-8ba5-40fb-bced-99e32e18244c"
+    },
+    {
+        "name": "MSI Stealth 15M (2025)",
+        "description": "Stealth 15M (2025) with 15.6-inch 240Hz display, Intel i7-15700H, and RTX 4070 graphics. Thin and light gaming laptop.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-15m-2025",
+        "id": "a1cd5319-0685-475b-ad79-f0ef1d47249d"
+    },
+    {
+        "name": "Asus ROG Strix G18 (2025)",
+        "description": "ROG Strix G18 features an 18-inch QHD+ display, Intel i9-15900HX, and RTX 5090 graphics. Built for esports.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-strix-g18-2025",
+        "id": "0e164ffc-2d76-4fa0-81a7-843965396078"
+    },
+    {
+        "name": "Apple MacBook Pro 13 (2025)",
+        "description": "The MacBook Pro 13-inch (2025) features the M4 chip, 13.3-inch Liquid Retina display, and Touch Bar.",
+        "product_line_id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "slug": "laptop-apple-macbook-pro-13-2025",
+        "id": "7892a05e-b9ba-4278-ab4f-ae8eb542a07e"
+    },
+    {
+        "name": "Apple MacBook Air 12 (2025)",
+        "description": "The MacBook Air 12-inch (2025) is ultra-portable, with M4 chip and 12-hour battery life.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-12-2025",
+        "id": "d4bd6888-8097-4f84-8ad8-a95ca094aa69"
+    },
+    {
+        "name": "Samsung Galaxy Book5 Flex Alpha",
+        "description": "Galaxy Book5 Flex Alpha is a 13.3-inch QLED convertible laptop with Intel Core Ultra and S Pen support.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book5-flex-alpha",
+        "id": "495e2746-f13c-4837-930d-f400f684884a"
+    },
+    {
+        "name": "Lenovo ThinkPad E15 Gen 6",
+        "description": "ThinkPad E15 Gen 6 features a 15.6-inch FHD display, Intel Core i5, and spill-resistant keyboard.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-e15-gen-6",
+        "id": "49c7b910-6028-4277-8848-7e4a82649e9c"
+    },
+    {
+        "name": "Dell XPS 14 (2025)",
+        "description": "XPS 14 (2025) with 14-inch InfinityEdge display, Intel Core Ultra, and long battery life.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-14-2025",
+        "id": "7c660ae7-b0b7-4afb-89eb-d1efe33c3c6a"
+    },
+    {
+        "name": "Acer Aspire Vero National Geographic Edition",
+        "description": "Aspire Vero National Geographic Edition is an eco-friendly laptop with recycled materials and unique design.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-vero-national-geographic",
+        "id": "964d303d-7662-4d7a-af2b-32af02d03099"
+    },
+    {
+        "name": "MSI Stealth GS77 (2025)",
+        "description": "Stealth GS77 (2025) with 17.3-inch 240Hz display, Intel i9, and RTX 4080 graphics. Premium gaming laptop.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-gs77-2025",
+        "id": "74710018-6a29-4177-9a8e-92a424356986"
+    },
+    {
+        "name": "Asus ROG Zephyrus G16 (2025)",
+        "description": "ROG Zephyrus G16 features a 16-inch QHD+ display, Intel i9-15900H, and RTX 4080 graphics. Compact gaming powerhouse.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-zephyrus-g16-2025",
+        "id": "62d2b02e-5ebc-401e-9b63-46b5641007ac"
+    },
+    {
+        "name": "Apple MacBook Pro 15 (2025)",
+        "description": "The MacBook Pro 15-inch (2025) features the M4 Pro chip, 15.4-inch Liquid Retina display, and MagSafe charging.",
+        "product_line_id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "slug": "laptop-apple-macbook-pro-15-2025",
+        "id": "d686562c-807f-4ff5-81da-ea10cdd0314e"
+    },
+    {
+        "name": "Apple MacBook Air 11 (2025)",
+        "description": "The MacBook Air 11-inch (2025) is ultra-light, with M4 chip and 10-hour battery life.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-11-2025",
+        "id": "1deea5b3-7d69-4840-885c-c75eee7305a1"
+    },
+    {
+        "name": "Samsung Galaxy Book5 Ion 2",
+        "description": "Galaxy Book5 Ion 2 is a 15.6-inch QLED laptop with Intel Core Ultra and ultra-slim design.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book5-ion-2",
+        "id": "973a5a77-42b4-4bec-92d6-b6a86441e59f"
+    },
+    {
+        "name": "Lenovo ThinkPad T14s Gen 6",
+        "description": "ThinkPad T14s Gen 6 features a 14-inch 2.2K display, Intel Core i7, and all-day battery life.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-t14s-gen-6",
+        "id": "fc4ce832-1780-49e9-86d7-c90a391492d4"
+    },
+    {
+        "name": "Dell XPS 16 (2025)",
+        "description": "XPS 16 (2025) with 16-inch InfinityEdge display, Intel Core Ultra, and RTX 4080 graphics.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-16-2025",
+        "id": "0cb40b63-714d-4cb8-b0f3-a667c7d5713e"
+    },
+    {
+        "name": "Acer Aspire 1 (2025)",
+        "description": "Aspire 1 (2025) is an affordable laptop with 14-inch HD display, Intel Celeron, and SSD storage.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-1-2025",
+        "id": "ac266d67-2973-4ddb-8c6f-61edffd1a5ed"
+    },
+    {
+        "name": "MSI Stealth 13 Studio (2025)",
+        "description": "Stealth 13 Studio (2025) with 13.3-inch FHD display, Intel i7, and RTX 4050 graphics. Ultra-portable gaming laptop.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-13-studio-2025",
+        "id": "53a8f704-3a69-4425-babd-797c49d0478f"
+    },
+    {
+        "name": "Asus ROG Zephyrus M16 (2025)",
+        "description": "ROG Zephyrus M16 features a 16-inch QHD+ display, Intel i9-15900H, and RTX 4080 graphics. Slim and powerful.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-zephyrus-m16-2025",
+        "id": "8f5c409d-9867-4b55-ba09-a5dcdf352d82"
+    },
+    {
+        "name": "Apple MacBook Pro 17 (2025)",
+        "description": "The MacBook Pro 17-inch (2025) features the M4 Max chip, 17-inch Liquid Retina display, and up to 96GB RAM.",
+        "product_line_id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "slug": "laptop-apple-macbook-pro-17-2025",
+        "id": "33c74bc4-3737-4d2a-b51c-531d87aa069b"
+    },
+    {
+        "name": "Apple MacBook Air 10 (2025)",
+        "description": "The MacBook Air 10-inch (2025) is ultra-compact, with M4 chip and 8-hour battery life.",
+        "product_line_id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "slug": "laptop-apple-macbook-air-10-2025",
+        "id": "1693f97c-71d9-475f-8fb1-729d58587d14"
+    },
+    {
+        "name": "Samsung Galaxy Book5 S",
+        "description": "Galaxy Book5 S is a slim and light laptop with 13.3-inch AMOLED display and Intel Core Ultra.",
+        "product_line_id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "slug": "laptop-samsung-galaxy-book5-s",
+        "id": "105c64e4-d57c-470f-9c0f-ecc51f24f0ad"
+    },
+    {
+        "name": "Lenovo ThinkPad P1 Gen 7",
+        "description": "ThinkPad P1 Gen 7 features a 16-inch 4K display, Intel Xeon, and NVIDIA RTX A5000 graphics. Mobile workstation.",
+        "product_line_id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "slug": "laptop-lenovo-thinkpad-p1-gen-7",
+        "id": "4bd945e7-bd1c-4579-b9a0-8da46cb9c642"
+    },
+    {
+        "name": "Dell XPS 12 (2025)",
+        "description": "XPS 12 (2025) with 12.5-inch InfinityEdge display, Intel Core Ultra, and detachable keyboard.",
+        "product_line_id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "slug": "laptop-dell-xps-12-2025",
+        "id": "5549e4c4-3b1f-491f-9aeb-e4268baab4a8"
+    },
+    {
+        "name": "Acer Aspire 9 (2025)",
+        "description": "Aspire 9 (2025) is a high-end laptop with 17-inch 4K display, Intel Core i9, and RTX 4080 graphics.",
+        "product_line_id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "slug": "laptop-acer-aspire-9-2025",
+        "id": "d3a14dbf-4f5f-451b-8556-c4d0e5cdf17e"
+    },
+    {
+        "name": "MSI Stealth 16 Studio Evo (2025)",
+        "description": "Stealth 16 Studio Evo (2025) with 16-inch OLED display, Intel i9, and RTX 4090 graphics. Flagship gaming laptop.",
+        "product_line_id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "slug": "laptop-msi-stealth-16-studio-evo-2025",
+        "id": "cb9eea2c-c5c0-4b88-8f8d-f9e11b27d4a1"
+    },
+    {
+        "name": "Asus ROG Flow X13 (2025)",
+        "description": "ROG Flow X13 is a 13.4-inch convertible gaming laptop with Ryzen 9, RTX 4060, and 120Hz display.",
+        "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
+        "slug": "laptop-asus-rog-flow-x13-2025",
+        "id": "03265ad6-5682-4212-bc5c-9656d7343838"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Office",
+        "id": "e2c9f744-5f82-427e-9333-50448f1945be"
+    },
+    {
+        "name": "Graphic",
+        "id": "42107a5a-2508-4724-a849-dc6cab82e97a"
+    },
+    {
+        "name": "Gaming",
+        "id": "a27abe3e-59dd-4abb-aad2-81440a0c6727"
+    },
+    {
+        "name": "Cheap",
+        "id": "50aa9ef6-8749-49a3-8852-c74b4ddf2219"
+    },
+    {
+        "name": "Luxury",
+        "id": "b24bdad7-06b6-445e-a6af-6c955dfeb68e"
+    },
+    {
+        "name": "High Performance",
+        "id": "616c103b-beb0-4dc1-950a-6283b68e7f3f"
+    },
+    {
+        "name": "Design",
+        "id": "0439f793-7246-480a-9c5a-21c567b75a41"
+    },
+    {
+        "name": "Minimalist",
+        "id": "956ebb0b-5e00-41dd-9e60-58a1fda65c6d"
+    },
+    {
+        "name": "Eco-Friendly",
+        "id": "4c11d005-7442-4e45-8602-2d144eda7810"
+    },
+    {
+        "name": "Portable",
+        "id": "25f1d660-28e8-48ff-8bcc-014dba755244"
+    },
+    {
+        "name": "Budget",
+        "id": "b51b9abd-13cf-4e19-a442-a050d5250336"
+    },
+    {
+        "name": "Premium",
+        "id": "ca53fb2f-8ced-4d35-a388-45263f80b7d5"
+    },
+    {
+        "name": "Compact",
+        "id": "9e270d03-848c-4e16-9740-2b3eb5cb4aac"
+    },
+    {
+        "name": "Versatile",
+        "id": "ce0e833b-3c1f-402d-bfdf-6fe21f80f163"
+    },
+    {
+        "name": "Stylish",
+        "id": "7fc67e83-dfaa-4c38-a2f1-6619e6252aa5"
+    },
+    {
+        "name": "Durable",
+        "id": "1f434104-b07b-46d9-8800-f418db9b6832"
+    },
+    {
+        "name": "Lightweight",
+        "id": "e560aa5e-9f1c-40b9-b808-bdbceb1825f8"
+    },
+    {
+        "name": "High Capacity",
+        "id": "0a75aca5-f368-452f-b11d-c1cc7fd4b3ec"
+    },
+    {
+        "name": "Fast Charging",
+        "id": "e8eac550-e4a0-49d6-af51-84faca72a5f6"
+    },
+    {
+        "name": "Wireless",
+        "id": "822ae0f6-6d1e-44af-adfe-f44221caf284"
+    },
+    {
+        "name": "Noise Cancelling",
+        "id": "eb6b3fdb-18fd-44e6-9bf8-69056f6000bc"
+    },
+    {
+        "name": "Water Resistant",
+        "id": "bfd47eaf-a8b7-4fa9-893c-0f4252760985"
+    },
+    {
+        "name": "Sweat Resistant",
+        "id": "f80fb7a8-ef6a-47ac-8b5d-eddb7f216be3"
+    }
+]

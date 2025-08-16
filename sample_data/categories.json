@@ -1,0 +1,38 @@
+[
+    {
+        "id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac",
+        "name": "Smartphone"
+    },
+    {
+        "id": "61147b11-379b-4441-93a2-a901af5689f2",
+        "name": "Smartwatch"
+    },
+    {
+        "id": "f3469e07-4b05-4fc1-ab8f-1265ec2025fb",
+        "name": "Tablet"
+    },
+    {
+        "id": "a49f08ee-600b-4a32-b7d2-199c8058c487",
+        "name": "Headphones"
+    },
+    {
+        "id": "b42fcf56-45a6-49a7-8ee6-42c3ecda547a",
+        "name": "Earbuds"
+    },
+    {
+        "id": "826802a3-ad55-4f49-9fb7-30efe864daf7",
+        "name": "Laptop"
+    },
+    {
+        "id": "5639287e-299d-4bcb-9ff4-8cd799ac4094",
+        "name": "Camera"
+    },
+    {
+        "id": "53e255fd-980c-4ccf-82c3-e4ffae78b088",
+        "name": "Smart Speaker"
+    },
+    {
+        "id": "f52ede27-3b6b-425f-a2c5-dc45989c814c",
+        "name": "Charger"
+    }
+]

@@ -1,4 +1,5 @@
 from uuid import UUID
+
 from sqlalchemy.future import select
 
 from src.models.product_models import (
@@ -12,7 +13,8 @@ from src.schemas.product_variant_schemas import (
 )
 
 from src.services.base_services import BaseServiceDBSession
-from src.utils.common import building_slug, update_obj_from_dict
+from src.utils.common import building_slug, generate_product_text, update_obj_from_dict
+from src.tasks.embedding_tasks import enqueue_text
 
 
 class ProductVariantService(BaseServiceDBSession):
@@ -56,6 +58,10 @@ class ProductVariantService(BaseServiceDBSession):
         obj.slug = await self._generate_slug(obj.name, obj.product_id)
         await self.session.commit()
         await self.session.refresh(obj)
+
+        variant_data = await self.generate_product_data(obj)
+        # add to queue flower queue
+        enqueue_text(variant_data)
         return obj
 
     async def delete(self, obj_id: str) -> bool:

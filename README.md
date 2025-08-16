@@ -20,10 +20,13 @@
   + Add models at src/models
   + import models in `src/models/__init__.py`
   + run: `alembic revision --autogenerate -m "message here"
+  
+# Populate database
+- attach to the docker container of `web` services
+- run: `python -m src.cli populatedb`
 
 ## Commit
 - run: `pre-commit install`
-- run: `pre-commit run --all-files`
 - run: `git add .`
 - run: `git commit -m "message"`
 - run: `git push origin main`

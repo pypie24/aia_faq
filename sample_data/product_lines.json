@@ -1,0 +1,290 @@
+[
+    {
+        "id": "cb6bbff4-c54f-46b7-8813-7cfeb25ba17b",
+        "name": "IPhone",
+        "description": "Apple's flagship smartphone line.",
+        "slug": "smartphone-apple-iphone",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "edfce9d5-8b81-466a-a95a-5058d8cb3e00",
+        "name": "IPhone Pro",
+        "description": "Apple's flagship smartphone line.",
+        "slug": "smartphone-apple-iphone-pro",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "4712e83e-e8ea-4563-92d1-0e1e1fe93f48",
+        "name": "IPhone Pro Max",
+        "description": "Apple's flagship smartphone line.",
+        "slug": "smartphone-apple-iphone-pro-max",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "d0021378-dbdb-4d81-acce-e77e207c0143",
+        "name": "Ipad Pro",
+        "description": "Apple's flagship tablet line.",
+        "slug": "tablet-apple-ipad-pro",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "f3469e07-4b05-4fc1-ab8f-1265ec2025fb"
+    },
+    {
+        "id": "27486d31-8b42-429b-a497-52a84314f26e",
+        "name": "IPad Air",
+        "description": "Apple's tablet product line.",
+        "slug": "tablet-apple-ipad-air",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "f3469e07-4b05-4fc1-ab8f-1265ec2025fb"
+    },
+    {
+        "id": "2edd7456-6cfa-4b8a-aff9-0a66ee17484e",
+        "name": "Apple Watch",
+        "description": "Apple's smartwatch series.",
+        "slug": "smartwatch-apple-watch",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "61147b11-379b-4441-93a2-a901af5689f2"
+    },
+    {
+        "id": "9f863d0b-2a7f-438e-89fb-79c42d2cc72f",
+        "name": "Apple Watch SE",
+        "description": "Apple's smartwatch series.",
+        "slug": "smartwatch-apple-watch-se",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "61147b11-379b-4441-93a2-a901af5689f2"
+    },
+    {
+        "id": "a0b2ee3c-1e70-4952-8a31-814ccbfd1748",
+        "name": "Apple Watch Ultra",
+        "description": "Apple's smartwatch series.",
+        "slug": "smartwatch-apple-watch-ultra",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "61147b11-379b-4441-93a2-a901af5689f2"
+    },
+    {
+        "id": "b871e777-cab0-4612-acda-ef2efe320cb0",
+        "name": "MacBook Pro",
+        "description": "Apple's laptop product line.",
+        "slug": "laptop-apple-macbook-pro",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "ff69cdd9-a775-4596-b464-04645bdeb692",
+        "name": "MacBook Air",
+        "description": "Apple's laptop product line.",
+        "slug": "laptop-apple-macbook-air",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "dd7e02a4-4e7a-4fbc-9798-087a72c91c2c",
+        "name": "AirPods Pro",
+        "description": "Apple's premium headphones.",
+        "slug": "headphones-apple-airpods-pro",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "a49f08ee-600b-4a32-b7d2-199c8058c487"
+    },
+    {
+        "id": "792df8c9-aa6d-4ced-b884-d034244da1b3",
+        "name": "AirPods",
+        "description": "Apple's wireless earbuds.",
+        "slug": "earbuds-apple-airpods",
+        "brand_id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "category_id": "b42fcf56-45a6-49a7-8ee6-42c3ecda547a"
+    },
+    {
+        "id": "ddb4338c-e5da-48ad-bb97-bb8162b85f5d",
+        "name": "Galaxy S",
+        "description": "Samsung's flagship smartphone line.",
+        "slug": "smartphone-samsung-galaxy-s",
+        "brand_id": "17cb6e02-165f-4439-bb79-424bec2cbe11",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "5d4037af-91db-47df-a0f7-a110003598bb",
+        "name": "Galaxy A",
+        "description": "Samsung's flagship smartphone line.",
+        "slug": "smartphone-samsung-galaxy-a",
+        "brand_id": "17cb6e02-165f-4439-bb79-424bec2cbe11",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "87b8aba7-2632-4fc5-a748-b576e629e3b0",
+        "name": "Galaxy Watch",
+        "description": "Samsung's smartwatch series.",
+        "slug": "smartwatch-samsung-galaxy-watch",
+        "brand_id": "17cb6e02-165f-4439-bb79-424bec2cbe11",
+        "category_id": "61147b11-379b-4441-93a2-a901af5689f2"
+    },
+    {
+        "id": "29e5db70-68dc-4d2a-a6a2-3a609b8a8c7f",
+        "name": "Galaxy Tab",
+        "description": "Samsung's tablet line.",
+        "slug": "tablet-samsung-galaxy-tab",
+        "brand_id": "17cb6e02-165f-4439-bb79-424bec2cbe11",
+        "category_id": "f3469e07-4b05-4fc1-ab8f-1265ec2025fb"
+    },
+    {
+        "id": "2ec0220f-5f35-4819-b840-879478a03237",
+        "name": "Galaxy Book",
+        "description": "Samsung's laptop line.",
+        "slug": "laptop-samsung-galaxy-book",
+        "brand_id": "17cb6e02-165f-4439-bb79-424bec2cbe11",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "6646abe0-67a4-4942-826e-75b2f9e0eb1f",
+        "name": "Galaxy Buds",
+        "description": "Samsung's wireless earbuds.",
+        "slug": "earbuds-samsung-galaxy-buds",
+        "brand_id": "17cb6e02-165f-4439-bb79-424bec2cbe11",
+        "category_id": "b42fcf56-45a6-49a7-8ee6-42c3ecda547a"
+    },
+    {
+        "id": "3ccfaf72-5547-4935-b87e-dc897625cd86",
+        "name": "Redmi",
+        "description": "Xiaomi's affordable smartphone line.",
+        "slug": "smartphone-xiaomi-redmi",
+        "brand_id": "699f09a9-5400-45e2-ab09-94746aa1b7f2",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "eb9fb07d-29aa-478d-bedc-45eea45d0072",
+        "name": "Mi Pad",
+        "description": "Xiaomi's tablet line.",
+        "slug": "tablet-xiaomi-mipad",
+        "brand_id": "699f09a9-5400-45e2-ab09-94746aa1b7f2",
+        "category_id": "f3469e07-4b05-4fc1-ab8f-1265ec2025fb"
+    },
+    {
+        "id": "f1ac4e04-695a-4042-a3aa-d3f2e93385dd",
+        "name": "Find X",
+        "description": "Oppo's premium smartphone line.",
+        "slug": "smartphone-oppo-find-x",
+        "brand_id": "be7c3e30-5cc1-4d8c-b6a1-986ad1665eed",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "4afba762-5a2a-45bc-bbfb-94ec22a1b66b",
+        "name": "Vivo X",
+        "description": "Vivo's flagship smartphone line.",
+        "slug": "smartphone-vivo-x",
+        "brand_id": "fdead827-1d88-455b-8529-57f310838099",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "99e0e5a2-862f-4e20-b509-a0c6b28abf61",
+        "name": "P Series",
+        "description": "Huawei's flagship smartphone line.",
+        "slug": "smartphone-huawei-p-series",
+        "brand_id": "dce697a2-17b0-4718-96f1-71ac2773e10b",
+        "category_id": "bd4f633f-6169-43b9-bba9-f27e4d0bfcac"
+    },
+    {
+        "id": "8d9ecb1d-f2b9-4fa5-b14b-bdaf842c2287",
+        "name": "ThinkPad",
+        "description": "Lenovo's business laptop line.",
+        "slug": "laptop-lenovo-thinkpad",
+        "brand_id": "66cb992e-dc5b-4b36-ad37-821aed147a5c",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "6772c95a-7d79-428f-89a3-ec2236973060",
+        "name": "XPS",
+        "description": "Dell's high-end laptop series.",
+        "slug": "laptop-dell-xps",
+        "brand_id": "10de7fba-7b33-4e48-8168-6f8ed52feff2",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "2755a16c-6383-45ff-a644-9f85cd58c744",
+        "name": "Aspire",
+        "description": "Acer's mainstream laptop line.",
+        "slug": "laptop-acer-aspire",
+        "brand_id": "82867d9e-6ef2-4d9b-b70e-ce6d4ddec447",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "13257f96-b812-4dbc-adee-f600e8ecfccc",
+        "name": "Stealth",
+        "description": "MSI's gaming laptop line.",
+        "slug": "laptop-msi-stealth",
+        "brand_id": "61c9c73c-adc7-48b8-80da-86dc087fb11a",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "ec24d830-c797-47da-a235-45045241fe20",
+        "name": "ROG",
+        "description": "Asus Republic of Gamers laptop line.",
+        "slug": "laptop-asus-rog",
+        "brand_id": "4e576507-8bcc-499c-85a4-d91dc45224fb",
+        "category_id": "826802a3-ad55-4f49-9fb7-30efe864daf7"
+    },
+    {
+        "id": "425fd16a-11d5-4c7a-823d-a725715847ec",
+        "name": "Baseus Encok",
+        "description": "Baseus's wireless earbuds line.",
+        "slug": "earbuds-baseus-encok",
+        "brand_id": "d741f398-efce-459f-8b6e-c2f1c8dc6692",
+        "category_id": "b42fcf56-45a6-49a7-8ee6-42c3ecda547a"
+    },
+    {
+        "id": "62fa122d-e8c5-4082-8612-84c6ce33e88f",
+        "name": "Anker PowerPort",
+        "description": "Anker's fast charger line.",
+        "slug": "charger-anker-powerport",
+        "brand_id": "0ad0a1f1-94ec-4b6c-8c36-67ef0a06ae46",
+        "category_id": "f52ede27-3b6b-425f-a2c5-dc45989c814c"
+    },
+    {
+        "id": "def9df3a-73ef-4ca3-a681-52afbe5cfc0d",
+        "name": "Logitech G",
+        "description": "Logitech's gaming headphones line.",
+        "slug": "headphones-logitech-g",
+        "brand_id": "214d49fa-5f0d-4147-b82f-1f2927e463b3",
+        "category_id": "a49f08ee-600b-4a32-b7d2-199c8058c487"
+    },
+    {
+        "id": "db4f5056-63ba-408e-9ba6-d707e6b3911b",
+        "name": "Razer Kraken",
+        "description": "Razer's gaming headphones line.",
+        "slug": "headphones-razer-kraken",
+        "brand_id": "4e4f4293-1f12-4897-b898-4f9a0c4e9258",
+        "category_id": "a49f08ee-600b-4a32-b7d2-199c8058c487"
+    },
+    {
+        "id": "b19507f7-bf0c-43bb-ad40-e0536183f96b",
+        "name": "WH Series",
+        "description": "Sony's wireless headphones line.",
+        "slug": "headphones-sony-wh-series",
+        "brand_id": "665b0c90-fa6a-4697-bf97-587f9f2be37a",
+        "category_id": "a49f08ee-600b-4a32-b7d2-199c8058c487"
+    },
+    {
+        "id": "cb0e358c-e7cf-4af5-bbe6-3d2e5e825525",
+        "name": "LG Tone",
+        "description": "LG's wireless headphones line.",
+        "slug": "headphones-lg-tone",
+        "brand_id": "5e613551-c1e5-4fdb-be0d-72b0a6fbec6c",
+        "category_id": "a49f08ee-600b-4a32-b7d2-199c8058c487"
+    },
+    {
+        "id": "bbf6cc8c-7bb8-4dd1-8a8b-8f056c33a995",
+        "name": "EOS",
+        "description": "Canon's DSLR and mirrorless camera line.",
+        "slug": "camera-canon-eos",
+        "brand_id": "ccc74ce5-2d7e-4cd5-92ad-dbf9a3934cb6",
+        "category_id": "5639287e-299d-4bcb-9ff4-8cd799ac4094"
+    },
+    {
+        "id": "8525b445-dad2-4782-9244-03b1e86ed3b2",
+        "name": "Z Series",
+        "description": "Nikon's mirrorless camera line.",
+        "slug": "camera-nikon-z-series",
+        "brand_id": "30dce111-7ced-40c0-ade5-28f54d07e890",
+        "category_id": "5639287e-299d-4bcb-9ff4-8cd799ac4094"
+    }
+]

@@ -1,5 +1,5 @@
-from typing import AsyncGenerator
-
+from typing import AsyncGenerator, Any
+from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from sqlalchemy.orm import sessionmaker, declarative_base
 
@@ -28,3 +28,16 @@ async def get_db() -> AsyncGenerator[AsyncSession, None]:
     )
     async with async_session() as session:
         yield session
+
+
+async def bulk_insert_ignore_conflicts(
+        session: AsyncSession,
+        model: Any,
+        objects: list[dict],
+        unique_fields: list[str]
+) -> None:
+    """Insert a list of objects into the database, ignoring conflicts."""
+    stmt = insert(model).values([obj for obj in objects])
+    stmt = stmt.on_conflict_do_nothing(index_elements=unique_fields)
+    await session.execute(stmt)
+    await session.commit()

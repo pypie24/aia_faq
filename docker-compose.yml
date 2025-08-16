@@ -59,17 +59,48 @@ services:
     volumes:
       - chroma_data:/chroma/chroma # Persist data to a local directory
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v2/heartbeat"]
       interval: 30s
       timeout: 10s
       retries: 5
     networks:
       - faq-network
+  
+  redis:
+    image: redis:7.2-alpine
+    container_name: faq_redis
+    ports:
+      - 6379:6379
+    networks:
+      - faq-network
+
+  worker:
+    build: .
+    container_name: celery_worker
+    command: celery -A src.tasks.celery_app.celery_app worker --loglevel=info
+    networks:
+      - faq-network
+    volumes:
+      - .:/code
+    depends_on:
+      - redis
+      - chromadb
+
+  beat:
+    build: .
+    container_name: celery_beat
+    command: celery -A src.tasks.celery_app.celery_app beat --loglevel=info
+    networks:
+      - faq-network
+    volumes:
+      - .:/code
+    depends_on:
+      - redis
+      - chromadb
 
 volumes:
   db_data:
   chroma_data:
-  minio_data:
 
 networks:
   faq-network:

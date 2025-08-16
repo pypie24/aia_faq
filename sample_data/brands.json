@@ -1,0 +1,97 @@
+[
+    {
+        "id": "6d0ddf11-f516-44e9-9e8b-57aa53a9c027",
+        "name": "Apple",
+        "description": "The Apple brand"
+    },
+    {
+        "id": "17cb6e02-165f-4439-bb79-424bec2cbe11",
+        "name": "Samsung",
+        "description": "The Samsung brand"
+    },
+    {
+        "id": "699f09a9-5400-45e2-ab09-94746aa1b7f2",
+        "name": "Xiaomi",
+        "description": "The Xiaomi brand"
+    },
+    {
+        "id": "be7c3e30-5cc1-4d8c-b6a1-986ad1665eed",
+        "name": "Oppo",
+        "description": "The Oppo brand"
+    },
+    {
+        "id": "fdead827-1d88-455b-8529-57f310838099",
+        "name": "Vivo",
+        "description": "The Vivo brand"
+    },
+    {
+        "id": "dce697a2-17b0-4718-96f1-71ac2773e10b",
+        "name": "Huawei",
+        "description": "The Huawei brand"
+    },
+    {
+        "id": "66cb992e-dc5b-4b36-ad37-821aed147a5c",
+        "name": "Lenovo",
+        "description": "The Lenovo brand"
+    },
+    {
+        "id": "10de7fba-7b33-4e48-8168-6f8ed52feff2",
+        "name": "Dell",
+        "description": "The Dell brand"
+    },
+    {
+        "id": "82867d9e-6ef2-4d9b-b70e-ce6d4ddec447",
+        "name": "Acer",
+        "description": "The Acer brand"
+    },
+    {
+        "id": "61c9c73c-adc7-48b8-80da-86dc087fb11a",
+        "name": "MSI",
+        "description": "The MSI brand"
+    },
+    {
+        "id": "4e576507-8bcc-499c-85a4-d91dc45224fb",
+        "name": "Asus",
+        "description": "The Asus brand"
+    },
+    {
+        "id": "d741f398-efce-459f-8b6e-c2f1c8dc6692",
+        "name": "Baseus",
+        "description": "The Baseus brand"
+    },
+    {
+        "id": "0ad0a1f1-94ec-4b6c-8c36-67ef0a06ae46",
+        "name": "Anker",
+        "description": "The Anker brand"
+    },
+    {
+        "id": "214d49fa-5f0d-4147-b82f-1f2927e463b3",
+        "name": "Logitech",
+        "description": "The Logitech brand"
+    },
+    {
+        "id": "4e4f4293-1f12-4897-b898-4f9a0c4e9258",
+        "name": "Razer",
+        "description": "The Razer brand"
+    },
+    {
+        "id": "665b0c90-fa6a-4697-bf97-587f9f2be37a",
+        "name": "Sony",
+        "description": "The Sony brand"
+    },
+    {
+        "id": "5e613551-c1e5-4fdb-be0d-72b0a6fbec6c",
+        "name": "LG",
+        "description": "The LG brand"
+    },
+    {
+        "id": "ccc74ce5-2d7e-4cd5-92ad-dbf9a3934cb6",
+        "name": "Canon",
+        "description": "The Canon brand"
+    },
+    {
+        "id": "30dce111-7ced-40c0-ade5-28f54d07e890",
+        "name": "Nikon",
+        "description": "The Nikon brand"
+    }
+]
