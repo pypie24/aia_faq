@@ -45,16 +45,20 @@ def generate_batch_chunk(data: list, batch_size: int) -> Generator[list]:
 def flatten_spec(spec: dict, parent_key: str = "") -> list[str]:
     """Recursively flattens a spec dictionary into readable sentences."""
     lines = []
+    indent = "\t" if parent_key else ""
     for key, value in spec.items():
-        full_key = f"{parent_key} {key}".strip().replace("_", " ").capitalize()
+        if parent_key:
+            full_key = f"{indent}{key}"
+        else:
+            full_key = key
         if isinstance(value, dict):
-            lines.extend(flatten_spec(value, full_key))
+            lines.append(f"{full_key}:")
+            # Increase indentation for nested dicts
+            nested = flatten_spec(value, parent_key=full_key)
+            lines.extend([f"{indent}{line}" for line in nested])
         elif isinstance(value, list):
-            if value and isinstance(value[0], dict):
-                for idx, item in enumerate(value, 1):
-                    lines.extend(flatten_spec(item, f"{full_key} {idx}"))
-            else:
-                lines.append(f"{full_key}: {', '.join(map(str, value))}")
+            value_str = ", ".join(map(str, value))
+            lines.append(f"{full_key}: {value_str}")
         else:
             lines.append(f"{full_key}: {value}")
     return lines
@@ -63,16 +67,25 @@ def flatten_spec(spec: dict, parent_key: str = "") -> list[str]:
 def generate_product_text(product_variant_model: object) -> str:
     brand_name = product_variant_model.product.product_line.brand.name
     category_name = product_variant_model.product.product_line.category.name
-    product_variant_desc = product_variant_model.product.description or product_variant_model.product.product_line.description or ""
+    product_variant_desc = ". ".join(filter(None, [
+        product_variant_model.product.description, 
+        product_variant_model.product.product_line.description
+    ]))
     tags = [tag.name for tag in product_variant_model.tags]
-    specs = json.loads(product_variant_model.specs)
-    flattened_specs = flatten_spec(specs)
+    flattened_specs = flatten_spec({
+        "description": product_variant_desc,
+        "specs": product_variant_model.specs
+    })
     return {
-        "id": product_variant_model.id,
+        "id": str(product_variant_model.id),
         "brand": brand_name,
         "category": category_name,
-        "description": product_variant_desc,
         "price": product_variant_model.price,
         "tags": tags,
-        "specs": flattened_specs
+        "text": "\n".join(flattened_specs)
     }
+
+
+data = {"description": "shortdescription", "specs": {"color": "Black", "battery": "3240 mAh", "chipset": "Apple A15 Bionic", "cpu type": "3.22 GHz", "display features": ["Super Retina XDR", "OLED", "460 ppi", "HDR display", "True Tone", "Wide color (P3)", "Haptic Touch", "Oleophobic coating (fingerprint-resistant)"], "display technology": "Super Retina XDR OLED", "front camera": "12MP, f/2.2", "internal storage": "128 GB", "nfc": True, "operating system": "iOS 15", "ram": "4 GB", "rear camera": {"ultra wide": "12MP, f/2.4", "wide": "12MP, f/1.6"}, "screen resolution": "2532 x 1170 pixels", "screen size": "6.1 inches", "sim": "Dual SIM (nano-SIM and eSIM)"}}
+text = "\n".join(flatten_spec(data))
+print(text)

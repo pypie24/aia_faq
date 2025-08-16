@@ -13,7 +13,7 @@ from src.schemas.product_variant_schemas import (
 )
 
 from src.services.base_services import BaseServiceDBSession
-from src.utils.common import building_slug, generate_product_text, update_obj_from_dict
+from src.utils.common import building_slug, update_obj_from_dict
 from src.tasks.embedding_tasks import enqueue_text
 
 

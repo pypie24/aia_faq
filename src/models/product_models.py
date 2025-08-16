@@ -101,7 +101,7 @@ class ProductVariant(BaseModel):
     def __repr__(self):
         return (
             f"<ProductVariant(id={self.id}, product_id={self.product_id}, "
-            f"name={self.name}, color={self.color}, price={self.price}, stock={self.stock})>"
+            f"name={self.name}, price={self.price}, stock={self.stock})>"
         )
 
 
