@@ -2,14 +2,9 @@
 import asyncio
 import logging
 
-from openai import OpenAI
-import chromadb
 from celery import shared_task
 from sqlalchemy.future import select
 from sqlalchemy.orm import selectinload
-
-logging.basicConfig(level=logging.INFO)
-log = logging.getLogger(__name__)
 
 from src.db import AsyncSessionLocal
 from src.config import settings
@@ -21,13 +16,14 @@ from src.models.product_models import (
     ProductVariant,
 )
 from src.utils.common import generate_product_text
+from src.tools.client import embedding_client, chroma_client
 
+logging.basicConfig(level=logging.INFO)
+log = logging.getLogger(__name__)
 
-chroma_client = chromadb.HttpClient(host="chromadb", port=8000)
-embedding_client = OpenAI(
-    base_url=settings.OPENAI_ENDPOINT,
-    api_key=settings.OPENAI_EMBEDDING_API_KEY,
-)
+collection = chroma_client.get_or_create_collection(settings.COLLECTION_NAME)
+chat_history_collection = chroma_client.get_or_create_collection(settings.CHAT_HISTORY_COLLECTION)
+semantic_cached_collection = chroma_client.get_or_create_collection(settings.SEMANTIC_CACHE_COLLECTION)
 
 @shared_task
 def enqueue_text(text_data: dict):
@@ -65,7 +61,6 @@ def process_embedding_queue():
         )
         embeddings = [d.embedding for d in resp.data]
         log.info(f"Processed embedding for: {len(embeddings)} vectors")
-        collection = chroma_client.get_or_create_collection("product_variants")
         collection.add(ids=ids, embeddings=embeddings, documents=documents, metadatas=metadatas)
 
     return log.info(f"Processed {len(items)} items")
@@ -74,9 +69,9 @@ def process_embedding_queue():
 @celery_app.task(name="src.tasks.embedding_tasks.process_unembedding_queue")
 def process_unembedding_queue():
     async def async_task():
-        collection = chroma_client.get_or_create_collection("product_variants")
         result = collection.get(include=[])
         all_ids = result.get("ids", [])
+        variants = []
 
         async with AsyncSessionLocal() as session:
             results = await session.execute(
@@ -93,9 +88,31 @@ def process_unembedding_queue():
                 )
             )
             variants = results.scalars().unique().all()
-            log.info(f"Processing {len(variants)} product variants for unembedding")
-            for variant in variants:
-                variant_text = generate_product_text(variant)
-                enqueue_text(variant_text)
+
+        log.info(f"Processing {len(variants)} product variants for unembedding")
+        for variant in variants:
+            variant_text = generate_product_text(variant)
+            enqueue_text(variant_text)
 
     asyncio.run(async_task())
+
+
+def clear_collection(collection_embedding):
+    ids = collection_embedding.get()["ids"]
+    if ids:
+        collection_embedding.delete(ids=ids)
+
+
+@celery_app.task(name="src.tasks.embedding_tasks.clear_product_embedding")
+def clear_product_embedding():
+    clear_collection(collection)
+
+
+@celery_app.task(name="src.tasks.embedding_tasks.clear_history_chat_embedding")
+def clear_history_chat_embedding():
+    clear_collection(chat_history_collection)
+
+
+@celery_app.task(name="src.tasks.embedding_tasks.clear_semantic_cached_embedding")
+def clear_semantic_cached_embedding():
+    clear_collection(semantic_cached_collection)

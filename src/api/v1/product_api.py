@@ -1,7 +1,6 @@
 from uuid import UUID
 
 from fastapi import APIRouter, Depends, HTTPException, status
-
 from src.schemas.product_schemas import (
     ProductSchema,
     ProductCreateSchema,
@@ -23,7 +22,7 @@ async def create_product(
 
 @router.get("/{product_id}", response_model=ProductSchema)
 async def get_product(
-    product_id: UUID, service: ProductService = Depends(get_product_service)
+    product_id: UUID | str, service: ProductService = Depends(get_product_service)
 ):
     obj = await service.get(str(product_id))
     if not obj:

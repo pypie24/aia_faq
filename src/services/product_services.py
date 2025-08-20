@@ -1,9 +1,12 @@
+from ast import stmt
 from uuid import UUID
 from sqlalchemy.future import select
 
 from src.models.product_models import (
+    Category,
     ProductLines,
     Product,
+    Tag
 )
 from src.schemas.product_schemas import (
     ProductCreateSchema,
@@ -11,7 +14,7 @@ from src.schemas.product_schemas import (
 )
 from src.models.product_models import Brand
 from src.services.base_services import BaseServiceDBSession
-from src.utils.common import building_slug, update_obj_from_dict
+from src.utils.common import building_slug, update_obj_from_dict, is_valid_uuid4
 
 
 
@@ -32,13 +35,18 @@ class ProductService(BaseServiceDBSession):
     async def create(self, data: ProductCreateSchema) -> Product:
         obj = Product(**data.model_dump())
         obj.slug = await self._generate_slug(obj.name, obj.product_line_id)
+        obj.url = f"/products/{obj.slug}"
         self.session.add(obj)
         await self.session.commit()
         await self.session.refresh(obj)
         return obj
 
     async def get(self, obj_id: str) -> Product | None:
-        result = await self.session.execute(select(Product).where(Product.id == obj_id))
+        if is_valid_uuid4(str(obj_id)):
+            obj_id = str(UUID(obj_id))
+            result = await self.session.execute(select(Product).where(Product.id == obj_id))
+        else:
+            result = await self.session.execute(select(Product).where(Product.slug == obj_id))
         return result.scalar_one_or_none()
 
     async def update(self, obj_id: str, data: ProductUpdateSchema) -> Product | None:
@@ -48,6 +56,7 @@ class ProductService(BaseServiceDBSession):
             return None
         update_obj_from_dict(obj, data.model_dump(exclude_unset=True))
         obj.slug = await self._generate_slug(obj.name, obj.product_line_id)
+        obj.url = f"/products/{obj.slug}"
         await self.session.commit()
         await self.session.refresh(obj)
         return obj
@@ -78,3 +87,12 @@ class ProductService(BaseServiceDBSession):
             query = query.where(Product.product_line_id == product_line_id)
         result = await self.session.execute(query)
         return result.scalars().all()
+
+    async def get_product_keywords(self):
+        brands = await self.session.execute(select(Brand.name))
+        brand_names = brands.scalars().all()
+        categories = await self.session.execute(select(Category.name))
+        category_names = categories.scalars().all()
+        tags = await self.session.execute(select(Tag.name))
+        tag_names = tags.scalars().all()
+        return brand_names + category_names + tag_names

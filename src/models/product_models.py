@@ -90,6 +90,7 @@ class ProductVariant(BaseModel):
     specs = Column(JSON, nullable=True)
     url = Column(String, nullable=True)
     slug = Column(String, nullable=True)
+    images = Relationship("Image", back_populates="product_variant")
     tags = Relationship(
         "Tag", secondary="product_variant_tags", back_populates="variants"
     )
@@ -103,6 +104,19 @@ class ProductVariant(BaseModel):
             f"<ProductVariant(id={self.id}, product_id={self.product_id}, "
             f"name={self.name}, price={self.price}, stock={self.stock})>"
         )
+
+
+class Image(BaseModel):
+    __tablename__ = "images"
+
+    product_variant_id = Column(UUID, ForeignKey("product_variants.id"), nullable=False)
+    url = Column(String, nullable=False)
+    alt_text = Column(String, nullable=True)
+    product_variant = Relationship("ProductVariant", back_populates="images")
+    order = Column(Integer, nullable=True)
+
+    def __repr__(self):
+        return f"<Image(id={self.id}, product_variant_id={self.product_variant_id}, url={self.url})>"
 
 
 class Tag(BaseModel):

@@ -10,6 +10,7 @@ class ProductCreateSchema(BaseSchema):
     release_date: Optional[str] = None
     sku: Optional[str] = None
     url: Optional[str] = None
+    images: list[str] = []
 
     class Config:
         orm_mode = True

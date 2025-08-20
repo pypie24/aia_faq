@@ -27,6 +27,10 @@ class Settings(BaseSettings):
     POSTGRES_USER: str = os.environ["POSTGRES_USER"]
     POSTGRES_PASSWORD: str = os.environ["POSTGRES_PASSWORD"]
     POSTGRES_DB: str = os.environ["POSTGRES_DB"]
+    COLLECTION_NAME: str = os.getenv("COLLECTION_NAME", "product_variants")
+    CHAT_HISTORY_COLLECTION: str = os.getenv("CHAT_HISTORY_COLLECTION", "chat_history")
+    SEMANTIC_CACHE_COLLECTION: str = os.getenv("SEMANTIC_CACHE_COLLECTION", "semantic_cache")
+    MAX_HISTORY_ITEMS: int = int(os.getenv("MAX_HISTORY_ITEMS", 100))
     FILE_SERVER_BUCKET_NAME: str = os.getenv("FILE_SERVER_BUCKET_NAME", "faq-image")
     FILE_SERVER_ENDPOINT: str = os.environ["FILE_SERVER_ENDPOINT"]
     FILE_SERVER_ACCESS_KEY: str = os.environ["FILE_SERVER_ACCESS_KEY"]

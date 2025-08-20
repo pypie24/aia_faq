@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from src.db import init_db
 from src.config import settings
+from src.api.v1.chat import router as chat_router_v1
 from src.api.v1.brand_api import router as brands_router_v1
 from src.api.v1.category_api import router as categories_router_v1
 from src.api.v1.product_line_api import router as products_line_router_v1
@@ -33,12 +34,14 @@ def create_app() -> FastAPI:
         allow_methods=["*"],
         allow_headers=["*"],
     )
+    app.include_router(chat_router_v1, prefix="/api/v1")
     app.include_router(brands_router_v1, prefix="/api/v1")
     app.include_router(categories_router_v1, prefix="/api/v1")
     app.include_router(products_line_router_v1, prefix="/api/v1")
     app.include_router(products_router_v1, prefix="/api/v1")
     app.include_router(products_variant_router_v1, prefix="/api/v1")
     app.include_router(tags_router_v1, prefix="/api/v1")
+
     return app
 
 

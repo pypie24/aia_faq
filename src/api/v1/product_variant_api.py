@@ -1,6 +1,7 @@
+import os
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi import APIRouter, Depends, File, HTTPException, UploadFile
 
 from src.schemas.product_variant_schemas import (
     ProductVariantSchema,
@@ -24,7 +25,7 @@ async def create_product_variant(
 
 @router.get("/{variant_id}", response_model=ProductVariantSchema)
 async def get_product_variant(
-    variant_id: UUID,
+    variant_id: UUID | str,
     service: ProductVariantService = Depends(get_product_variant_service),
 ):
     obj = await service.get(str(variant_id))
@@ -66,3 +67,12 @@ async def list_product_variants(
     service: ProductVariantService = Depends(get_product_variant_service),
 ):
     return await service.list(brand_id, category_id, product_id, min_price, max_price, tags, skip, limit)
+
+
+@router.post("/{variant_id}/upload-images/")
+async def upload_variant_images(
+    variant_id: UUID,
+    files: list[UploadFile] = File(...),
+    service: ProductVariantService = Depends(get_product_variant_service)
+):
+    return await service.upload_images(variant_id, files)

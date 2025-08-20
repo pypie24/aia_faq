@@ -14,8 +14,12 @@ from src.models.product_models import (
     Tag,
     ProductVariantTag,
 )
-from src.tasks.embedding_tasks import process_unembedding_queue
-
+from src.tasks.embedding_tasks import (
+    process_unembedding_queue,
+    clear_product_embedding,
+    clear_history_chat_embedding,
+    clear_semantic_cached_embedding,
+)
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
@@ -128,6 +132,27 @@ def embeddingdb():
     log.info("Processing unembedding queue...")
     process_unembedding_queue()
     log.info("Unembedding queue processed.")
+
+
+@cli.command()
+def clear_product_embedded():
+    log.info("Processing product embedded queue...")
+    clear_product_embedding()
+    log.info("Product embedded queue processed.")
+
+
+@cli.command()
+def clear_semantic_embedded():
+    log.info("Processing semantic cached embedding queue...")
+    clear_semantic_cached_embedding()
+    log.info("Semantic cached embedding queue processed.")
+
+
+@cli.command()
+def clear_chat_embedded():
+    log.info("Processing chat embedding queue...")
+    clear_history_chat_embedding()
+    log.info("Chat embedding queue processed.")
 
 
 if __name__ == "__main__":

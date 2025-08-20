@@ -1,9 +1,12 @@
 from typing import AsyncGenerator, Any
+
+from redis.asyncio import Redis
 from sqlalchemy.dialects.postgresql import insert
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from sqlalchemy.orm import sessionmaker, declarative_base
 
 from src.config import settings
+
 
 engine = create_async_engine(settings.DATABASE_URL, echo=True)
 AsyncSessionLocal = sessionmaker(
@@ -28,6 +31,10 @@ async def get_db() -> AsyncGenerator[AsyncSession, None]:
     )
     async with async_session() as session:
         yield session
+
+
+async def get_redis() -> Redis:
+    return Redis(host="redis", port=6379, db=0)
 
 
 async def bulk_insert_ignore_conflicts(

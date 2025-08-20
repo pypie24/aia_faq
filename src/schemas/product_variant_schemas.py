@@ -31,6 +31,24 @@ class ProductVariantUpdateSchema(BaseSchema):
 class ProductVariantSchema(ProductVariantUpdateSchema):
     id: UUID
     slug: Optional[str] = None
+    images: Optional[list['ImageSchema']] = None
+
+    class Config:
+        orm_mode = True
+        json_encoders = {UUID: str}
+
+
+class ImageUpdateSchema(BaseSchema):
+    order: Optional[int] = None
+    alt_text: Optional[str] = None
+
+    class Config:
+        orm_mode = True
+
+
+class ImageSchema(ImageUpdateSchema):
+    id: UUID
+    url: str
 
     class Config:
         orm_mode = True

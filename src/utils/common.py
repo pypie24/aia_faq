@@ -1,4 +1,4 @@
-import json
+import uuid
 import re
 import itertools
 from typing import Generator
@@ -67,25 +67,29 @@ def flatten_spec(spec: dict, parent_key: str = "") -> list[str]:
 def generate_product_text(product_variant_model: object) -> str:
     brand_name = product_variant_model.product.product_line.brand.name
     category_name = product_variant_model.product.product_line.category.name
-    product_variant_desc = ". ".join(filter(None, [
-        product_variant_model.product.description, 
-        product_variant_model.product.product_line.description
-    ]))
     tags = [tag.name for tag in product_variant_model.tags]
     flattened_specs = flatten_spec({
-        "description": product_variant_desc,
         "specs": product_variant_model.specs
     })
+    product_variant_desc = f"""
+        Product Line Description: {product_variant_model.product.product_line.description}
+        Product Description: {product_variant_model.product.description}
+        URL: {product_variant_model.url}
+        Specs: {flattened_specs}
+    """
     return {
         "id": str(product_variant_model.id),
         "brand": brand_name,
         "category": category_name,
         "price": product_variant_model.price,
         "tags": tags,
-        "text": "\n".join(flattened_specs)
+        "text": product_variant_desc
     }
 
 
-data = {"description": "shortdescription", "specs": {"color": "Black", "battery": "3240 mAh", "chipset": "Apple A15 Bionic", "cpu type": "3.22 GHz", "display features": ["Super Retina XDR", "OLED", "460 ppi", "HDR display", "True Tone", "Wide color (P3)", "Haptic Touch", "Oleophobic coating (fingerprint-resistant)"], "display technology": "Super Retina XDR OLED", "front camera": "12MP, f/2.2", "internal storage": "128 GB", "nfc": True, "operating system": "iOS 15", "ram": "4 GB", "rear camera": {"ultra wide": "12MP, f/2.4", "wide": "12MP, f/1.6"}, "screen resolution": "2532 x 1170 pixels", "screen size": "6.1 inches", "sim": "Dual SIM (nano-SIM and eSIM)"}}
-text = "\n".join(flatten_spec(data))
-print(text)
+def is_valid_uuid4(value: str) -> bool:
+    try:
+        val = uuid.UUID(value, version=4)
+    except ValueError:
+        return False
+    return val.version == 4 and str(val) == value.lower()
