@@ -1,5 +1,5 @@
 # app/tasks/embedding_tasks.py
-import logging
+import json
 
 from openai import OpenAI
 import chromadb
@@ -15,6 +15,22 @@ minio_client = Minio(
     access_key=settings.FILE_SERVER_ACCESS_KEY,
     secret_key=settings.FILE_SERVER_SECRET_KEY,
     secure=False
+)
+
+minio_policy = {
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": {"AWS": "*"},
+            "Action": "s3:*",
+            "Resource": f"arn:aws:s3:::{settings.FILE_SERVER_BUCKET_NAME}/*"
+        }
+    ]
+}
+
+minio_client.set_bucket_policy(
+    settings.FILE_SERVER_BUCKET_NAME, json.dumps(minio_policy)
 )
 
 if not minio_client.bucket_exists(settings.FILE_SERVER_BUCKET_NAME):

@@ -2,8 +2,11 @@ import os
 from uuid import UUID
 
 from fastapi import APIRouter, Depends, File, HTTPException, UploadFile
+from importlib_metadata import files
 
 from src.schemas.product_variant_schemas import (
+    ImageUpdateSchema,
+    ImageSchema,
     ProductVariantSchema,
     ProductVariantCreateSchema,
     ProductVariantUpdateSchema,
@@ -69,10 +72,29 @@ async def list_product_variants(
     return await service.list(brand_id, category_id, product_id, min_price, max_price, tags, skip, limit)
 
 
-@router.post("/{variant_id}/upload-images/")
+@router.post("/{variant_id}/upload-images/", response_model=list[ImageSchema])
 async def upload_variant_images(
     variant_id: UUID,
     files: list[UploadFile] = File(...),
     service: ProductVariantService = Depends(get_product_variant_service)
 ):
-    return await service.upload_images(variant_id, files)
+    return await service.upload_images(str(variant_id), files)
+
+
+@router.put("/{variant_id}/images/{image_id}")
+async def update_image(
+    variant_id: UUID,
+    image_id: UUID,
+    data: ImageUpdateSchema,
+    service: ProductVariantService = Depends(get_product_variant_service)
+):
+    return await service.update_image(variant_id, image_id, data)
+
+
+@router.delete("/{variant_id}/images/{image_id}")
+async def delete_image(
+    variant_id: UUID,
+    image_id: UUID,
+    service: ProductVariantService = Depends(get_product_variant_service)
+):
+    return await service.delete_image(variant_id, image_id)

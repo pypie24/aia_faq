@@ -1,4 +1,5 @@
 import uuid
+from uuid import UUID
 import re
 import itertools
 from typing import Generator
@@ -87,7 +88,8 @@ def generate_product_text(product_variant_model: object) -> str:
     }
 
 
-def is_valid_uuid4(value: str) -> bool:
+def is_valid_uuid4(value: str | UUID) -> bool:
+    value = str(value).strip()
     try:
         val = uuid.UUID(value, version=4)
     except ValueError:

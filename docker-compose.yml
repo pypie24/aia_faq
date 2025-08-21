@@ -79,6 +79,25 @@ services:
     build: .
     container_name: celery_worker
     command: celery -A src.tasks.celery_app.celery_app worker --loglevel=info
+    env_file:
+      - .env
+    environment:
+      - OPENAI_ENDPOINT=${OPENAI_ENDPOINT}
+      - OPENAI_API_VERSION=${OPENAI_API_VERSION}
+      - OPENAI_LLM_API_KEY=${OPENAI_LLM_API_KEY}
+      - OPENAI_LLM_MODEL=${OPENAI_LLM_MODEL}
+      - OPENAI_EMBEDDING_API_KEY=${OPENAI_EMBEDDING_API_KEY}
+      - OPENAI_EMBEDDING_MODEL=${OPENAI_EMBEDDING_MODEL}
+      - POSTGRES_HOST=${POSTGRES_HOST}
+      - POSTGRES_PORT=${POSTGRES_PORT}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - FILE_SERVER_ENDPOINT=${FILE_SERVER_ENDPOINT}
+      - FILE_SERVER_ACCESS_KEY=${FILE_SERVER_ACCESS_KEY}
+      - FILE_SERVER_SECRET_KEY=${FILE_SERVER_SECRET_KEY}
+      - FILE_SERVER_BUCKET_NAME=${FILE_SERVER_BUCKET_NAME}
+      - ENVIRONMENT=${ENVIRONMENT}
     networks:
       - faq-network
     volumes:
@@ -91,6 +110,25 @@ services:
     build: .
     container_name: celery_beat
     command: celery -A src.tasks.celery_app.celery_app beat --loglevel=info
+    env_file:
+      - .env
+    environment:
+      - OPENAI_ENDPOINT=${OPENAI_ENDPOINT}
+      - OPENAI_API_VERSION=${OPENAI_API_VERSION}
+      - OPENAI_LLM_API_KEY=${OPENAI_LLM_API_KEY}
+      - OPENAI_LLM_MODEL=${OPENAI_LLM_MODEL}
+      - OPENAI_EMBEDDING_API_KEY=${OPENAI_EMBEDDING_API_KEY}
+      - OPENAI_EMBEDDING_MODEL=${OPENAI_EMBEDDING_MODEL}
+      - POSTGRES_HOST=${POSTGRES_HOST}
+      - POSTGRES_PORT=${POSTGRES_PORT}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - FILE_SERVER_ENDPOINT=${FILE_SERVER_ENDPOINT}
+      - FILE_SERVER_ACCESS_KEY=${FILE_SERVER_ACCESS_KEY}
+      - FILE_SERVER_SECRET_KEY=${FILE_SERVER_SECRET_KEY}
+      - FILE_SERVER_BUCKET_NAME=${FILE_SERVER_BUCKET_NAME}
+      - ENVIRONMENT=${ENVIRONMENT}
     networks:
       - faq-network
     volumes:

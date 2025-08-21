@@ -1,7 +1,10 @@
 from uuid import UUID, uuid4
+from typing import Any, List
+import logging
 
-from fastapi import HTTPException, UploadFile
+from fastapi import HTTPException
 from sqlalchemy.future import select
+from sqlalchemy.orm import selectinload
 
 from src.models.product_models import (
     Product,
@@ -20,6 +23,9 @@ from src.utils.common import building_slug, update_obj_from_dict, is_valid_uuid4
 from src.tasks.embedding_tasks import enqueue_text
 from src.tools.client import minio_client
 from src.config import settings
+
+logging.basicConfig(level=logging.INFO)
+log = logging.getLogger(__name__)
 
 
 class ProductVariantService(BaseServiceDBSession):
@@ -48,11 +54,15 @@ class ProductVariantService(BaseServiceDBSession):
     async def get(self, obj_id: str) -> ProductVariant | None:
         if is_valid_uuid4(obj_id):
             result = await self.session.execute(
-                select(ProductVariant).where(ProductVariant.id == obj_id)
+                select(ProductVariant).where(ProductVariant.id == obj_id).options(
+                    selectinload(ProductVariant.images)
+                )
             )
         else:
             result = await self.session.execute(
-                select(ProductVariant).where(ProductVariant.slug == obj_id)
+                select(ProductVariant).where(ProductVariant.slug == obj_id).options(
+                    selectinload(ProductVariant.images)
+                )
             )
         return result.scalar_one_or_none()
 
@@ -116,32 +126,32 @@ class ProductVariantService(BaseServiceDBSession):
         )
         return result.scalars().all()
 
-    async def upload_images(self, variant_id: str, files: list[UploadFile]) -> list[str]:
+    async def upload_images(self, variant_id: str, files: List[Any]) -> List[str]:
         variant = await self.get(variant_id)
         if not variant:
             raise HTTPException(status_code=404, detail="ProductVariant not found")
 
-        uploaded_urls = []
+        images = []
         for file in files:
-            file_name = variant.slug + f"_{uuid4()}.jpg"
-            file_path = f"product_variants/{variant.slug}/{file_name}"
-            # Upload the file to MinIO
+            file_name = "variants/" + variant.slug + f"_{uuid4()}.jpg"
             minio_client.put_object(
                 settings.FILE_SERVER_BUCKET_NAME,
-                file_path,
+                file_name,
                 file.file,
                 file.size
             )
-            public_url = minio_client.public_url(settings.FILE_SERVER_BUCKET_NAME, file_path)
-            image = Image(url=public_url, variant_id=variant.id)
+            public_url = f"http://127.0.0.1:9000/{settings.FILE_SERVER_BUCKET_NAME}/{file_name}"
+            image = Image(url=public_url, product_variant_id=variant.id)
             self.session.add(image)
-            uploaded_urls.append(public_url)
-        self.session.commit()
-        return uploaded_urls
+            images.append(image)
 
-    async def update_image(self, image_id: str, data: ImageUpdateSchema) -> Image | None:
+        await self.session.commit()
+        await self.session.refresh(variant, ["images"])
+        return variant.images
+
+    async def update_image(self, variant_id: str, image_id: str, data: ImageUpdateSchema) -> Image | None:
         result = await self.session.execute(
-            select(Image).where(Image.id == image_id)
+            select(Image).where(Image.id == image_id, Image.product_variant_id == variant_id)
         )
         image = result.scalar_one_or_none()
         if image is None:
@@ -150,3 +160,22 @@ class ProductVariantService(BaseServiceDBSession):
         await self.session.commit()
         await self.session.refresh(image)
         return image
+    
+    async def delete_image(self, variant_id: str, image_id: str) -> bool:
+        result = await self.session.execute(
+            select(Image).where(Image.id == image_id, Image.product_variant_id == variant_id)
+        )
+        image = result.scalar_one_or_none()
+        if image is None:
+            return False
+        
+        await self.session.delete(image)
+        await self.session.commit()
+        image_url = image.url.split("/")[-1]
+        file_name = f"variants/{image_url}"
+        log.info(f"Deleting image from MinIO: {file_name}")
+        minio_client.remove_object(
+            settings.FILE_SERVER_BUCKET_NAME,
+            file_name
+        )
+        return True
