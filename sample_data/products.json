@@ -922,5 +922,705 @@
         "product_line_id": "ec24d830-c797-47da-a235-45045241fe20",
         "slug": "laptop-asus-rog-flow-x13-2025",
         "id": "03265ad6-5682-4212-bc5c-9656d7343838"
+    },
+    {
+        "name": "Lenovo Series Model 44",
+        "description": "Lenovo Series Model 44 is a high-performance device from Lenovo Series.",
+        "product_line_id": "521ee96b-81d2-4ce8-8276-64db190485cf",
+        "slug": "lenovo-series-model-44",
+        "id": "d575ff62-ee1b-460e-88d3-fce6aee3c1ce"
+    },
+    {
+        "name": "Lenovo Series Model 18",
+        "description": "Lenovo Series Model 18 is a high-performance device from Lenovo Series.",
+        "product_line_id": "521ee96b-81d2-4ce8-8276-64db190485cf",
+        "slug": "lenovo-series-model-18",
+        "id": "85991c21-6d40-4adf-ae73-fd93b3cd4c35"
+    },
+    {
+        "name": "LG Series Model 36",
+        "description": "LG Series Model 36 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-36",
+        "id": "78f57546-a11f-4147-b6c2-070e8592c482"
+    },
+    {
+        "name": "Samsung Series Model 27",
+        "description": "Samsung Series Model 27 is a high-performance device from Samsung Series.",
+        "product_line_id": "dc5d36b1-3c09-4a90-af54-64879098dfe4",
+        "slug": "samsung-series-model-27",
+        "id": "f3027ebf-df97-4c3f-af1a-b1077a3f8530"
+    },
+    {
+        "name": "Sony Series Model 38",
+        "description": "Sony Series Model 38 is a high-performance device from Sony Series.",
+        "product_line_id": "e31389d2-da4f-409e-a8cc-142797ecc223",
+        "slug": "sony-series-model-38",
+        "id": "12c3f7e5-945c-4424-b5ee-d0183413076d"
+    },
+    {
+        "name": "Dell Series Model 37",
+        "description": "Dell Series Model 37 is a high-performance device from Dell Series.",
+        "product_line_id": "63fbcef4-e9c3-44c2-af32-58b6884d1823",
+        "slug": "dell-series-model-37",
+        "id": "813ae038-216d-40f5-b39f-79eb1e1acfe3"
+    },
+    {
+        "name": "Samsung Series Model 4",
+        "description": "Samsung Series Model 4 is a high-performance device from Samsung Series.",
+        "product_line_id": "dc5d36b1-3c09-4a90-af54-64879098dfe4",
+        "slug": "samsung-series-model-4",
+        "id": "d4ed22b0-79d2-4968-8a57-528baefa5396"
+    },
+    {
+        "name": "Logitech Series Model 33",
+        "description": "Logitech Series Model 33 is a high-performance device from Logitech Series.",
+        "product_line_id": "53487d9b-352d-4069-a00d-3c62dd01eac2",
+        "slug": "logitech-series-model-33",
+        "id": "bcf825fb-25f9-47a7-96fd-bb59d3e2e0cf"
+    },
+    {
+        "name": "Sony Series Model 48",
+        "description": "Sony Series Model 48 is a high-performance device from Sony Series.",
+        "product_line_id": "e31389d2-da4f-409e-a8cc-142797ecc223",
+        "slug": "sony-series-model-48",
+        "id": "09e2b10e-2aa9-44bc-b7d9-b5bf8cf51c1d"
+    },
+    {
+        "name": "Razer Series Model 41",
+        "description": "Razer Series Model 41 is a high-performance device from Razer Series.",
+        "product_line_id": "d3931665-5a9a-477d-ba67-bf2accb85310",
+        "slug": "razer-series-model-41",
+        "id": "b935688a-2717-4744-bd03-b28160e7219f"
+    },
+    {
+        "name": "Lenovo Series Model 42",
+        "description": "Lenovo Series Model 42 is a high-performance device from Lenovo Series.",
+        "product_line_id": "521ee96b-81d2-4ce8-8276-64db190485cf",
+        "slug": "lenovo-series-model-42",
+        "id": "67f710f7-1c70-4d2f-a274-05b666d2ffb2"
+    },
+    {
+        "name": "Sony Series Model 9",
+        "description": "Sony Series Model 9 is a high-performance device from Sony Series.",
+        "product_line_id": "e31389d2-da4f-409e-a8cc-142797ecc223",
+        "slug": "sony-series-model-9",
+        "id": "f15d51f7-8d8c-4883-be9d-9686f5a90b53"
+    },
+    {
+        "name": "Sony Series Model 32",
+        "description": "Sony Series Model 32 is a high-performance device from Sony Series.",
+        "product_line_id": "e31389d2-da4f-409e-a8cc-142797ecc223",
+        "slug": "sony-series-model-32",
+        "id": "e0e58217-23a4-4827-9310-ec30d5798bee"
+    },
+    {
+        "name": "MSI Series Model 45",
+        "description": "MSI Series Model 45 is a high-performance device from MSI Series.",
+        "product_line_id": "2f86505e-0c07-4f11-b686-e1de35ff1855",
+        "slug": "msi-series-model-45",
+        "id": "83465a25-0b81-492d-86c5-92060b77a77d"
+    },
+    {
+        "name": "Huawei Series Model 42",
+        "description": "Huawei Series Model 42 is a high-performance device from Huawei Series.",
+        "product_line_id": "530d2b61-6dad-4f39-8118-4652779c1bca",
+        "slug": "huawei-series-model-42",
+        "id": "e139c4fa-f7bf-49f9-8200-2578338c0b91"
+    },
+    {
+        "name": "Apple Series Model 7",
+        "description": "Apple Series Model 7 is a high-performance device from Apple Series.",
+        "product_line_id": "02047ea4-d26b-41a7-9eb8-9d169f3b4336",
+        "slug": "apple-series-model-7",
+        "id": "1aabd888-46f3-4d45-84c2-068ccc8788b8"
+    },
+    {
+        "name": "LG Series Model 29",
+        "description": "LG Series Model 29 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-29",
+        "id": "cb7f91c2-1723-42dc-bf1b-7e3a9a943d5f"
+    },
+    {
+        "name": "MSI Series Model 1",
+        "description": "MSI Series Model 1 is a high-performance device from MSI Series.",
+        "product_line_id": "2f86505e-0c07-4f11-b686-e1de35ff1855",
+        "slug": "msi-series-model-1",
+        "id": "4a8a3ee2-f63a-4a8f-848a-7696d60d5f79"
+    },
+    {
+        "name": "Canon Series Model 16",
+        "description": "Canon Series Model 16 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-16",
+        "id": "c7524d69-68ac-4a4c-8558-30a52c614043"
+    },
+    {
+        "name": "Baseus Series Model 37",
+        "description": "Baseus Series Model 37 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-37",
+        "id": "6cf99f99-06db-42a6-84cd-15662f785b4b"
+    },
+    {
+        "name": "Oppo Series Model 7",
+        "description": "Oppo Series Model 7 is a high-performance device from Oppo Series.",
+        "product_line_id": "41098348-5264-448e-be5a-229c8d675c3e",
+        "slug": "oppo-series-model-7",
+        "id": "a0edfab8-247b-49f9-8df4-a89de459e4d4"
+    },
+    {
+        "name": "Acer Series Model 6",
+        "description": "Acer Series Model 6 is a high-performance device from Acer Series.",
+        "product_line_id": "6b975b0e-1dc1-4ee7-a96c-e47036d4fab8",
+        "slug": "acer-series-model-6",
+        "id": "1e12c480-e9a6-46ae-bb6b-e8bcccdf7170"
+    },
+    {
+        "name": "MSI Series Model 19",
+        "description": "MSI Series Model 19 is a high-performance device from MSI Series.",
+        "product_line_id": "2f86505e-0c07-4f11-b686-e1de35ff1855",
+        "slug": "msi-series-model-19",
+        "id": "1a97f8b3-cf7c-4d7a-a7ef-1131f79235c8"
+    },
+    {
+        "name": "Sony Series Model 34",
+        "description": "Sony Series Model 34 is a high-performance device from Sony Series.",
+        "product_line_id": "e31389d2-da4f-409e-a8cc-142797ecc223",
+        "slug": "sony-series-model-34",
+        "id": "960358bb-0fd1-4130-8e4a-3dbae1ff28bd"
+    },
+    {
+        "name": "Huawei Series Model 3",
+        "description": "Huawei Series Model 3 is a high-performance device from Huawei Series.",
+        "product_line_id": "530d2b61-6dad-4f39-8118-4652779c1bca",
+        "slug": "huawei-series-model-3",
+        "id": "73af54a9-ddf3-4219-964b-23bbaf2ab0af"
+    },
+    {
+        "name": "Anker Series Model 33",
+        "description": "Anker Series Model 33 is a high-performance device from Anker Series.",
+        "product_line_id": "dd043a8c-f1f0-45a1-9c20-161bd14ad505",
+        "slug": "anker-series-model-33",
+        "id": "8b7b6c9c-012d-4905-ab26-5e1433825d21"
+    },
+    {
+        "name": "Baseus Series Model 5",
+        "description": "Baseus Series Model 5 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-5",
+        "id": "b0f30426-e429-4446-b590-3d76f12195fb"
+    },
+    {
+        "name": "Apple Series Model 23",
+        "description": "Apple Series Model 23 is a high-performance device from Apple Series.",
+        "product_line_id": "02047ea4-d26b-41a7-9eb8-9d169f3b4336",
+        "slug": "apple-series-model-23",
+        "id": "5f2ff0de-42ad-4824-ad9f-b6f6a66952eb"
+    },
+    {
+        "name": "LG Series Model 6",
+        "description": "LG Series Model 6 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-6",
+        "id": "e0f08bc8-d84d-4a77-92b8-5a7f0179b7aa"
+    },
+    {
+        "name": "Vivo Series Model 40",
+        "description": "Vivo Series Model 40 is a high-performance device from Vivo Series.",
+        "product_line_id": "ba9c3341-6cb1-4348-8dd3-9e00850975c2",
+        "slug": "vivo-series-model-40",
+        "id": "af759cdd-2f99-4311-9486-81eac669af4a"
+    },
+    {
+        "name": "Dell Series Model 19",
+        "description": "Dell Series Model 19 is a high-performance device from Dell Series.",
+        "product_line_id": "63fbcef4-e9c3-44c2-af32-58b6884d1823",
+        "slug": "dell-series-model-19",
+        "id": "1cfc9578-266e-4bb6-8974-1c34be68a387"
+    },
+    {
+        "name": "Xiaomi Series Model 44",
+        "description": "Xiaomi Series Model 44 is a high-performance device from Xiaomi Series.",
+        "product_line_id": "36e49a0e-90c8-4332-9287-d4b9887b18f9",
+        "slug": "xiaomi-series-model-44",
+        "id": "a15571d2-436d-4c71-ae4c-fd1a26dc7600"
+    },
+    {
+        "name": "Baseus Series Model 23",
+        "description": "Baseus Series Model 23 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-23",
+        "id": "7e739732-7150-428f-a8df-f76c8779c7e7"
+    },
+    {
+        "name": "Canon Series Model 31",
+        "description": "Canon Series Model 31 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-31",
+        "id": "a632a415-7d23-4eed-b41a-2d76e38d97df"
+    },
+    {
+        "name": "Canon Series Model 50",
+        "description": "Canon Series Model 50 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-50",
+        "id": "a84b769c-602c-4b83-be42-4fc2f8ccd1f1"
+    },
+    {
+        "name": "Asus Series Model 1",
+        "description": "Asus Series Model 1 is a high-performance device from Asus Series.",
+        "product_line_id": "35de88f7-31d8-47c5-84e5-ab665cdf34d3",
+        "slug": "asus-series-model-1",
+        "id": "eb2cbb7c-7720-40b2-a2c3-d41ef06693b6"
+    },
+    {
+        "name": "Dell Series Model 49",
+        "description": "Dell Series Model 49 is a high-performance device from Dell Series.",
+        "product_line_id": "63fbcef4-e9c3-44c2-af32-58b6884d1823",
+        "slug": "dell-series-model-49",
+        "id": "02748200-ccb0-477c-b2ce-441c4667a09b"
+    },
+    {
+        "name": "Oppo Series Model 30",
+        "description": "Oppo Series Model 30 is a high-performance device from Oppo Series.",
+        "product_line_id": "41098348-5264-448e-be5a-229c8d675c3e",
+        "slug": "oppo-series-model-30",
+        "id": "611073e2-f329-4b4d-8e70-8c62c5d30d4f"
+    },
+    {
+        "name": "Huawei Series Model 30",
+        "description": "Huawei Series Model 30 is a high-performance device from Huawei Series.",
+        "product_line_id": "530d2b61-6dad-4f39-8118-4652779c1bca",
+        "slug": "huawei-series-model-30",
+        "id": "a3d0e084-2e3e-41f5-a56a-cd549b6e74e1"
+    },
+    {
+        "name": "Anker Series Model 12",
+        "description": "Anker Series Model 12 is a high-performance device from Anker Series.",
+        "product_line_id": "dd043a8c-f1f0-45a1-9c20-161bd14ad505",
+        "slug": "anker-series-model-12",
+        "id": "9b6cc6ff-0c46-4c19-a69d-9533a1e218bf"
+    },
+    {
+        "name": "Asus Series Model 7",
+        "description": "Asus Series Model 7 is a high-performance device from Asus Series.",
+        "product_line_id": "35de88f7-31d8-47c5-84e5-ab665cdf34d3",
+        "slug": "asus-series-model-7",
+        "id": "073a8fdb-8329-4da5-afa1-c6c42436da24"
+    },
+    {
+        "name": "Apple Series Model 17",
+        "description": "Apple Series Model 17 is a high-performance device from Apple Series.",
+        "product_line_id": "02047ea4-d26b-41a7-9eb8-9d169f3b4336",
+        "slug": "apple-series-model-17",
+        "id": "c18ef3c4-2eb7-40e1-913c-5911c8388508"
+    },
+    {
+        "name": "Anker Series Model 38",
+        "description": "Anker Series Model 38 is a high-performance device from Anker Series.",
+        "product_line_id": "dd043a8c-f1f0-45a1-9c20-161bd14ad505",
+        "slug": "anker-series-model-38",
+        "id": "c5a831c8-1822-493c-a7c8-fa33d4fbd5c1"
+    },
+    {
+        "name": "Razer Series Model 33",
+        "description": "Razer Series Model 33 is a high-performance device from Razer Series.",
+        "product_line_id": "d3931665-5a9a-477d-ba67-bf2accb85310",
+        "slug": "razer-series-model-33",
+        "id": "41846db3-03d3-450d-9c39-3bb16d3ebf42"
+    },
+    {
+        "name": "Canon Series Model 46",
+        "description": "Canon Series Model 46 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-46",
+        "id": "ee5fbef9-f726-43b1-aace-172474de871c"
+    },
+    {
+        "name": "Dell Series Model 33",
+        "description": "Dell Series Model 33 is a high-performance device from Dell Series.",
+        "product_line_id": "63fbcef4-e9c3-44c2-af32-58b6884d1823",
+        "slug": "dell-series-model-33",
+        "id": "fe076efe-c559-4165-ba35-06a8b35b07ae"
+    },
+    {
+        "name": "Xiaomi Series Model 17",
+        "description": "Xiaomi Series Model 17 is a high-performance device from Xiaomi Series.",
+        "product_line_id": "36e49a0e-90c8-4332-9287-d4b9887b18f9",
+        "slug": "xiaomi-series-model-17",
+        "id": "44bfc259-fb9d-484d-8c63-cd025678d9ff"
+    },
+    {
+        "name": "Baseus Series Model 19",
+        "description": "Baseus Series Model 19 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-19",
+        "id": "c7096e4a-8f03-4491-8da6-94da517c6631"
+    },
+    {
+        "name": "Canon Series Model 42",
+        "description": "Canon Series Model 42 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-42",
+        "id": "c53bdc49-59c6-4d52-ad1c-2d0033b3b679"
+    },
+    {
+        "name": "Huawei Series Model 22",
+        "description": "Huawei Series Model 22 is a high-performance device from Huawei Series.",
+        "product_line_id": "530d2b61-6dad-4f39-8118-4652779c1bca",
+        "slug": "huawei-series-model-22",
+        "id": "0027a12f-b10d-4e5d-afdc-eae20f4dc292"
+    },
+    {
+        "name": "Canon Series Model 25",
+        "description": "Canon Series Model 25 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-25",
+        "id": "53daba72-0661-4b5d-bc0b-5a2107fd8e34"
+    },
+    {
+        "name": "Xiaomi Series Model 43",
+        "description": "Xiaomi Series Model 43 is a high-performance device from Xiaomi Series.",
+        "product_line_id": "36e49a0e-90c8-4332-9287-d4b9887b18f9",
+        "slug": "xiaomi-series-model-43",
+        "id": "f6c1af42-ad8c-4507-b6bf-c706be7fa0ba"
+    },
+    {
+        "name": "Lenovo Series Model 11",
+        "description": "Lenovo Series Model 11 is a high-performance device from Lenovo Series.",
+        "product_line_id": "521ee96b-81d2-4ce8-8276-64db190485cf",
+        "slug": "lenovo-series-model-11",
+        "id": "00b331d3-7082-4592-9d81-132f4c25aff2"
+    },
+    {
+        "name": "LG Series Model 4",
+        "description": "LG Series Model 4 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-4",
+        "id": "a56c10ff-6156-4a9f-acec-e88346c236a3"
+    },
+    {
+        "name": "Logitech Series Model 17",
+        "description": "Logitech Series Model 17 is a high-performance device from Logitech Series.",
+        "product_line_id": "53487d9b-352d-4069-a00d-3c62dd01eac2",
+        "slug": "logitech-series-model-17",
+        "id": "9cb25fbb-980e-44b2-9edd-c47af8365912"
+    },
+    {
+        "name": "Lenovo Series Model 38",
+        "description": "Lenovo Series Model 38 is a high-performance device from Lenovo Series.",
+        "product_line_id": "521ee96b-81d2-4ce8-8276-64db190485cf",
+        "slug": "lenovo-series-model-38",
+        "id": "4f7ae098-94c4-4542-8ae2-642670ba51db"
+    },
+    {
+        "name": "Anker Series Model 19",
+        "description": "Anker Series Model 19 is a high-performance device from Anker Series.",
+        "product_line_id": "dd043a8c-f1f0-45a1-9c20-161bd14ad505",
+        "slug": "anker-series-model-19",
+        "id": "f0bd32dc-78ef-4d24-87ca-5ada29da3d39"
+    },
+    {
+        "name": "LG Series Model 2",
+        "description": "LG Series Model 2 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-2",
+        "id": "a26550eb-538b-440e-bfbb-6a5cabcaca2a"
+    },
+    {
+        "name": "LG Series Model 4",
+        "description": "LG Series Model 4 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-4",
+        "id": "6416c501-86f7-4632-bac8-a258bee3cc33"
+    },
+    {
+        "name": "Acer Series Model 49",
+        "description": "Acer Series Model 49 is a high-performance device from Acer Series.",
+        "product_line_id": "6b975b0e-1dc1-4ee7-a96c-e47036d4fab8",
+        "slug": "acer-series-model-49",
+        "id": "a1ff05fd-201c-4dd9-8d61-281bcf687b8d"
+    },
+    {
+        "name": "Asus Series Model 40",
+        "description": "Asus Series Model 40 is a high-performance device from Asus Series.",
+        "product_line_id": "35de88f7-31d8-47c5-84e5-ab665cdf34d3",
+        "slug": "asus-series-model-40",
+        "id": "b8b55d9f-fa07-46a1-b8d4-4cf2a0bd1473"
+    },
+    {
+        "name": "Nikon Series Model 47",
+        "description": "Nikon Series Model 47 is a high-performance device from Nikon Series.",
+        "product_line_id": "5e2d976e-36d9-43a7-9e84-b19b0f70afc8",
+        "slug": "nikon-series-model-47",
+        "id": "17d2b84b-e0d5-42e4-bfe5-c45cc61fd2ab"
+    },
+    {
+        "name": "Samsung Series Model 21",
+        "description": "Samsung Series Model 21 is a high-performance device from Samsung Series.",
+        "product_line_id": "dc5d36b1-3c09-4a90-af54-64879098dfe4",
+        "slug": "samsung-series-model-21",
+        "id": "cb77188d-68fa-4e8d-a033-de5abb400e30"
+    },
+    {
+        "name": "Canon Series Model 37",
+        "description": "Canon Series Model 37 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-37",
+        "id": "09988cdc-7303-4d49-917a-ca683b4de58c"
+    },
+    {
+        "name": "Xiaomi Series Model 22",
+        "description": "Xiaomi Series Model 22 is a high-performance device from Xiaomi Series.",
+        "product_line_id": "36e49a0e-90c8-4332-9287-d4b9887b18f9",
+        "slug": "xiaomi-series-model-22",
+        "id": "7aa55bb4-7ea9-4e02-9dcc-dcc8ac21deee"
+    },
+    {
+        "name": "Apple Series Model 6",
+        "description": "Apple Series Model 6 is a high-performance device from Apple Series.",
+        "product_line_id": "02047ea4-d26b-41a7-9eb8-9d169f3b4336",
+        "slug": "apple-series-model-6",
+        "id": "4d409ce1-e7cc-4654-943a-a5cceeed20a6"
+    },
+    {
+        "name": "Samsung Series Model 20",
+        "description": "Samsung Series Model 20 is a high-performance device from Samsung Series.",
+        "product_line_id": "dc5d36b1-3c09-4a90-af54-64879098dfe4",
+        "slug": "samsung-series-model-20",
+        "id": "b96223db-f7bc-4585-bb7d-150c8ec82c9d"
+    },
+    {
+        "name": "Nikon Series Model 21",
+        "description": "Nikon Series Model 21 is a high-performance device from Nikon Series.",
+        "product_line_id": "5e2d976e-36d9-43a7-9e84-b19b0f70afc8",
+        "slug": "nikon-series-model-21",
+        "id": "5a2ffe6c-c006-4619-a926-72979f16c580"
+    },
+    {
+        "name": "Baseus Series Model 10",
+        "description": "Baseus Series Model 10 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-10",
+        "id": "a5b1dd72-f543-46e0-9e45-5f9fda02e57c"
+    },
+    {
+        "name": "Acer Series Model 40",
+        "description": "Acer Series Model 40 is a high-performance device from Acer Series.",
+        "product_line_id": "6b975b0e-1dc1-4ee7-a96c-e47036d4fab8",
+        "slug": "acer-series-model-40",
+        "id": "0f52d9af-3912-42a1-a7af-4c8de4e4a3bd"
+    },
+    {
+        "name": "Vivo Series Model 48",
+        "description": "Vivo Series Model 48 is a high-performance device from Vivo Series.",
+        "product_line_id": "ba9c3341-6cb1-4348-8dd3-9e00850975c2",
+        "slug": "vivo-series-model-48",
+        "id": "05e3b4bc-21a8-4b3a-ab05-b30f2fa3fc79"
+    },
+    {
+        "name": "Nikon Series Model 36",
+        "description": "Nikon Series Model 36 is a high-performance device from Nikon Series.",
+        "product_line_id": "5e2d976e-36d9-43a7-9e84-b19b0f70afc8",
+        "slug": "nikon-series-model-36",
+        "id": "6abb2e76-92c5-496b-85ea-e873c931949a"
+    },
+    {
+        "name": "Lenovo Series Model 25",
+        "description": "Lenovo Series Model 25 is a high-performance device from Lenovo Series.",
+        "product_line_id": "521ee96b-81d2-4ce8-8276-64db190485cf",
+        "slug": "lenovo-series-model-25",
+        "id": "0fe32816-1634-40a4-b312-2c340b1bda8a"
+    },
+    {
+        "name": "Anker Series Model 10",
+        "description": "Anker Series Model 10 is a high-performance device from Anker Series.",
+        "product_line_id": "dd043a8c-f1f0-45a1-9c20-161bd14ad505",
+        "slug": "anker-series-model-10",
+        "id": "377a9803-7873-4342-be8f-6469b8062c8d"
+    },
+    {
+        "name": "Baseus Series Model 27",
+        "description": "Baseus Series Model 27 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-27",
+        "id": "4a05e7aa-bb8f-44e0-bc53-6e3ee77c82a4"
+    },
+    {
+        "name": "Asus Series Model 16",
+        "description": "Asus Series Model 16 is a high-performance device from Asus Series.",
+        "product_line_id": "35de88f7-31d8-47c5-84e5-ab665cdf34d3",
+        "slug": "asus-series-model-16",
+        "id": "f93cbceb-afb5-45dc-9337-0f8e248e5447"
+    },
+    {
+        "name": "Xiaomi Series Model 14",
+        "description": "Xiaomi Series Model 14 is a high-performance device from Xiaomi Series.",
+        "product_line_id": "36e49a0e-90c8-4332-9287-d4b9887b18f9",
+        "slug": "xiaomi-series-model-14",
+        "id": "9b3c1739-21bc-438d-afb2-0cc9ff55fae1"
+    },
+    {
+        "name": "Razer Series Model 27",
+        "description": "Razer Series Model 27 is a high-performance device from Razer Series.",
+        "product_line_id": "d3931665-5a9a-477d-ba67-bf2accb85310",
+        "slug": "razer-series-model-27",
+        "id": "0ba9d2a8-69ca-4587-8a0e-e152d3132862"
+    },
+    {
+        "name": "Asus Series Model 3",
+        "description": "Asus Series Model 3 is a high-performance device from Asus Series.",
+        "product_line_id": "35de88f7-31d8-47c5-84e5-ab665cdf34d3",
+        "slug": "asus-series-model-3",
+        "id": "02408a37-1821-4805-a3ed-4ded3fe8e399"
+    },
+    {
+        "name": "Canon Series Model 40",
+        "description": "Canon Series Model 40 is a high-performance device from Canon Series.",
+        "product_line_id": "d55561c1-bd11-4b41-930d-d435058a1c0d",
+        "slug": "canon-series-model-40",
+        "id": "1d3110f1-9ccd-4524-b72d-fd39ad419d29"
+    },
+    {
+        "name": "MSI Series Model 37",
+        "description": "MSI Series Model 37 is a high-performance device from MSI Series.",
+        "product_line_id": "2f86505e-0c07-4f11-b686-e1de35ff1855",
+        "slug": "msi-series-model-37",
+        "id": "572b2437-73d8-48f0-a54d-f4a4666e6e9e"
+    },
+    {
+        "name": "Asus Series Model 27",
+        "description": "Asus Series Model 27 is a high-performance device from Asus Series.",
+        "product_line_id": "35de88f7-31d8-47c5-84e5-ab665cdf34d3",
+        "slug": "asus-series-model-27",
+        "id": "8f4d0d11-bf40-4305-bdd3-af94e0f9b04e"
+    },
+    {
+        "name": "LG Series Model 50",
+        "description": "LG Series Model 50 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-50",
+        "id": "098bef4f-0c95-42ef-96ec-8a895ed18d6f"
+    },
+    {
+        "name": "Baseus Series Model 30",
+        "description": "Baseus Series Model 30 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-30",
+        "id": "f2d3ccfc-877e-4d98-a0de-f29c1113523f"
+    },
+    {
+        "name": "MSI Series Model 46",
+        "description": "MSI Series Model 46 is a high-performance device from MSI Series.",
+        "product_line_id": "2f86505e-0c07-4f11-b686-e1de35ff1855",
+        "slug": "msi-series-model-46",
+        "id": "99364e52-3e11-48f2-b9de-abb4c09a0ec0"
+    },
+    {
+        "name": "Lenovo Series Model 27",
+        "description": "Lenovo Series Model 27 is a high-performance device from Lenovo Series.",
+        "product_line_id": "521ee96b-81d2-4ce8-8276-64db190485cf",
+        "slug": "lenovo-series-model-27",
+        "id": "0a40ff76-dd03-4f01-8b36-8171f9c72f1d"
+    },
+    {
+        "name": "Anker Series Model 43",
+        "description": "Anker Series Model 43 is a high-performance device from Anker Series.",
+        "product_line_id": "dd043a8c-f1f0-45a1-9c20-161bd14ad505",
+        "slug": "anker-series-model-43",
+        "id": "93e4c67f-f0e0-436e-8f79-54c4ab5e270d"
+    },
+    {
+        "name": "LG Series Model 9",
+        "description": "LG Series Model 9 is a high-performance device from LG Series.",
+        "product_line_id": "945dff27-3d61-4565-9d89-671f426cd6e4",
+        "slug": "lg-series-model-9",
+        "id": "9ad2e7f1-2129-402e-8ccc-06581eb49404"
+    },
+    {
+        "name": "Huawei Series Model 19",
+        "description": "Huawei Series Model 19 is a high-performance device from Huawei Series.",
+        "product_line_id": "530d2b61-6dad-4f39-8118-4652779c1bca",
+        "slug": "huawei-series-model-19",
+        "id": "4be3296e-364b-4bd0-b51a-0221c038bb2f"
+    },
+    {
+        "name": "Oppo Series Model 7",
+        "description": "Oppo Series Model 7 is a high-performance device from Oppo Series.",
+        "product_line_id": "41098348-5264-448e-be5a-229c8d675c3e",
+        "slug": "oppo-series-model-7",
+        "id": "9c180882-4811-438a-a7c3-7db142c5f4b1"
+    },
+    {
+        "name": "Huawei Series Model 26",
+        "description": "Huawei Series Model 26 is a high-performance device from Huawei Series.",
+        "product_line_id": "530d2b61-6dad-4f39-8118-4652779c1bca",
+        "slug": "huawei-series-model-26",
+        "id": "5854f35c-4e8d-44bf-9d89-44d7e12a7e82"
+    },
+    {
+        "name": "Razer Series Model 35",
+        "description": "Razer Series Model 35 is a high-performance device from Razer Series.",
+        "product_line_id": "d3931665-5a9a-477d-ba67-bf2accb85310",
+        "slug": "razer-series-model-35",
+        "id": "db460973-1b77-421a-90c9-8da128db5014"
+    },
+    {
+        "name": "Baseus Series Model 20",
+        "description": "Baseus Series Model 20 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-20",
+        "id": "e9afd4c3-3abe-4533-9ced-d3ff601d441a"
+    },
+    {
+        "name": "Dell Series Model 7",
+        "description": "Dell Series Model 7 is a high-performance device from Dell Series.",
+        "product_line_id": "63fbcef4-e9c3-44c2-af32-58b6884d1823",
+        "slug": "dell-series-model-7",
+        "id": "5c3476b1-dcb3-4e1f-bf3d-c0ed886659dc"
+    },
+    {
+        "name": "Huawei Series Model 25",
+        "description": "Huawei Series Model 25 is a high-performance device from Huawei Series.",
+        "product_line_id": "530d2b61-6dad-4f39-8118-4652779c1bca",
+        "slug": "huawei-series-model-25",
+        "id": "1e033ece-8c7d-43a0-8ba8-39c7f99f6020"
+    },
+    {
+        "name": "Razer Series Model 1",
+        "description": "Razer Series Model 1 is a high-performance device from Razer Series.",
+        "product_line_id": "d3931665-5a9a-477d-ba67-bf2accb85310",
+        "slug": "razer-series-model-1",
+        "id": "753bb6af-c21f-41b8-a3fa-4d7b794f794f"
+    },
+    {
+        "name": "Sony Series Model 21",
+        "description": "Sony Series Model 21 is a high-performance device from Sony Series.",
+        "product_line_id": "e31389d2-da4f-409e-a8cc-142797ecc223",
+        "slug": "sony-series-model-21",
+        "id": "0fd96f13-ab2f-433f-b99e-f822c978a834"
+    },
+    {
+        "name": "Asus Series Model 47",
+        "description": "Asus Series Model 47 is a high-performance device from Asus Series.",
+        "product_line_id": "35de88f7-31d8-47c5-84e5-ab665cdf34d3",
+        "slug": "asus-series-model-47",
+        "id": "e7107a9b-08fa-4669-a472-1c4ed5e30679"
+    },
+    {
+        "name": "Baseus Series Model 47",
+        "description": "Baseus Series Model 47 is a high-performance device from Baseus Series.",
+        "product_line_id": "887318af-cfba-4d29-88f8-4bf60476da00",
+        "slug": "baseus-series-model-47",
+        "id": "1fda95b0-2b5f-41d2-9f87-421c5e8f7b25"
+    },
+    {
+        "name": "Xiaomi Series Model 18",
+        "description": "Xiaomi Series Model 18 is a high-performance device from Xiaomi Series.",
+        "product_line_id": "36e49a0e-90c8-4332-9287-d4b9887b18f9",
+        "slug": "xiaomi-series-model-18",
+        "id": "f3964c49-7ba7-4da3-af9c-4ca60a2665ba"
     }
 ]
