@@ -99,8 +99,6 @@ class ProductVariantService(BaseServiceDBSession):
 
     async def list(
             self,
-            brand_id: UUID = None,
-            category_id: UUID = None,
             product_id: UUID = None,
             min_price: float = None,
             max_price: float = None,
@@ -109,10 +107,6 @@ class ProductVariantService(BaseServiceDBSession):
             limit: int = 20
         ) -> list[ProductVariant]:
         query = select(ProductVariant)
-        if brand_id:
-            query = query.where(ProductVariant.product.product_line.brand_id == brand_id)
-        if category_id:
-            query = query.where(ProductVariant.product.product_line.category_id == category_id)
         if product_id:
             query = query.where(ProductVariant.product_id == product_id)
         if min_price is not None:
@@ -121,10 +115,16 @@ class ProductVariantService(BaseServiceDBSession):
             query = query.where(ProductVariant.price <= max_price)
         if tags:
             query = query.where(ProductVariant.tags.any(Tag.id.in_(tags)))
+
         result = await self.session.execute(
-            query.offset(skip).limit(limit)
+            query.options(
+                selectinload(ProductVariant.images),
+                selectinload(ProductVariant.tags)
+            ).offset(skip).limit(limit)
         )
-        return result.scalars().all()
+        variants = result.scalars().all()
+        log.info(f"[API] variants: {variants}")
+        return variants
 
     async def upload_images(self, variant_id: str, files: List[Any]) -> List[str]:
         variant = await self.get(variant_id)

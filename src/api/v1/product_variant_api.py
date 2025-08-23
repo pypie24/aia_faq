@@ -59,8 +59,6 @@ async def delete_product_variant(
 
 @router.get("/", response_model=list[ProductVariantSchema])
 async def list_product_variants(
-    brand_id: UUID = None,
-    category_id: UUID = None,
     product_id: UUID = None,
     min_price: float = None,
     max_price: float = None,
@@ -69,7 +67,7 @@ async def list_product_variants(
     limit: int = 20,
     service: ProductVariantService = Depends(get_product_variant_service),
 ):
-    return await service.list(brand_id, category_id, product_id, min_price, max_price, tags, skip, limit)
+    return await service.list(product_id, min_price, max_price, tags, skip, limit)
 
 
 @router.post("/{variant_id}/upload-images/", response_model=list[ImageSchema])

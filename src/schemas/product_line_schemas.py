@@ -27,6 +27,8 @@ class ProductLinesUpdateSchema(ProductLinesCreateSchema):
 
 class ProductLinesSchema(ProductLinesUpdateSchema):
     id: UUID
+    brand: Optional[str]
+    category: Optional[str]
 
     class Config:
         orm_mode = True
