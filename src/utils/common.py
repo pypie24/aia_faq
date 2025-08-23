@@ -75,7 +75,7 @@ def generate_product_text(product_variant_model: object) -> str:
     product_variant_desc = f"""
         Product Line Description: {product_variant_model.product.product_line.description}
         Product Description: {product_variant_model.product.description}
-        Prices: {product_variant_model.price}
+        Price: {product_variant_model.price}
         URL: {product_variant_model.url}
         Specs: {flattened_specs}
     """
