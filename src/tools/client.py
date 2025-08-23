@@ -2,6 +2,7 @@
 import json
 
 from openai import OpenAI
+from google import genai
 import chromadb
 from minio import Minio
 
@@ -45,4 +46,8 @@ embedding_client = OpenAI(
 llm_client = OpenAI(
     base_url=settings.OPENAI_ENDPOINT,
     api_key=settings.OPENAI_LLM_API_KEY,
+)
+
+gemini_client = genai.Client(
+    api_key=settings.GEMINI_API_KEY,
 )

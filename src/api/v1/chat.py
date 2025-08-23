@@ -12,6 +12,7 @@ from src.tools.client import (
 from src.services.chat_services import (
     RAG,
     OpenAiClient,
+    GeminiClient,
     Reflection,
     GuardedRAGAgent
 )
@@ -26,13 +27,11 @@ rag = RAG(
     collection_name=settings.COLLECTION_NAME,
 )
 
-llm = OpenAiClient()
-
 reflection = Reflection(
-    llm=llm,
     chat_history_collection=settings.CHAT_HISTORY_COLLECTION,
     semantic_cache_collection=settings.SEMANTIC_CACHE_COLLECTION
 )
+
 
 agent_router = GuardedRAGAgent(
     rag=rag,

@@ -21,6 +21,8 @@ class Settings(BaseSettings):
     OPENAI_EMBEDDING_API_KEY: str = os.environ["OPENAI_EMBEDDING_API_KEY"]
     OPENAI_EMBEDDING_MODEL: str = os.environ["OPENAI_EMBEDDING_MODEL"]
     OPENAI_API_VERSION: str = os.environ["OPENAI_API_VERSION"]
+    GEMINI_API_KEY: str = os.environ["GEMINI_API_KEY"]
+    GEMINI_MODEL: str = os.environ["GEMINI_MODEL"]
     ENVIRONMENT: str = os.environ["ENVIRONMENT"]
     POSTGRES_HOST: str = os.environ["POSTGRES_HOST"]
     POSTGRES_PORT: str = os.environ["POSTGRES_PORT"]

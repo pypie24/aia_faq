@@ -4,26 +4,72 @@ import uuid
 
 from openai import OpenAI
 
-from src.tools.client import chroma_client, llm_client
+from src.tools.client import chroma_client, llm_client, gemini_client
+from src.config import settings
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
 
 OPEN_AI_ROLE_MAPPING = {"human": "user", "ai": "assistant"}
+GEMINI_AI_ROLE_MAPPING = {"human": "user", "ai": "model"}
 DEFAULT_SEARCH_LIMIT = 5
 
 
-class OpenAiClient:
+class LLMClient:
+    mapping_message: dict = {}
+
+    def restructure_content(self, messages: list[dict]):
+        new_message = []
+        for message in messages:
+            mes = {
+                "role": self.mapping_message.get(message.get("role")),
+                "content": self.mapping_message.get(message.get("content"))
+            }
+            new_message.append(mes)
+        return new_message
+
+
+class OpenAiClient(LLMClient):
     def __init__(self):
         self.client = llm_client
+        self.mapping_message = OPEN_AI_ROLE_MAPPING
 
     def chat(self, messages, model="gpt-4o-mini"):
+        re_messages = self.restructure_content(messages)
         response = self.client.chat.completions.create(
             model=model,
-            messages=messages
+            messages=re_messages
         )
         # Trả về thẳng string content thay vì object
         return response.choices[0].message.content
+
+
+class GeminiClient(LLMClient):
+    def __init__(self):
+        self.client = gemini_client
+        self.mapping_message = GEMINI_AI_ROLE_MAPPING
+    
+    def restructure_content(self, messages: list[dict]):
+        new_message = []
+        for message in messages:
+            mes = {
+                "role": self.mapping_message.get(message.get("role")),
+                "parts": [{"text": message.get("content")}]
+            }
+            new_message.append(mes)
+        return new_message
+
+    def chat(self, messages, model=settings.GEMINI_MODEL):
+        re_messages = self.restructure_content(messages)
+        response = self.client.models.generate_content(
+            model=model,
+            contents=re_messages
+        )
+        return response.text
+
+
+llm = OpenAiClient()
+gemini_llm = GeminiClient()
 
 
 class RAG:
@@ -68,9 +114,58 @@ class RAG:
             log.debug(f"  {r['_id']}: {r['title']}, distance={r['distance']:.4f}")
         return results
 
-    def hybrid_search(self, query_embedding: list, limit: int = DEFAULT_SEARCH_LIMIT):
+    def keyword_search(self, query: str, limit=DEFAULT_SEARCH_LIMIT):
+        """Tìm document dựa trên từ khóa text."""
+        if not query:
+            return []
+ 
+        results_raw = self.collection.query(
+            query_texts=[query],
+            n_results=limit
+        )
+        results = self._format_results(results_raw)
+        print(f"[DEBUG] Keyword search results ({len(results)} items):")
+        for r in results:
+            print(f"  {r['_id']}: {r['title']}, distance={r['distance']:.4f}")
+        return results
+ 
+    def reciprocal_rank_fusion(self, result_lists, k=60):
+        """
+        Kết hợp nhiều danh sách kết quả bằng Reciprocal Rank Fusion (RRF).
+        result_lists: list các danh sách kết quả từ các search method.
+        """
+        scores = {}
+        for results in result_lists:
+            for rank, item in enumerate(results):
+                doc_id = item["_id"]
+                # RRF score
+                score = 1.0 / (k + rank + 1)
+                scores[doc_id] = scores.get(doc_id, 0) + score
+ 
+        # Gom lại thông tin từ kết quả gốc (ưu tiên cái xuất hiện trước)
+        id_to_doc = {}
+        for results in result_lists:
+            for item in results:
+                if item["_id"] not in id_to_doc:
+                    id_to_doc[item["_id"]] = item
+ 
+        # Sort theo score
+        fused = sorted(id_to_doc.values(), key=lambda x: scores.get(x["_id"], 0), reverse=True)
+        return fused
+ 
+    def hybrid_search(self, query_embedding: list, query_text: str = "", limit=DEFAULT_SEARCH_LIMIT):
+        """
+        Kết hợp vector search và keyword search, dùng RRF để fusion.
+        query_embedding: vector embedding của câu hỏi
+        query_text: text của câu hỏi
+        """
         vector_results = self.vector_search(query_embedding, limit)
-        return vector_results
+        keyword_results = self.keyword_search(query_text, limit) if query_text else []
+        fused_results = self.reciprocal_rank_fusion([vector_results, keyword_results])
+        print(f"[DEBUG] Hybrid search fused results ({len(fused_results)} items):")
+        for r in fused_results[:limit]:
+            print(f"  {r['_id']}: {r['title']}")
+        return fused_results[:limit]
 
     def enhance_prompt(self, query_embedding: list):
         results = self.hybrid_search(query_embedding)
@@ -86,10 +181,9 @@ class RAG:
 
 
 class Reflection:
-    def __init__(self, llm: OpenAiClient, chat_history_collection: str, semantic_cache_collection: str):
+    def __init__(self, chat_history_collection: str, semantic_cache_collection: str):
         self.history_collection = chroma_client.get_or_create_collection(name=chat_history_collection)
         self.semantic_cache_collection = chroma_client.get_or_create_collection(name=semantic_cache_collection)
-        self.llm = llm
 
     def chat(self, session_id: str, enhanced_message: str, original_message: str = '', cache_response: bool = False, query_embedding: list = None):
         # Build full prompt with context
@@ -105,6 +199,7 @@ class Reflection:
         5. Khi nhận các câu hỏi không liên quan đến sản phẩm, hãy thân thiện hướng dẫn khách hàng đến các chủ đề liên quan đến các sản phẩm.
         6. Khi nhận các câu hỏi về thông tin sản phẩm, có thể lấy từ `Product Line Description` và `Product Description`, khi các câu hỏi liên quan đến thông số kỹ thuật như: màu sắc, dung lượng pin, camera, hãy sử dụng `Specs` để trả lời.
         7. Khi được hỏi link hoặc url của sản phẩm. hãy lấy thông tin từ `Url` và đính kèm format: `Links: {url}`
+        8. Khi được hỏi về giá sản phẩm, hãy lấy thông tin từ `Price`
         Hãy làm cho khách hàng cảm thấy được chào đón và quan tâm!
         """
         system_prompt = [{"role": "system", "content": system_prompt_content}]
@@ -112,7 +207,10 @@ class Reflection:
         user_prompt = [{"role": "user", "content": enhanced_message}]
         messages = system_prompt + session_msgs + user_prompt
 
-        response_text = self.llm.chat(messages)
+        try:
+            response_text = llm.chat(messages)
+        except:
+            response_text = gemini_llm.chat(messages)
 
         # Lưu history
         self.__record_human_prompt__(session_id, enhanced_message, original_message)
@@ -207,7 +305,7 @@ class GuardedRAGAgent:
             And the following product tags: {tags}
             Is this query related to a product? Respond with "yes" or "no".
         """
-        response = self.fallback_reflection.llm.chat([{"role": "user", "content": prompt}])
+        response = self.fallback_reflection.chat([{"role": "user", "content": prompt}])
         log.debug(f"[DEBUG] Product query check response: {response}")
         return response.lower() == "yes"
 
@@ -227,7 +325,7 @@ class GuardedRAGAgent:
             """
         }]
 
-        rewritten = self.fallback_reflection.llm.chat(prompt)
+        rewritten = self.fallback_reflection.chat(prompt)
         log.debug(f"[DEBUG] Rewritten query: {rewritten[:300]}")  # show first 300 chars
         self.last_rewritten_query = rewritten
         return rewritten
